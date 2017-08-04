@@ -6,16 +6,16 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Neat Eye Gallery
-subtitle: A base Eye Gallery built on Bourbon and Neat
-name: Alun Ward
-description: A base theme built on Bourbon and Neat
+title: Susan Moxley
+subtitle: Susan Moxley Eye Gallery built on Bourbon and Neat
+name: Susan Moxley
+description: Susan Moxley art gallery site
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.example.com"
+url: "http://www.susanmoxley.com/"
 logo: "/siteicon.png"
 email: a.ward@eyedivision.com
 
@@ -52,7 +52,7 @@ defaults:
 # ga_tracking_id: "UA-XXXX-1"
 
 # Google Recaptcha for contact form
-# recaptcha_site_key: 6Ld_UCsUAAAAAOff_4JE6Uq5ZfKicBMZefuoaQsD
+recaptcha_site_key: 6LdG2RMUAAAAADkwuQpRKoEuSRdl6CkylWN0Bb3t
 
 # Social icons and sharing options
 #

@@ -1,0 +1,30 @@
+/* ----------------------------------------------------/
+basic stylesheet for Eye Gallery pages  
+works for NS 4.8 etc - linked not imported
+(c) 2006 EyeDivision www.eyedivision.co.uk 
+info@eyedivision.co.uk 
+/-----------------------------------------------------*/
+
+h1 { font-size: 1.4em; }
+h2 { font-size: 1.2em; }
+h3 { font-size: 1em; }
+
+B, strong { color: #000000; text-decoration: none ; font-weight: bold; }
+
+body
+{
+	font-family:verdana, helvetica, arial, sans-serif;
+	font-size:100%;
+	color:#000;
+	background-color:#FFF;
+	margin:0px;
+}
+a {  border-bottom:none; text-decoration: none;  }
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none;}
+
+.required {
+	color:#CC0000;
+}
