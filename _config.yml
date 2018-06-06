@@ -18,7 +18,7 @@ description: An Eye Division site
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net"
+url: "http://outrageous-hurricane.cloudvent.net"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 
