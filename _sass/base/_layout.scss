@@ -17,3 +17,64 @@ body {
 body {
   margin: 0;
 }
+
+.navigation, .site-footer {
+    //@include flex(none);
+    //@include flex(1 0 auto);
+}
+.navigation {
+    //grid-area: header;
+}
+.site-footer {
+    //grid-area: footer;
+}
+.page-content {
+    //@include flex(1 0 auto);
+    //-area: page;
+}
+
+section {
+    clear: both;
+    padding: 1rem 0;
+}
+
+.page-content {
+  @include grid-container;
+    max-width: 1200px;
+    padding: 1em;
+    background-color: $white;
+    @include grid-media ($medium) {
+      padding: 1em 0;
+    }
+    margin: 1em;
+    .page {
+       padding: 1em;
+    }
+    /// index.html
+    .site-header-container {
+        color: $white;
+        text-shadow: 0 2px 1px rgba(0,0,0,0.33);
+        background-color: $highlight-color;
+        .site-header{
+            .title {
+                font-size: modular-scale(6);
+            }
+            .subtitle {
+                font-style: italic;
+                font-size: modular-scale(1);
+            }
+        }
+    }
+    img {
+        display: block;
+        margin: auto;
+        max-width: 100%;
+    }
+}
+
+.half {
+    @include grid-column(12);
+    @include grid-media ($small) {
+        @include grid-column(6);
+    }
+}

@@ -1,0 +1,44 @@
+---
+layout: page
+title: "Case studies"
+permalink: /casestudies/
+main_image_path: ""
+---
+<section class="casestudy-intro editable">
+
+</section>
+
+{% assign casestudies = site.casestudies | where:"archive",false | sort: "order" %}
+
+{% if casestudies %}
+
+<section class="casestudies-current">
+
+  {% for casestudy in casestudies %}
+
+  <article class="casestudy {% cycle 'alpha', '', 'last' %}">
+    <a href="{{ casestudy.url }}" title="{{ casestudy.title }}">
+      {% if casestudy.main_image_path %}
+          {% include img.html src=casestudy.main_image_path width=400 height=300 %}
+      {% else %}
+          {% include img.html src="/siteicon.png" width=400 height=300 %}
+      {% endif %}
+    </a>
+      <div class="casestudy-caption">
+          {% if casestudy.short_description_markdown %}
+            <p>{{ casestudy.short_description_markdown | markdownify }}</p>
+          {% endif %}
+      </div>
+
+
+    <a href="{{ casestudy.url }}" title="{{ casestudy.title }}">
+      <div class="casestudy-title">
+          <h3>{{ casestudy.title }}</h3>
+      </div>
+    </a>
+
+  </article>
+  {% endfor %}
+</section>
+{% endif %}
+

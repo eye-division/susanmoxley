@@ -17,3 +17,11 @@ dt {
 dd {
   margin: 0;
 }
+
+ol.default {
+    @extend %default-ol !optional;
+}
+
+ul.default {
+    @extend %default-ul !optional;
+}

@@ -1,12 +1,5 @@
 ---
 layout: home
-carousel:
-  - image: /assets/images/advert-customers.jpg
-    caption: "A test caption"
-    link: /gallery/test/
-  - image: /assets/images/advert-impregnable.jpg
-    caption:
-    link:
 _options:
   image:
     width: 1200
@@ -14,87 +7,82 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-  carousel: Edit the slideshow
-  link: Optional web link from the slide
-  caption: optional caption
+
 ---
+<div class="editable">
+  <h1>Welcome to KindleCo</h1>
 
-    <div class="editable">
-    <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
-    </div>
+    <p><strong>Working in the interests of Children, Young People &amp; Families</strong></p>
 
-    {% if page.carousel %}
-    <!-- <div class="two-thirds no-gutter"> -->
-    <section>
-      <h2>This is a demo slideshow</h2>
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.link %}
-              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
-              {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.link %}
-              </a>
-            {% endif %}
-              {% if slides.caption %}
-              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      <!-- </div> -->
-      {% endif %}
+    <p>KindleCo delivers organisational consultancy, multi-agency project coaching and  partnership mentoring for social purpose organisations and the Public Sector. </p>
 
-      <!-- Regular page promotions on front page -->
-      {% for section in site.pages %}
+    <p>We specialise in supporting the sector champions of</p>
+    <ul>
+      <li>Social Inclusion</li>
+      <li>Mental Health &amp; Wellbeing</li>
+      <li>Education &amp; Skills</li>
+    </ul>
 
-      {% if section.frontpage %}
+    <p>The work is led by <strong>Jo Broad</strong>, an experienced public sector strategist and Leader of multi-agency projects and partnerships.</p>
 
-        {% if section.main_image_path %}
-          <section class="gallery-cover has-cover" style="background-image: url({{ section.main_image_path }});">
-        {% else %}
-          <section class="gallery-cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+    <h2><strong>KindleCo is values - led and outcomes – driven</strong>:</h2>
+
+    <p>I commit to work in <strong>collaboration</strong>, with <strong>courage</strong>, <strong>compassion</strong> and <strong>creativity</strong> to: <strong>Co produce</strong> effective partnerships, <strong>lead</strong> engaging projects &amp; <strong>foster</strong> high aspirations to <strong>serve</strong> our most valuable assets: <strong>Children, Young People &amp; Families</strong>. </p>
+
+    <p>Through KindleCo, I share experience gained over the past 25+ years working with and through the Public Sector, enabling you and your key partners to deliver social purpose objectives in the bigger picture. </p>
+
+    <h2>I will build your confidence and capacity to engage with government - influenced programmes, policy and in partnerships.</h2>
+
+    <p>I want to help you build impact and resilience into your work streams, into your organisation and ultimately into the sector. </p>
+
+    <p>By working creatively and with the courage of our convictions, I believe we can all deliver a lasting meaningful contribution for children, young people and families.</p>
+
+    <p>My services can support your organisation to:</p>
+    <ul>
+      <li><strong>respond</strong> confidently to sector change</li>
+      <li><strong>plan</strong> strategically</li>
+      <li><strong>build</strong> capacity</li>
+      <li><strong>design</strong> new services</li>
+      <li><strong>broker</strong> strategic alliances &amp; partnerships</li>
+      <li><strong>develop</strong> stakeholder networks</li>
+      <li><strong>deliver</strong> multi-agency projects</li>
+      <li><strong>enrich</strong> &amp; underpin organisational development</li>
+      <li><strong>lead</strong> with and through others</li>
+    </ul>
+
+    <p>Collaborative endeavour is my rocket fuel and I want it to be yours too.</p>
+
+    <blockquote>
+      <p>Jo understands the ethos of organisations that innovate and knows how to deliver results</p>
+    </blockquote>
+
+   <p><a href="/testimonials/">View more client testimonials.......</a></p>
+
+</div>
+
+<section class="blog">
+
+      {% for post in site.posts limit: 4 %}
+        <a href="{{ post.url | prepend: site.baseurl }}"><h4>{{ post.title }}</h4></a>
+
+        {% if post.main_image_path %}
+          <figure class="featured--col">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+            {% assign alt_text = post.title %}
+            {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
+            {% include img.html src=post.main_image_path width=200 alt=alt_text %}
+            </a>
+          </figure>
         {% endif %}
-          <a href="{{ section.url | prepend: site.baseurl }}">
-            <div class="scrim has-cover">
-              <article class="gallery--front">
-                <header class="gallery-header">
-                  <h2 class="title">{{ section.frontpagetitle }}</h2>
-                </header>
-                {% if section.homepage_description_markdown %}
-                  {{ section.homepage_description_markdown  | markdownify }}<br>
-                  <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
-                {% endif %}
-            </article>
-          </div>
-          </a>
-        </section>
-
-      {% endif %}
-
-    {% endfor %}
-
-      <!-- Galleries -->
-    {% for gallery in site.gallery %}
-      {% if gallery.frontpage %}
-        <section class="gallery-cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery-header">
-                <h2 class="title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown %}
-                {{ gallery.homepage_description_markdown | markdownify }}
-              {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
-      {% endif %}
-    {% endfor %}
+        {% if post.main_image_path %}<p class="with--feature">{% else %}<p>{% endif %}
+        {{ post.excerpt | markdownify }} <a href="{{ post.url | prepend: site.baseurl }}">read more</a></p>
+        <div class="post-meta">
+          <!-- <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div> -->
+          <!-- Editor Link -->
+          <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
+        </div>
+        <p></p>
+        </li>
+      {% endfor %}
+  </section>
