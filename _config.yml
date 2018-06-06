@@ -73,7 +73,7 @@ defaults:
 #ga_tracking_id: ""
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: ""
+recaptcha_site_key: "6LfnsF0UAAAAAKjnb2DDtrYpGufEu9y6owbSWygR"
 
 # Social icons and sharing options
 #
