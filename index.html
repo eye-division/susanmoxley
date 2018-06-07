@@ -84,7 +84,7 @@ _comments:
         {% if post.main_image_path %}<p class="with--feature">{% else %} <p>{% endif %}
         {{ post.excerpt | markdownify }} <a href="{{ post.url | prepend: site.baseurl }}">read more&nbsp;&raquo;</a></p>
         <div class="post-meta">
-          <!-- <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div> -->
+          <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
           <!-- Editor Link -->
           <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
         </div>
