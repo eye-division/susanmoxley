@@ -64,7 +64,7 @@ _comments:
 
     <ul class="posts-list">
 
-      {% for post in site.posts limit: 4 %}
+      {% for post in site.posts limit:2 %}
 
         <li class="post--inlist">
           <a href="{{ post.url | prepend: site.baseurl }}"><h4>{{ post.title }}</h4></a>
@@ -91,4 +91,5 @@ _comments:
         </li>
       {% endfor %}
     </ul>
+
   </section>
