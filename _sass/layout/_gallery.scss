@@ -67,29 +67,29 @@
 .gallery-box-large {
     padding-bottom: 1em;
     text-align: center;
-    @include grid-media ($medium) {
-        @include grid-column(4);
+    @include grid-media ($small) {
+        @include grid-column(2);
     }
 }
 .gallery-box-50 {
     padding-bottom: 1em;
     text-align: center;
-    @include grid-media ($medium) {
-        @include grid-column(6);
+    @include grid-media ($small) {
+        @include grid-column(2);
     }
 }
 .gallery-box-home {
-    @include grid-media ($medium) {
-        @include grid-column(6);
+    @include grid-media ($small) {
+        @include grid-column(2);
     }
 }
 .alpha {
-    @include grid-media ($medium) {
+    @include grid-media ($small) {
         clear: both;
     }
 }
 .last {
-    @include grid-media ($medium) {
+    @include grid-media ($small) {
         //@include omega();
     }
 }

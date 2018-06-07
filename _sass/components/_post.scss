@@ -4,43 +4,21 @@
 
 .posts-list {
     @extend %default-ul !optional;
-    li {
-        padding: modular-scale(-4);
-        padding-left: 0;
-    }
-    .desc {
-        font-size: 0.9em;
-    }
-    .post-date {
-        color: $medium-gray;
+    //@include grid-container;
+    //@include grid-visual;
+}
+
+.post--inlist {
+    padding: modular-scale(-4);
+    padding-left: 0;
+    @include grid-media($small) { // half page width on 488px and above
+        @include grid-column(2);
     }
 }
-.post-header {
-    padding: 0;
-    h1 {
-        padding-bottom: 0;
-        /*margin-bottom: 0;*/
-    }
-}
-.post-list {
-    padding-top: 1em !important;
-    @extend %default-ul !optional;
-}
+
+
 .post-meta {
-    @include grid-container;
-    // padding: 1em 0;
-    color: $medium-gray;
-    .post-date {
-        @include grid-column(6);
-        text-align: left;
-        font-size: 0.9em;
-    }
-    .post-categories {
-        @include grid-column(6);
-        margin-right: 0;
-        text-align: right;
-        font-size: 0.9em;
-    }
+
 }
 .pagination {
     padding-top: 2em;
@@ -51,7 +29,7 @@
     }
 }
 
-///   Posts
+///   Full Posts
 .post {
     ul {
         margin-bottom: 1em;
@@ -73,17 +51,17 @@
     .rss {
         margin: 1em 0 0 0;
         @include grid-column(12);
-        @include grid-media ($medium) {
+        @include grid-media ($small) {
             margin: 1em 0;
-            @include grid-column(6);
+            @include grid-column(2);
         }
     }
     .share {
         font-weight: bold;
         margin: 0 0 1em 0;
         @include grid-column(12);
-        @include grid-media ($medium) {
-            @include grid-column(6);
+        @include grid-media ($small) {
+            @include grid-column(2);
             margin: 1em 0;
             text-align: right;
         }

@@ -6,8 +6,7 @@ project_to_date:
 list: false
 archive: false
 short_description_markdown: >-
-  "To mark  #WMHD 2017, I published my very first article on LinkedIn. My great thanks to all those who read, liked, shared and gave me such valuable feedback, including on Twitter.
-  Link to the article follows here."
+  To mark  #WMHD 2017, I published my very first article on LinkedIn. My great thanks to all those who read, liked, shared and gave me such valuable feedback, including on Twitter.
 main_image_path:
 main_image_description:
 video_embed:

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Emotional health and mental wellbeing
+title: "Emotional health and mental wellbeing: vulnerable children, their families and professional supporters - reflective spaces"
 date: 2017-06-09 15:21:00
 categories: 
   - News
-main_image_path: /assets/images/advert-impregnable.jpg
+main_image_path: 
 images:
-  - image_path: /assets/images/advert-impregnable.jpg
-    description: "Impregnable Fortress"
+  - image_path: 
+    description: 
 _options:
   main_image_path:
     width: 1200
@@ -15,8 +15,6 @@ _options:
     resize_style: "contain"
     mime_type: "image/jpeg"
 ---
-
-##EMOTIONAL HEALTH & MENTAL WELLBEING: VULNERABLE CHILDREN, THEIR FAMILIES AND PROFESSIONAL SUPPORTERS - REFLECTIVE SPACES
 
 New statutory guidance, emphasising the importance of Mental Health provision in supporting Looked After Children, was published back in March 2015. Marked by an excellent event hosted by NCB, contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, Health, Education and Social Care. 
 

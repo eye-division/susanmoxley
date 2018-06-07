@@ -1,5 +1,7 @@
 - title: "Home"
   href: "/"
+- title: "Services"
+  href: "/services/"
 - title: "About"
   href: "/about/"
 - title: "Case studies"

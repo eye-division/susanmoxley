@@ -95,14 +95,14 @@ social:
   - name: Facebook
     icon: icon-facebook_sign
     username:
-    url: https://www.facebook.com/eyedivision
+    url:
     desc: Like on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
     username:
-    url: https://instagram.com/eyedivision
+    url:
     desc: Follow me on Instagram
     share: false
 
@@ -116,9 +116,10 @@ social:
   - name: Pinterest
     icon: icon-pinterest
     username:
-    url: http://uk.pinterest.com/
+    url:
     desc: Follow me on Pinterest
     share: true
+
 
 # https://uk.linkedin.com/pub/jo-broad/0/666/669
 #

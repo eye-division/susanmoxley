@@ -25,3 +25,7 @@ ol.default {
 ul.default {
     @extend %default-ul !optional;
 }
+.list--horizontal {
+  display: inline;
+  padding-right: 1em;
+}

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Continuing to support developments
+title: "Continuing to support developments at innovative national children's charity"
 date: 2017-06-09 15:21:00
 categories: 
   - News
-main_image_path: /assets/images/advert-impregnable.jpg
+main_image_path: 
 images:
-  - image_path: /assets/images/advert-impregnable.jpg
-    description: "Impregnable Fortress"
+  - image_path: 
+    description: 
 _options:
   main_image_path:
     width: 1200
@@ -15,8 +15,6 @@ _options:
     resize_style: "contain"
     mime_type: "image/jpeg"
 ---
-
-##KINDLECO: CONTINUING TO SUPPORT DEVELOPMENTS AT INNOVATIVE NATIONAL CHILDREN'S CHARITY
 
 >“As a national charity at the cutting edge of support for vulnerable children &amp; families, The Mulberry Bush Organisation has to evolve in response to government led change – and now is no exception", says John Diamond, CEO. 
 
