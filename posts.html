@@ -16,9 +16,8 @@ _options:
   </div>
   <section class="blog">
 
-    <ul class="posts-list">
+      {% for post in site.posts limit:4 %}
 
-      {% for post in site.posts limit: 4 %}
         <li class="post--inlist">
 
           <a href="{{ post.url | prepend: site.baseurl }}">
@@ -29,24 +28,28 @@ _options:
 
             <figure class="featured--col">
               <a href="{{ post.url | prepend: site.baseurl }}">
-                {% assign alt_text = post.title %}
-                {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
-                {% include img.html src=post.main_image_path width=200 alt=alt_text %}
+              {% assign alt_text = post.title %}
+              {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
+              {% include img.html src=post.main_image_path width=200 alt=alt_text %}
               </a>
             </figure>
 
           {% endif %}
 
-          <p{% if post.main_image_path %} class="with--feature"{% endif %}>
-          {{ post.excerpt | markdownify }} <a href="{{ post.url | prepend: site.baseurl }}">read more&nbsp;&raquo;</a></p>
+          {% if post.main_image_path %}
+             <p class="with--feature">
+          {% else %}
+            <p>
+          {% endif %}
 
+          {{ post.excerpt | markdownify }} <a href="{{ post.url | prepend: site.baseurl }}">read more&nbsp;&raquo;</a></p>
           <div class="post-meta">
-            <!-- <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div> -->
+            <div class="post-date">{{ post.date | date: "%B %Y" }}</div>
             <!-- Editor Link -->
             <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
           </div>
 
         </li>
+
       {% endfor %}
-    </ul>
   </section>
