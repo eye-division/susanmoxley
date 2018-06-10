@@ -17,7 +17,7 @@ _comments:
     <p>KindleCo delivers organisational consultancy, multi-agency project coaching and  partnership mentoring for social purpose organisations and the Public Sector. </p>
 
     <p>We specialise in supporting the sector champions of</p>
-    <ul>
+    <ul class="list--bulleted">
       <li>Social Inclusion</li>
       <li>Mental Health &amp; Wellbeing</li>
       <li>Education &amp; Skills</li>
@@ -38,7 +38,7 @@ _comments:
     <p>By working creatively and with the courage of our convictions, I believe we can all deliver a lasting meaningful contribution for children, young people and families.</p>
 
     <p>My services can support your organisation to:</p>
-    <ul>
+    <ul class="list--bulleted">
       <li><strong>respond</strong> confidently to sector change</li>
       <li><strong>plan</strong> strategically</li>
       <li><strong>build</strong> capacity</li>
@@ -56,7 +56,7 @@ _comments:
       <p>Jo understands the ethos of organisations that innovate and knows how to deliver results</p>
     </blockquote>
 
-  <!-- <p><a href="/testimonials/">View more client testimonials.......</a></p> -->
+  <p><a href="/testimonials/">View more client testimonials.......</a></p>
 
 </div>
 
@@ -68,33 +68,23 @@ _comments:
 
         <li class="post--inlist">
 
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <h4>{{ post.title }}</h4>
+          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" class="post--image">
+            {% if post.main_image_path %}
+                {% include img.html src=post.main_image_path max-w=400 %}
+            {% else %}
+                {% include img.html src="/siteicon.png" max-w=400 %}
+            {% endif %}
           </a>
 
-          {% if post.main_image_path %}
-
-            <figure class="featured--col">
-              <a href="{{ post.url | prepend: site.baseurl }}">
-              {% assign alt_text = post.title %}
-              {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
-              {% include img.html src=post.main_image_path width=200 alt=alt_text %}
-              </a>
-            </figure>
-
-          {% endif %}
-
-          {% if post.main_image_path %}
-             <p class="with--feature">
-          {% else %}
-            <p>
-          {% endif %}
-
-          {{ post.excerpt | markdownify }} <a href="{{ post.url | prepend: site.baseurl }}">read more&nbsp;&raquo;</a></p>
-          <div class="post-meta">
-            <div class="post-date">{{ post.date | date: "%B %Y" }}</div>
-            <!-- Editor Link -->
-            <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
+          <div class="post--caption">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.excerpt | markdownify }}
+              <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
+            <div class="post-meta">
+              <div class="post-date">{{ post.date | date: "%B %Y" }}</div>
+              <!-- Editor Link -->
+              <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
+            </div>
           </div>
 
         </li>
