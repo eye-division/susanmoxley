@@ -1,5 +1,4 @@
 ---
-layout: post
 title:
 date:
 main_image_path:

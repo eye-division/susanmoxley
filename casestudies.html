@@ -34,23 +34,25 @@ _comments:
 
 <section class="casestudies-current">
 
-  <ul class="posts-list">
+  <ul class="posts--list">
+
   {% for casestudy in casestudies %}
 
-  <li class="post--inlist casestudy">
+  <li class="post--inlist">
 
-    <a href="{{ casestudy.url }}" title="{{ casestudy.title }}">
+    <a href="{{ casestudy.url }}" title="{{ casestudy.title }}" class="post--image">
       {% if casestudy.main_image_path %}
-          {% include img.html src=casestudy.main_image_path width=400 height=300 %}
+          {% include img.html src=casestudy.main_image_path max-w=400 %}
       {% else %}
-          {% include img.html src="/siteicon.png" width=400 height=300 %}
+          {% include img.html src="/siteicon.png" max-w=400 %}
       {% endif %}
     </a>
 
-    <div class="casestudy-caption">
+    <div class="post--caption">
         {% if casestudy.short_description_markdown %}
         <h3>{{ casestudy.title }}</h3>
-        <p>{{ casestudy.short_description_markdown | markdownify }} <a href="{{ casestudy.url }}" title="{{ casestudy.title }}">read more&nbsp;&raquo;</a></p>
+        <p>{{ casestudy.short_description_markdown | markdownify }}<br>
+          <a href="{{ casestudy.url }}" title="{{ casestudy.title }}">View this case study&nbsp;&raquo;</a></p>
         {% endif %}
     </div>
 

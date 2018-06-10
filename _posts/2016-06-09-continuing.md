@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Continuing to support developments at innovative national children's charity"
-date: 2017-06-09 15:21:00
+date: 2016-06-09 15:21:00
 categories: 
   - News
 main_image_path: 
@@ -25,4 +24,4 @@ _options:
 >Jo is able to demonstrate quickly her skills in capturing our organisational 'essence’, and sound understanding of our corporate dynamics. Combining this with strong analytical skills and an experienced grasp of public sector mechanics, Jo enables us to arrive at an informed view of what the key shifts in the wider Public Sector - Putting Children First, the Children &amp; Families Act, Health &amp; Wellbeing Boards, Future in Mind, Adoption Support - can mean for us as a whole-organisation. We will be meeting implementation with confidence.”
 John Diamond, CEO, Mulberry Bush Organisation
 
-Web Link : <a href="http://www.mulberrybush.org.uk/national-centre/" class="greenlink" target='link'>Emotional Health & Mental Wellbeing:Vulnerable Children, Families, supporting Professionals</a>
+Web Link : <a href="http://www.mulberrybush.org.uk/national-centre/" target="new">Emotional Health & Mental Wellbeing:Vulnerable Children, Families, supporting Professionals</a>

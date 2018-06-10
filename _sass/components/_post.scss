@@ -2,21 +2,33 @@
 // This file contains global styles for posts
 // -----------------------------------------------------------------------------
 
-.posts-list {
+.posts--list {
     @extend %default-ul !optional;
     //@include grid-container;
     //@include grid-visual;
 }
 
 .post--inlist {
+    border-bottom: 1px solid $action-color;
     padding: modular-scale(-4);
     padding-left: 0;
+    @include grid-container;
+}
+.post--columns {
     @include grid-media($small) { // half page width on 488px and above
         @include grid-column(2);
     }
 }
-
-
+.post--caption {
+    @include grid-media($small) { // half page width on 488px and above
+        @include grid-column(3);
+    }
+}
+.post--image {
+    @include grid-media($small) { // half page width on 488px and above
+        @include grid-column(1);
+    }
+}
 .post-meta {
 
 }

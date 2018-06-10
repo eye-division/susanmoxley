@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Understanding your stakeholders
-date: 2017-06-09 15:21:00
+date: 2017-03-09 15:21:00
 categories: 
   - News
 main_image_path: 

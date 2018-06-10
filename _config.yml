@@ -12,13 +12,13 @@ plugins:
 title: KindleCo
 subtitle: nurturing initiative
 name: KindleCo
-description: An Eye Division site
+description: Nurturing initiative
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://outrageous-hurricane.cloudvent.net"
+url: "http://www.kindleco.co.uk" #"http://outrageous-hurricane.cloudvent.net"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 
@@ -48,6 +48,12 @@ defaults:
             type: "casestudies"
         values:
             layout: "casestudy"
+    -
+        scope:
+          path: "" # an empty string here means all files in the project
+          type: "posts" # previously `post` in Jekyll 2.2.
+        values:
+          layout: "post"
 
 # Payment settings
 # Environment settings
@@ -70,7 +76,7 @@ defaults:
 # disqus_shortname:
 
 # Google analytics
-#ga_tracking_id: ""
+ga_tracking_id: "UA-120511015-1"
 
 # Google Recaptcha used for contact form
 recaptcha_site_key: "6LfnsF0UAAAAAKjnb2DDtrYpGufEu9y6owbSWygR"
@@ -128,8 +134,8 @@ social:
 
 protocols:
     fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image_width: 399
+    fb_image_height: 170
     fb_image_type: "image/png"
 
     twitter_image: "/assets/logo.png"

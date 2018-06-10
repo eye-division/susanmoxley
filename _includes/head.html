@@ -9,8 +9,22 @@
   <meta name="author" content="{{ site.name }}">
   <meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
   {% endif %}
+  {% if site.ga_tracking_id %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120511015-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  <!-- External libraries -->
+    gtag('config', '{{ site.ga_tracking_id }}', {
+      'page_title': '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
+      'page_path': '{{ page.url }}'
+    });
+  </script>
+  {% endif %}
+
+ <!-- External libraries -->
  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/{{ site.highlightjs_theme }}.min.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->

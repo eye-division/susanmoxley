@@ -16,7 +16,7 @@ layout: default
 
 <article class="content">
   <section class="main-content {% if with_media %}with-media{% endif %}">
-    {{ content }}
+    {{ content | markdownify}}
 
   </section>
 

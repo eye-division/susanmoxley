@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Emotional health and mental wellbeing: vulnerable children, their families and professional supporters - reflective spaces"
 date: 2017-06-09 15:21:00
 categories: 
