@@ -5,7 +5,7 @@ title: >-
 date: 2017-09-09 15:21:00
 categories:
   - News
-main_image_path: /uploads/kindleco-biz-card-1.jpg
+main_image_path:
 images:
   - image_path:
     description:
@@ -18,8 +18,9 @@ _options:
     correct_orientation: true
 ---
 
-Spring 2017 saw the journey of **"Putting Children First"** (the Government's policy paper on Vulnerable Children published in July'16) reach the end of its Parliamentary journey. It was granted Royal Assent on 27th April becoming the Children & Social Work Act.
-<!--more-->
+Spring 2017 saw the journey of **"Putting Children First"** (the Government's policy paper on Vulnerable Children published in July'16) reach the end of its Parliamentary journey. It was granted Royal Assent on 27th April becoming the Children & Social Work Act. <!--base32-dnqq4t8-base32-->
+
+[Download the document here](/CreativeLearningHubs_Future&amp;Feasibility_Kindle_18406Web.pdf).
 
 The Act should bring new statutory imperatives for the whole-sector:
 
@@ -29,7 +30,7 @@ The Act should bring new statutory imperatives for the whole-sector:
 
 **'Sector - led' models of organisational improvement:** predicated on ‘peer to peer’ support and taking learning from the Education Sector
 
-**Adoption of  ‘Corporate Parenting Principles’:**  to govern a whole – organisation approach at Local Authority level to promoting the interests of vulnerable children, with its key agency partners in **Education, Health, Social Care**
+**Adoption of ‘Corporate Parenting Principles’:** to govern a whole – organisation approach at Local Authority level to promoting the interests of vulnerable children, with its key agency partners in **Education, Health, Social Care**
 
 **Renewed emphasis on the importance of strong multi-agency partnerships:** accountability for local safeguarding arrangements, set within a new national framework, to sit equally between **LAs, Health, Police**. Local CSBs destined to be retired
 
