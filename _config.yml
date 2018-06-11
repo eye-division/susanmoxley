@@ -21,7 +21,7 @@ baseurl: ""
 url: "http://www.kindleco.co.uk" #"http://outrageous-hurricane.cloudvent.net"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
-
+placeholder_image: "/assets/images/leaf-icon.png"
 # Build settings
 markdown: kramdown
 
@@ -126,6 +126,12 @@ social:
     desc: Follow me on Pinterest
     share: true
 
+  - name: linkedin
+    icon: icon-linkedin_sign
+    username: jo-broad
+    url: https://uk.linkedin.com/pub/jo-broad/0/666/669
+    desc: Connect with me on LinkedIn
+    share: true
 
 # https://uk.linkedin.com/pub/jo-broad/0/666/669
 #

@@ -20,13 +20,18 @@
 
 .social-media-list {
     @include grid-container;
-    text-align: center;;
+    text-align: center;
+    padding: 1em 0;
+    a {
+        text-decoration: none;
+    }
 }
 ///   Site Description/Signature (right)
 
 .site-signature {
     text-align: center;
-
+    padding: 1em 0;
+    font-size: modular-scale(-1);
 }
 
 ///   Contact Info (center)

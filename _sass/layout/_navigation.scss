@@ -84,13 +84,14 @@ nav {
     padding: 0.25em 0;
     @include grid-media ($small) {
         background: transparent;
-        display: inline;
+        display: inline-block;
         text-decoration: none;
         width: auto;
     }
     a {
         color: $navigation-color;
         display: inline-block;
+        text-decoration: none;
         @include grid-media ($small) {
             padding-right: 1.5em;
         }
@@ -109,7 +110,7 @@ nav {
 .nav-link.active,
 .active {
     a {
-        color: $black;
+        color: $navigation-active-link-color;
     }
 }
 

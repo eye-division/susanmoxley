@@ -23,6 +23,17 @@
 
         {% endfor %}
 
+        {% for social in site.social %}
+          {% if social.url != null %}
+
+          <li class="nav-link">
+            <a href="{{ social.url }}" title="{{ social.desc }}">
+              <svg class="icon {{ social.icon }} icon--light"><use xlink:href="#{{ social.icon }}" /></svg>
+            </a>
+          </li>
+          {% endif %}
+        {% endfor %}
+
       </ul>
     </nav>
   </div>

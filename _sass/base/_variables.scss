@@ -38,6 +38,7 @@ $gray: rgb(127, 140, 141);        // Asbestos
 $dark-gray: rgb(51, 51, 51) !default;
 
 $kindle-blue: rgb(114, 113, 160);
+$kindle-green: rgb(168, 195, 99);
 
 // Social Media Brand Colors */
 $twitter: rgb(0, 172, 237);
@@ -64,6 +65,7 @@ $soundcloud: rgb(255, 58, 0);
 // Font Colors
 $base-font-color: $black;
 $action-color: $kindle-blue;
+$action-hover-color: $kindle-green;
 
 // Border
 $base-border-color: $light-gray;
@@ -105,8 +107,8 @@ $navigation-submenu-width: 15em;
 
 $navigation-background: $kindle-blue;
 $navigation-color: $white;
-$navigation-color-hover: $white;
-$navigation-active-link-color: transparentize(white, 0.5);
+$navigation-color-hover: $kindle-green;
+$navigation-active-link-color: $kindle-green;
 
 // drop down variables
 $dropdown-color: $base-font-color;

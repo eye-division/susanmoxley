@@ -18,7 +18,7 @@ _options:
 
     <ul class="posts--list">
 
-      {% for post in site.posts limit:8 %}
+      {% for post in site.posts %}
 
         <li class="post--inlist">
 
@@ -26,7 +26,7 @@ _options:
             {% if post.main_image_path %}
                 {% include img.html src=post.main_image_path max-w=400 %}
             {% else %}
-                {% include img.html src="/siteicon.png" max-w=400 %}
+                {% include img.html src=site.placeholder_image width=150 %}
             {% endif %}
           </a>
 

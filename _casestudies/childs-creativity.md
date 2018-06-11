@@ -27,7 +27,7 @@ We worked with the regional partners to generate sustainable business models for
 
 Want To View The Final Report??
 ---
-If you would like to view the final public report for this Project, produced for our client, download the PDF: <a href="/assets/docs/creativelearninghubssoutheast-future%26feasibility_kindleapril2006.pdf">creativelearninghubssoutheast-future&feasibility_kindleapril2006.pdf</a>
+If you would like to view the final public report for this Project, produced for our client, <a href="/assets/docs/creativelearninghubssoutheast-future%26feasibility_kindleapril2006.pdf">download the PDF</a>.
 
 Want To Know Outcomes?
 ---

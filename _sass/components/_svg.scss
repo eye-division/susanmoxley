@@ -11,6 +11,7 @@
 a:hover .icon { /// hover colour
     fill: $highlight-color;
 }
+
 .icon--readmore {
     fill: $white;
     margin-bottom: -5px;
@@ -38,9 +39,13 @@ a:hover .icon { /// hover colour
 .icon-soundcloud { fill: $soundcloud; }
 .icon-vimeo_square { fill: $vimeo; }
 .icon-pinterest { fill: $pinterest; }
-
+.icon-linkedin_sign { fill: $linkedin; }
 /// vertical align SVG icons in the centre
 a svg {
     display: inline-block;
     vertical-align: middle;
+}
+
+.icon--light {
+    fill: $white;
 }

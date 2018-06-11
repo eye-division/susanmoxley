@@ -10,8 +10,8 @@
 
 .post--inlist {
     border-bottom: 1px solid $action-color;
-    padding: modular-scale(-4);
-    padding-left: 0;
+    //padding: modular-scale(-4);
+    padding: 1em 0;
     @include grid-container;
 }
 .post--columns {

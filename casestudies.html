@@ -42,9 +42,9 @@ _comments:
 
     <a href="{{ casestudy.url }}" title="{{ casestudy.title }}" class="post--image">
       {% if casestudy.main_image_path %}
-          {% include img.html src=casestudy.main_image_path max-w=400 %}
+          {% include img.html src=casestudy.main_image_path max-w=200 %}
       {% else %}
-          {% include img.html src="/siteicon.png" max-w=400 %}
+          {% include img.html src=site.placeholder_image width=150 %}
       {% endif %}
     </a>
 

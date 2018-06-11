@@ -11,7 +11,6 @@
           <li class="list--horizontal">
             <a href="{{ social.url }}" title="{{ social.desc }}">
               <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
-              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
             </a>
           </li>
           {% endif %}
@@ -23,8 +22,8 @@
 
 
     <div class="site-signature">
-      <p class="text">&copy; All work is copyright the artist, no reproduction without permission.<br />
-      <a href="https://www.eyedivision.com">{% include img.html src="/assets/eyegallery-box-trans.png" alt="Eye Division site" %}</a><br />site by <a href="https://www.eyedivision.com">Eye Division</a></p>
+      <p class="text">&copy; Jo Broad, KindleCo | <a href="{{ "/privacy-policy/" | prepend: site.baseurl }}">Privacy policy</a>
+        <br />site by <a href="https://www.eyedivision.com">Eye Division</a></p>
     </div>
 
 
