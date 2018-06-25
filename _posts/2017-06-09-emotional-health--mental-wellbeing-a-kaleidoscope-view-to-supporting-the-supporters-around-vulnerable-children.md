@@ -51,15 +51,17 @@ Parent-Carers have no access to a concrete support structure for their own emoti
 
 There is a need for something that extends beyond informal cups of coffee. And is not about consulting on someone else's agency plans.&nbsp; Friends are good (especially those that are treading a similar path) but there are limits to what we can do for each other. And before anyone mentions an App, please don't. Buttons are not support, at least not for those of us borne in the late 1960s…..
 
-For many parent-carers, there is a need to process the emotions that come up when you feel de-skilled around your child (parents are frequently trying out fresh strategies to deal with something or other at home); or disempowered in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;or experiencing that strange outbreak of over-empathy with professionals: the sort that seeps into your brain when you leave a meeting with over-worked, under-resourced public sector staff who have just forgotten to implement a key part of your child's support plan…… but you've got to rollock them anyway.
+For many parent-carers, there is a need to process the emotions that come up when you feel de-skilled around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development); or disempowered in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;or experiencing that strangely disabling outbreak of 'over-empathy' - the sort that seeps into your brain when you leave a conversation with over-worked, under-resourced public sector professionals who have just forgotten to implement a key part of your child's support plan for the third time that month…… but you've got to rollock them anyway.
 
-I think I should ad that NCB,&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of Co Production elsewhere with parent-carers. So no criticism intended there. The jury is still out on some of the other event producers that day.
+I think I should ad that NCB,&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of Co Production elsewhere with parent-carers. So no criticism implied there. The jury is still out on some of the other producers that day.
 
-There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities; there is also on-line access to guidance (again valued) on which to call to help P-Cs fight their children's cases with the pubic sector itself.
+There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities (often involving taking their child to an event which can be challenging in itself); there is also on-line access to guidance (again valued) on which to call to help P-Cs fight their children's cases with the pubic sector itself.
 
-At the risk of doing a dizzying 360,&nbsp; one must not forget that Public Sector Leaders must take very difficult decisions about service reform & transformation. That comes with an emotional cost, especially in an era of heavily - reduced budgets.
+And, at the risk of doing a dizzying 360,&nbsp; one must not forget that Public Sector Leaders must take very difficult decisions about service reform & transformation. That comes with an emotional cost, especially in an era of heavily - reduced budgets. No-one goes into those jobs because they enjoy saying 'no' to families.
 
-So I have begun a journey of 'curious enquiry' with a range of organisations, sector -level stakeholder groups and with individuals, with who I am fortunate to have regular contact. A sort of 3 - way lens has been slowly but surely building, of professional, stakeholder and personal perspectives over the past decade.
+So, I have begun a journey of 'curious enquiry' with a range of organisations, sector -level stakeholder groups and with individuals, with who I am fortunate to have regular contact.
+
+A sort of 3 - way lens has been slowly but surely building, of professional, stakeholder and personal perspectives over the past decade.
 
 It's a kaleidoscope view. One which I aim to deploy for the greater good, wherever possible and practicable.
 
