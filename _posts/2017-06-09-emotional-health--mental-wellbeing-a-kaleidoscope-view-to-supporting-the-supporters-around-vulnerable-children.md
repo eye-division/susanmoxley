@@ -75,4 +75,4 @@ If you would like to join me in&nbsp;**'support for the supporters'** get in tou
 
 NCB work in partnership with Families through the CDC, Anti-Bullying Alliance and through the National "Families Research Advisory Group"
 
-&copy; Jo Broad 2018
+&copy; Jo Broad June 2018
