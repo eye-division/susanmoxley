@@ -1,6 +1,6 @@
 ---
 title: |-
-  Emotional health & mental wellbeing: 
+  Emotional Health & Mental Wellbeing: 
   Vulnerable children, their families & teams around the child
 date: 2017-06-09 15:21:00
 categories:
@@ -17,8 +17,7 @@ _options:
     mime_type: image/jpeg
 ---
 
-New statutory guidance, emphasising the importance of Mental Health provision in supporting Looked After Children, was published back in March 2015. Marked by an excellent event hosted by NCB, contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, Health, Education and Social Care.
-<!--more-->
+New statutory guidance, emphasising the importance of Mental Health provision in supporting Looked After Children, was published back in March 2015. Marked by an excellent event hosted by NCB, contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, Health, Education and Social Care.<!--more-->
 
 But as we reflect on this, what support is there for the Wellbeing of those adults delivering this kind of support to children? How do they process the emotional impact of their work on themselves and those around them?
 
