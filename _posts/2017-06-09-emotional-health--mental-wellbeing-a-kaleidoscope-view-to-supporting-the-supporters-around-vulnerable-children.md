@@ -51,7 +51,7 @@ And if it is **immense for the child**, it's going to be **immense for the adult
 
 **There is a need for something that extends beyond informal cups of coffee. **
 
-Preferably too, something that is not about consulting on someone else's agency plans - not that parent-carers mind this-&nbsp; but when it's the only for of 'support' for the load they carry, being repeatedly asked, can a little wearing.&nbsp;
+Preferably too, something that is not about consulting on someone else's agency plans - not that parent-carers mind this-&nbsp; but when it's the only for of 'support' for the load they carry, being repeatedtly asked, it can a little wearing.&nbsp;
 
 **Friends** are good (especially those that are treading a similar path) but there are limits to what we can do for each other. And before anyone mentions an App, please don't. **Buttons are not support**, at least not for those of us borne in the late 1960s…..
 
