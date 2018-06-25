@@ -5,7 +5,7 @@ title: |-
 date: 2017-06-09 15:21:00
 categories:
   - News
-main_image_path:
+main_image_path: 'https://www.youtube.com/watch?v=ABJaSAfECYo#action=share'
 images:
   - image_path:
     description: '"Supporting the Supporters"'
