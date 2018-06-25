@@ -21,9 +21,9 @@ Back in the now seemingly dim & distant 2015, new statutory guidance emphasising
 
 Its arrival was marked by an excellent event hosted by NCB. Contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, Health, Education and Social Care.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
-As I reflected back on the event, both at the time and now, there was little or no discussion that day amongst delegates on what support was needed, available or could be developed to support the Wellbeing of adults - those delivering support direct to vulnerable children.
+However, as I reflected back on the event both at the time and now, there was little or no discussion amongst delegates on what support was needed, available or could be developed to support the Wellbeing of adults - those delivering support direct to vulnerable children.
 
-No-one really asked that day - how do adults process the emotional impact of their work, on themselves, and those around them?&nbsp;
+No-one really asked: how do adults process the emotional impact of their work, on themselves, and those around them?&nbsp;
 
 In a room full of Health professionals, this seemed strangely at odds with the realities we must all surely face, in the course of our daily task.
 
@@ -47,30 +47,30 @@ In the past decade, I have become acutely aware of the toll it takes those adult
 
 And if it is immense for the child, it's going to be immense for the adult.
 
-Parent-Carers have no access to a concrete support structure for their own emotional wellbeing, which is equitable to access, and borne of an evidence-base. There is nothing that recognises the additional challenges they face as both the child's advocate with agencies, and the child's confidante at home.
+Parent-Carers have no access to a concrete support structure for their own emotional wellbeing, which is equitable to access, and borne of an evidence-base. There is nothing that recognises the additional challenges they face as both the child's advocate with agencies, and the child's backstop, at home.
 
-There is a need for something that extends beyond informal cups of coffee and is not about consulting on someone else's agency plans.&nbsp;
+There is a need for something that extends beyond informal cups of coffee. And is not about consulting on someone else's agency plans.&nbsp; Friends are good (especially those that are treading a similar path) but there are limits to what we can do for each other. And before anyone mentions an App, please don't. Buttons are not support, at least not for those of us borne in the late 1960s.....
 
-Friends are good (especially those that are treading a similar path) but there are limits to what we can do for each other. And before anyone mentions an App, please don't. Perhaps I am showing my age.
+For many parent-carers, there is a need to process the emotions that come up when you feel de-skilled around your child (parents are frequently trying out fresh strategies to deal with something or other at home); or disempowered in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;or experiencing that strange outbreak of over-empathy with professionals: the sort that seeps into your brain when you leave a meeting with over-worked, under-resourced public sector staff who have just forgotten to implement a key part of your child's support plan...... but you've got to rollock them anyway.
 
-For many parent-carers, there is a need to process the emotions that come up when you feel de-skilled around your child (parents are frequently trying out fresh strategies to deal with something or other at home); or disempowered in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;or experiencing that strange outbreak of over-empathy with professionals - the sort that seeps into your brain when you leave a meeting with over-worked, under-resourced public sector staff who have just forgotten to implement a key part of your child's support plan...... but you've got to rollock them anyway.
+I think I should ad that NCB,&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of Co Production elsewhere with parent-carers. So no criticism intended there. The jury is still out on some of the other event producers that day.
 
-I think I should ad that NCB&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of Co Production and Consultation elsewhere with parent-carers. The jury is out on some of the others.
+There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities; there is also on-line access to guidance (again valued) on which to call to help P-Cs fight their children's cases with the pubic sector itself.
 
-There is of course a smattering of (valued) opportunities from the third sector for P-Cs (which frequently involves them taking their children to events); and (again valued) on-line access to guidance which can help fight their children's cases with the pubic sector itself.
+At the risk of doing a dizzying 360,&nbsp; one must not forget that Public Sector Leaders must take very difficult decisions about service reform & transformation. That comes with an emotional cost, especially in an era of heavily - reduced budgets.
 
-At the risk of doing a dizzying 360,&nbsp; one must not forget that Public Sector management professionals, must take very difficult decisions about service reform transformation. That comes with an emotional cost.
+So I have begun a journey of 'curious enquiry' with a range of organisations, sector -level stakeholder groups and with individuals, with who I am fortunate to have regular contact. A sort of 3 - way lens has been slowly but surely building, of professional, stakeholder and personal perspectives over the past decade.
 
-So I have begun a journey of 'curious enquiry' with a range of organisations, sector -level stakeholder groups and individuals, with who I am fortunate to have regular contact.&nbsp;
+It a kaleidoscope - one which I aim to deploy for the greater good wherever possible and practicable.
 
-A sort of 3 - way lens has been slowly but surely building, of professional, stakeholder and personal perspectives over the past decade.
+There is still a debate to be had nationally, about how to resource and systematize the maintaining of ALL adults in a team around a child so that they remain healthy, objective and able to stay the course, without frazzling away into oblivion.
 
-A kaleidoscope.
+A national offer needs to be systemised across all the sectors involved (Health, Education & Social Care) be equitable in its access, not be workplace or seniority dependant and crucially, recognise the Parent-Carer as part of that team.
 
-There is still a debate to be had nationally, about how to keep adults in a team around a child healthy, objective and able to stay the course without frazzling away into oblivion.
+I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue and seek to trigger a systems-level intervention.
 
-An offer needs to be systemised across all the sectors involved (Health, Education & Social Care) be equitable in its access, not be workplace dependant and crucially, recognise the Parent-Carer as part of that team.
+If you would like to join me in&nbsp;**'support for the supporters'** get in touch.&nbsp;
 
-I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector to raise awareness of this issue and trigger a systems-level intervention. If you would like to join me in&nbsp;**'support for the supporters'** get in touch.&nbsp;
+NCB work in partnership with Families through the CDC, Anti-Bullying Alliance and through the National "Families Research Advisory Group"
 
 &copy; Jo Broad 2018
