@@ -1,7 +1,7 @@
 ---
 title: |-
-  Emotional Health & Mental Wellbeing
-  Supporting the supporters of vulnerable children: a kaleidoscope view
+  Emotional Health & Mental Wellbeing:
+  A kaleidoscope view to "supporting the supporters" around vulnerable children:
 date: 2017-06-09 15:21:00
 categories:
   - News
