@@ -61,11 +61,9 @@ At the risk of doing a dizzying 360,&nbsp; one must not forget that Public Secto
 
 So I have begun a journey of 'curious enquiry' with a range of organisations, sector -level stakeholder groups and with individuals, with who I am fortunate to have regular contact. A sort of 3 - way lens has been slowly but surely building, of professional, stakeholder and personal perspectives over the past decade.
 
-It's a kaleidoscope view.
+It's a kaleidoscope view. One which I aim to deploy for the greater good, wherever possible and practicable.
 
-One which I aim to deploy for the greater good, wherever possible and practicable.
-
-There is still a debate to be had nationally, about how to resource and systematize the maintaining of ALL adults in a team around a child so that they remain healthy, objective and able to stay the course, without frazzling away into oblivion.
+There is (still) a debate to be had nationally, about how to resource and systematize the maintaining of ALL adults in a team around a child so that they remain healthy, objective and able to stay the course, without frazzling away into oblivion.
 
 A national offer needs to be systemised across all the sectors involved (Health, Education & Social Care) be equitable in its access, not be workplace or seniority dependant and crucially, recognise the Parent-Carer as part of that team.
 
