@@ -19,7 +19,7 @@ _options:
 
 Back in the now seemingly dim & distant 2015, new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government.
 
-Its arrival was marked by an excellent event hosted by NCB. Contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, Health, Education and Social Care.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
+Its arrival was marked by an excellent event hosted by NCB. Contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, Health, Education and Social Care.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
 
 However, as I reflected back on the event both at the time and now, there was little or no discussion amongst delegates on what support was needed, available or could be developed to support the Wellbeing of adults - those delivering support direct to vulnerable children, and not only those that are Looked After.
 
@@ -73,6 +73,10 @@ I am in dialogue with a range of professionals in Health, Education, Therapeutic
 
 If you would like to join me in&nbsp;**'support for the supporters'** get in touch.&nbsp;
 
-NCB work in partnership with Families through the CDC, Anti-Bullying Alliance and through the National "Families Research Advisory Group"
+NCB work in partnership with Families through the CDC, Anti-Bullying Alliance and through the National "Families Research Advisory Group"&nbsp;
+
+Read more about NCB's work with [Parent-Carers](https://www.ncb.org.uk/what-we-do/what-we-do/involving-children-and-young-people/involving-parents-and-carers-research)
+
+Read about the value of [Reflective Practice](https://mulberrybush.org.uk/international-centre/#.WzEQM1VKiM8) & [Supervision](https://mulberrybush.org.uk/wp-content/uploads/2016/04/MENTAL_HEALTH_POSTER_3.pdf) for [professionals](https://mulberrybush.org.uk/wp-content/uploads/2017/03/SUPERVISION.pdf)&nbsp;through the work of the Mulberry Bush Organisation in Oxfordshire&nbsp;
 
 &copy; Jo Broad June 2018
