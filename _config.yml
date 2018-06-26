@@ -2,8 +2,8 @@
 plugins:
  # - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
-  - jekyll-assets
-  - autoprefixer-rails
+ # - jekyll-assets
+ # - autoprefixer-rails
 
 #exclude:
 #  - "/vendor/"
@@ -18,7 +18,7 @@ description: Nurturing initiative
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.kindleco.co.uk" #"http://outrageous-hurricane.cloudvent.net"
+url: "https://www.kindleco.co.uk" #"http://outrageous-hurricane.cloudvent.net"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 placeholder_image: "/assets/images/leaf-icon.png"
