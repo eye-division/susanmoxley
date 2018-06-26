@@ -85,9 +85,9 @@ It's a **kaleidoscope view**. One which I aim to deploy for the greater good, wh
 
 There is (still) a debate to be had nationally, about how to resource and systematize the maintaining of ALL adults in a team around a child so that they remain **healthy**, **objective** and able to stay the course, without frazzling away into oblivion.
 
-A **national offer,**&nbsp;which sits outside of Child Protection, needs to be **systemised** across all the sectors involved (Health, Education & Social Care). Its about the professional-level skills regardless of job title.
+A **national offer,**&nbsp;which sits outside of Child Protection, needs to be **systemised** across all the sectors involved (Health, Education & Social Care). It's about the professional-level skills demanded of Team members, regardless of job title.
 
-Early Help Offers from Local Authorities can be variable but by and large, parents of Young People with SEND, find these off putting because the entire process sits in a Safeguarding frame, and is discharged by professionals used to driving assessment through the lens of Child Protection.&nbsp; The Professionals in a Team around the Child, do not have to make recourse to anything of this nature which feels so compromising, in order to stay on task, healthy and objective after a Team Meeting.&nbsp;
+**Early Help** Offers from Local Authorities can be variable but by and large, parents of Young People with SEND, find these off putting because the entire process sits in a Safeguarding frame, and is discharged by professionals used to driving assessment through the lens of Child Protection.&nbsp; The Professionals in a Team around the Child, do not have to make recourse to anything of this nature which feels so compromising, in order to stay on task, healthy and objective after a Team Meeting.&nbsp;
 
 A national offer is needed which is&nbsp;**equitable** in its access (and include Teachers' Wellbeing), not be workplace or seniority dependant, and crucially, recognise the **Parent-Carer** as part of that team.
 
