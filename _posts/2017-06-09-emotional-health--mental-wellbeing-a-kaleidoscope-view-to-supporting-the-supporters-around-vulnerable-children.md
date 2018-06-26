@@ -17,39 +17,37 @@ _options:
     mime_type: image/jpeg
 ---
 
-Back in the now seemingly dim & distant 2015, new statutory guidance emphasising the importance of **Mental Health** provision in supporting **Looked After Children**, was published by **Government**.
+Back in the now dim & distant past of 2015, new statutory guidance emphasising the importance of **Mental Health** provision in supporting **Looked After Children**, was published by **Government**.
 
-Its arrival was marked by an excellent event hosted by ***NCB***. Contributors from ***DfE*** and ***DoH ***came together with nationally recognised figures in the field of Adoption, **Health, Education and Social Care**.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw7crhpdtn70tvq75rkccbn6xhqcebh6tq74dtge9h70rtte8v3gx1kc9jk8xtpc5t6gwk3chn3cxb4dcvpavkp6rt78rhrcnt7cdk5egtp4t3ed9r7ay1kcxj6wxtp6hv64d9p65v3cw336drkct3bddhqacvd6tt7adv1f1m6prv8e4vp2t3bcxhpewkg71t78x33f1t6prvr65u68rvp6dkp4rhjccuq8w31cdu6mbb2c5tpactj-base32-->
+Its arrival was marked by an excellent event hosted by ***NCB***. Contributors from ***DfE*** and ***DoH* came together with nationally recognised figures in the field of Adoption, and all three sectors of Health, Education and Social Care**.<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw78utpchn3ee3p75nkcx3n6ru7cebh6tq74dtge9h72t34e8v3gx1kc9jk8xtq6huk6rb3chm72tb4ertp6u3n6tuq8u38cnpqcutmegtkgt1hd9rkgxkbc8v6gxtqcdt6gw34ehq3ec3metrkedbjddhp6rke6tw6gwb3cnh6gdkme4vk8t3mcxjkju1q61t78x3571v36tvr65np6ebadcw7gx3gccuq8dk7exnk6rv8drtp6y326hj66xkgc5v6pw1pe9u3ee3jd1t66vkm6xhp8utncnkq8w1megtpat1te8vp2y9hddhqguhpexw78w1pd1v3cd3475r3cdbp6dhqectk6tj74uv3egtp4t34d1rp2rvpcgv78x1qc5j7ccb665pkcw3jerw6ad3pe0t78cv2cdw6gw35exnpedthegvkgy1k6dk32x1pe1t7cwhp6nukce3jetr3ct3be0u74u3acdhqaw9rewtk2rv4emv6urk269hkax3gc5hq8uhdc9gq6t9k68-base32-->
 
-However, as I reflected back on the event both at the time and now, there was little or no discussion amongst delegates on what support was needed, available or could be developed to support the **Wellbeing** of adults - those **delivering support** direct to **vulnerable children**, and not only those that are Looked After.
+However, there was little or no discussion amongst delegates at the tables (and I was sat next to an extremely lovely gentleman from OFSTED) on what support was needed, available or could be developed to support the **Wellbeing** of adults directly supporting&nbsp;**vulnerable children.**
 
-No-one really asked: ***how do adults process the emotional impact of their work***, ***on themselves, and those around them?&nbsp;***
+No-one tabled the question : ***how do adults process the emotional impact of their work***, ***on themselves, and those around them?&nbsp;***&nbsp;In a room full of Health professionals, this seemed strangely at odds with the realities so many adults face, in the course of our daily task.
 
-In a room full of Health professionals, this seemed strangely at odds with the realities we must all surely face, in the course of our daily task.
-
-For those forming a **team around a child**, either at **work** or at **home**, many seemed entirely outside any concrete system of support for their role which was focussed on their own wellbeing and which was **evidence-based** in its approach.
-
-There was too, a lack of anything, remotely **equitable** to **access**.
+For those forming a **team around a child**, either at **work** or at **home**, many fell entirely outside any concrete system of support for their role, which was focussed on their own wellbeing, rather than discharge of their statutory duties.<br>
 
 **Social Workers** and **Clinicians** were familiar with some existing structures in the workplace, including ***'Supervision'***. By and large, **Education** professionals were not. A supportive Line Manager was a close as it got.
 
 **Foster Carers** were more likely to be viewed as Professionals and could access training through **Local Authority generated support**; **Adoptive** Parents felt almost on their own 'post-&nbsp; permanence'.
 
-Then there were **Parent-Carers**: this turned up a **zero**. There is no 'workplace' support scheme for parent-carers. However, many P-Cs are operating in the 'workplace'. **Other people's workplaces**. Frequently, persistently and over a long period of time, usually in a **publically-funded statutory agency** setting.&nbsp;
+Then there were **Parent-Carers**: this turned up a **zero**. There is no 'workplace' support scheme for parent-carers, despite many P-Cs of vulnerables children find themselves in the workplace (other people's) very frequently. Those parents of young people with **SEN, Disability and enduring Health** needs, typically have to pitch up to a&nbsp;**publically-funded statutory agency** setting, numerous times a year.
 
-Truth to be told, there were not many P-Cs at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined!&nbsp; I was there in a professional capacity, having recently stepped back into the workplace after a hugely extended stint on maternity leave.
+Truth to be told, there were not many P-Cs at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined, me being part Policy- nerd, part human.&nbsp; (I was there in a professional capacity, having recently stepped back into the workplace after a hugely extended stint on maternity leave).
 
 But in families, whose children lived at home and are indeed highly Vulnerable, what happens when the **adults** find themselves unwittingly **at the front line** of both child's **emotional state**, and, the **'services' battlegrounds**?
 
-It's a challenge: of **endurance**.
+It's a challenge.
 
 In the past decade, I have become acutely aware of the toll it takes those adults - any adult- supporting vulnerable children directly. The toll it takes on a vulnerable child trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense. It just is.
 
-And if it is **immense for the child**, it's going to be **immense for the adult.**
+And if it is **immense for the child**, it's going to be **immense for the adult.** The vast majority of parents, whether Corporate or not, want to meet that challenge in full, with gusto, with dedication and as an agent for their child's ambitions for life.
 
-**Parent-Carers have no access to a concrete support structure** for their own emotional wellbeing, which is **equitable to access**, and **borne of an evidence-base.** There is nothing that recognises the **additional challenges** they face as both the **child's advocate** with agencies, and the **child's relational backstop**, at home.
+It struck me greatly that day and since, that we lack an equitable system which helps adults process their work emotionally, which is **systematized,** **equitable** in its access, and **evidence-based. There are providers out there, for sure, and individual organisations** (MBO in Oxfordshire and the Anna Freud Centre in London to name but two). But nothing that looks at the daily reality of who does what, and then delivers a rounded, 360 package of training & support to keep each of those individuals in the child's Team, healthy, objective and able to continue their role to an excellent standard.
 
-**There is a need for something that extends beyond informal cups of coffee. **
+**Parent-Carers have no access to a concrete support structure** for their own emotional wellbeing, which has parity with the Professionals in a Team, and certainly nothing&nbsp;**borne of an evidence-base.** The additional challenges they face are largely unrecognised, operating as both the **child's advocate** with agencies, and the **child's relational backstop**, at home.
+
+\*\*There is a need for something that extends beyond informal cups of coffee. \*\*
 
 Preferably too, something that is not about consulting on someone else's agency plans - not that parent-carers mind this-&nbsp; but when it's the only for of 'support' for the load they carry, being repeatedtly asked, it can a little wearing.&nbsp;
 
