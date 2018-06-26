@@ -79,7 +79,7 @@ For many parent-carers, there is a need to process the emotions that come up whe
 
 * you feel de-skilled around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development);
 * or disempowered in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;
-* or to handle that strange, semi- disabling outbreak of 'over-empathy' ...... you know the sort that seeps into your brain when you leave a conversation with over-worked, under-resourced public sector professionals who have just forgotten to implement a key part of your child's support plan for the third time that month…… but you've got to rollock them anyway, to get things done?
+* or to handle that strange, semi- disabling outbreak of 'over-empathy' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, under-resourced public sector professionals who have just forgotten to implement a key part of your child's support plan for the third time that month…… but you've got to rollock them anyway, to get things done?
 
 There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities (often involving taking their child to an event which can be challenging in itself). There is also on-line access to guidance (again valued) on which to call to help P-Cs fight their children's cases with the pubic sector itself.&nbsp;
 
@@ -97,17 +97,19 @@ It's a kaleidoscope view. One which I aim to deploy for the greater good, wherev
 
 There is (still) a debate to be had nationally, about how to resource and systematize the maintaining of ALL adults in a team around a child so that they remain healthy, objective and able to stay the course, without frazzling away into oblivion.
 
-Experts would refer to [**Psychodynamic **](https://mulberrybush.org.uk/the-work-of-mbs/#.WzISzdVKiM8)Theory & [**Relational**](https://www.annafreud.org/what-we-do/our-help-for-children-and-families/our-clinical-work-and-projects/our-work-with-adoptive-families-and-looked-after-children/special-guardianship-and-post-adoption-support-services/) Practice. Projection is commonplace in meetings between adults, as well as when the child is in the room. Learning who's feelings belong to whom, and why, is something I have learned is incredibly important when trying to get things done and, stay whole.
+Experts would refer to [**Psychodynamic Theory &** Relational]((https://mulberrybush.org.uk/the-work-of-mbs/#.WzISzdVKiM8))&nbsp;Practice. To many parents, this would simply be about 'team skills'&nbsp; and 'Mental Health'.
 
-To many parents, this would simply be about 'team skills'&nbsp; and 'Mental Health'.
+[**Projection** ](https://www.urbandictionary.com/define.php?term=Projection)is commonplace in meetings between adults, as well as when the child is in the room. Learning who's feelings belong to whom, and why, is something I have learned is incredibly important when trying to get things done and, stay whole.
 
-The key point is, such concepts can be an key influence in any group process, and are as strong a factor in individuals wearing a professional hat, as they are when wearing a parent-carer one. Deployed consciously and wisely, they can be helpful in brokering agreements, garnering stakeholder buy-in and ultimately, facilitate the reaching of outcomes, which all parties experience as useful.
+The key point is, such concepts can be an key influence in any group process, and are as strong a factor in individuals wearing a professional hat, as they are when wearing a parent-carer one. Deployed consciously and wisely, they can be helpful in brokering agreements, garnering stakeholder buy-in and ultimately facilitate the reaching of outcomes, which all parties experience as useful.&nbsp;
+
+Left unchecked and unprocessed, they are a route to ill health for the adult, and poor outcomes for the child.
 
 **Early Help** Offers from Local Authorities are variable.&nbsp; By and large, parents of Young People with SEND, can find these off -putting because the entire process sits in a Safeguarding frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, through the lens of Child Protection.&nbsp; The paid Professionals in a Team around the Child, do not have to make recourse to anything of this nature, in order to update their task-specific knowledge, remain healthy and continue to act objectively, in the best interests of the child.
 
 A national offer is needed which is equitable in its access (and includes Teachers' Wellbeing alongside Clinicians & Social Workers), is not workplace or seniority -specific, sits outside of Safeguarding and crucially, recognise the Parent-Carer as part of the team.
 
-It's about the professional-level practice skills, and emotional load, demanded of Team members, regardless of their 'job' title.
+It's about supporting the professional-level practice skills, and emotional load, demanded of all Team members around a child, regardless of their 'job' title.
 
 I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue and seek to trigger a systems-level intervention.
 
