@@ -21,7 +21,7 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.kindleco.co.uk" #"http://outrageous-hurricane.cloudvent.net"
 logo: "/assets/logo.png"
-email: a.ward@eyedivision.com
+email: "jobroad@kindleco.co.uk"
 placeholder_image: "/assets/images/leaf-icon.png"
 # Build settings
 markdown: kramdown
