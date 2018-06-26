@@ -87,9 +87,9 @@ There is (still) a debate to be had nationally, about how to resource and system
 
 A **national offer,**&nbsp;which sits outside of Child Protection, needs to be **systemised** across all the sectors involved (Health, Education & Social Care). Its about the professional-level skills regardless of job title.
 
-Early Help Offers from Local Authorities can be variable but by and large, parents of Young People with SEND, find these off putting because the entire process sits in a Safeguarding frame, and is discharged by professionals are used to driving&nbsp; assessment through the lens of Child Protection.&nbsp; The Professionals in a Team around the Child, do not have toi make recourse to this, in order to stay on task, healthy and objective after an Annual Review.
+Early Help Offers from Local Authorities can be variable but by and large, parents of Young People with SEND, find these off putting because the entire process sits in a Safeguarding frame, and is discharged by professionals used to driving assessment through the lens of Child Protection.&nbsp; The Professionals in a Team around the Child, do not have to make recourse to anything of this nature which feels so compromising, in order to stay on task, healthy and objective after a Team Meeting.&nbsp;
 
-A national offer needs to be **equitable** in its access (and include Teachers' Wellbeing), not be workplace or seniority dependant, and crucially, recognise the **Parent-Carer** as part of that team.
+A national offer is needed which is&nbsp;**equitable** in its access (and include Teachers' Wellbeing), not be workplace or seniority dependant, and crucially, recognise the **Parent-Carer** as part of that team.
 
 I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue and seek to trigger a **systems-level** intervention.
 
