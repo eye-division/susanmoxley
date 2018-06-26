@@ -105,7 +105,7 @@ The key point is, such concepts can be an key influence in any group process, an
 
 Left unchecked and unprocessed, they are a route to ill health for the adult, and poor outcomes for the child.
 
-**Early Help** Offers from Local Authorities are variable.&nbsp; By and large, parents of Young People with SEND, can find these off -putting because the entire process sits in a Safeguarding frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, through the lens of Child Protection.&nbsp; The paid Professionals in a Team around the Child, do not have to make recourse to anything of this nature, in order to update their task-specific knowledge, remain healthy and continue to act objectively, in the best interests of the child.
+**Early Help** Offers from Local Authorities are variable.&nbsp; By and large, parents of Young People with SEND, can find these off -putting because the entire process sits in a Safeguarding frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, through the lens of Child Protection.&nbsp; The paid Professionals in a Team around the Child, do not have to make recourse to anything of this nature, in order to update their task-specific knowledge, remain healthy and continue to act objectively, in the best interests of the child. Google a few randomly selected examples on 'Early Help' for families and you will find some LAs are much more 'welcoming' in their tone, than others.
 
 A national offer is needed which is equitable in its access (and includes Teachers' Wellbeing alongside Clinicians & Social Workers), is not workplace or seniority -specific, sits outside of Safeguarding and crucially, recognise the Parent-Carer as part of the team.
 
