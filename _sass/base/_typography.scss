@@ -44,6 +44,10 @@ h6 {
   font-size: modular-scale(-2);
 }
 
+.hdr--small {
+  font-size: modular-scale(1);
+}
+
 p {
   margin: 0 0 $small-spacing;
 }
@@ -77,7 +81,6 @@ hr {
 }
 blockquote {
   padding: 1em 0;
-  border-top: 1px solid $action-color;
   border-bottom: 1px solid $action-color;
   font-style: italic;
 }

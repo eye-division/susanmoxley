@@ -10,12 +10,14 @@ _options:
 _comments:
 
 ---
-
-<div class="editable">
+<section class="home">
+  <header class="post--header">
+      <h2 class="post--title">{{ page.title }}</h2>
+    </header>
+  <div class="editable">
       <p><strong>Working in the interests of Children, Young People &amp; Families</strong></p>
-      <p>KindleCo is an independent, specialist provider of&nbsp;<strong>Consultancy, Coaching &amp; Programme Leadership&nbsp;</strong></p>
-      <p><strong></strong>for <strong>Social Purpose</strong> organisations and the <strong>Public Sector</strong>.</p>
-      <p>&nbsp;</p>
+      <p>KindleCo is an independent, specialist provider of&nbsp;<strong>Consultancy, Coaching &amp; Programme Leadership&nbsp;</strong> for <strong>Social Purpose</strong> organisations and the <strong>Public Sector</strong>.</p>
+
       <p>Founded by Jo Broad in 2004, KindleCo specialises in <strong>Strategy &amp; Development</strong> - the enablement of:&nbsp;</p>
       <p>&nbsp;<img width="51" height="38" src="/uploads/kindle-templates-bullet.jpg" />&nbsp;<strong>Organisations</strong></p>
       <p><strong>&nbsp;<img width="51" height="38" src="/uploads/kindle-templates-bullet-1.jpg" />&nbsp; Sector Partnerships</strong></p>
@@ -49,38 +51,21 @@ _comments:
       </blockquote>
       <p><a href="/clients-and-testimonials/">View more client testimonials.......</a></p>
     </div>
+  </section>
 
-<section>
+  <section class="blog">
 
-    <ul class="posts-list">
-
+    <ul>
       {% for post in site.posts limit:2 %}
-
-        <li class="post--inlist">
-
-          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" class="post--image">
-            {% if post.main_image_path %}
-                {% include img.html src=post.main_image_path max-w=400 %}
-            {% else %}
-                {% include img.html src="/siteicon.png" max-w=400 %}
-            {% endif %}
-          </a>
-
-          <div class="post--caption">
-              <h3>{{ post.title }}</h3>
-              <p>{{ post.excerpt | markdownify }}
-              <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
-            <div class="post-meta">
-              <div class="post-date">{{ post.date | date: "%B %Y" }}</div>
-              <!-- Editor Link -->
-              <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
-            </div>
-          </div>
-
+        <li>
+          <h3 class="hdr--small">{{ post.title }}</h3>
+          <p>{{ post.excerpt | markdownify }}
+          <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
         </li>
 
       {% endfor %}
 
     </ul>
+    <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
 
   </section>

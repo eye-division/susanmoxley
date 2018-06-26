@@ -9,6 +9,11 @@ $small: (
   gutter: 10px,
   media: 488px,
 );
+$large: (
+  columns: 4,
+  gutter: 10px,
+  media: 960px,
+);
 
 html {
   background-color: $viewport-background-color;
@@ -30,23 +35,12 @@ body {
   margin: 0;
 }
 
-.navigation, .site-footer {
-    //@include flex(none);
-    //@include flex(1 0 auto);
-}
-.navigation {
-    //grid-area: header;
-}
-.site-footer {
-    //grid-area: footer;
-}
-
 
 section {
 
 }
 
-.page-content {
+.page--content {
   @include grid-container;
   //@include grid-visual;
   max-width: 1200px;
@@ -64,7 +58,7 @@ section {
       color: $white;
       text-shadow: 0 2px 1px rgba(0,0,0,0.33);
       background-color: $highlight-color;
-      .site-header{
+      .site--header{
           .title {
               font-size: modular-scale(6);
           }

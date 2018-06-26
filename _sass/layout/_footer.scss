@@ -2,7 +2,7 @@
 // This file contains all styles related to the footer of the site/application.
 // -----------------------------------------------------------------------------
 
-.site-footer {
+.site--footer {
     @include grid-container;
     //@include grid-visual;
     padding: 1em;
@@ -14,7 +14,7 @@
 
 ///  Site Navigation (left)
 
-.site-navigation {
+.site--navigation {
 
 }
 
@@ -28,7 +28,7 @@
 }
 ///   Site Description/Signature (right)
 
-.site-signature {
+.site--signature {
     text-align: center;
     padding: 1em 0;
     font-size: modular-scale(-1);
@@ -36,7 +36,7 @@
 
 ///   Contact Info (center)
 
-.site-contact {
+.site--contact {
 
     i {
         width: 1.25em;
@@ -46,6 +46,6 @@
         @extend %default-ul !optional;
     }
 }
-.site-copyright {
+.site--copyright {
     text-align: center;
 }

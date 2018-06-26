@@ -17,7 +17,7 @@ layout: default
       {% for image in page.images %}
 
         {% if image.image_path %}
-        <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+        <div class="gallery--box {% cycle 'alpha', '', 'last' %}">
         {% include img.html src=image.image_path alt=image.description %}
         <caption>{{ image.image_title }}</caption>
       </div>
@@ -79,21 +79,21 @@ layout: default
   </section>
 
 {% if site.inter_post_navigation == true %}
-  <section class="post-navigation">
-    <span class="prev-post">
+  <section class="post--navigation">
+    <span class="prev--post">
       {% if page.previous.url %}
         <a href="{{page.previous.url | prepend: site.baseurl}}">
           <span class="fa-stack fa-lg">
             <svg class="icon icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_left" /></svg>
           </span>
-          <span class="page-number">{{page.previous.title}}</span>
+          <span class="page--number">{{page.previous.title}}</span>
         </a>
       {% endif %}
     </span>
-    <span class="next-post">
+    <span class="next--post">
       {% if page.next.url %}
         <a href="{{page.next.url | prepend: site.baseurl}}">
-          <span class="page-number">{{page.next.title}}</span>
+          <span class="page--number">{{page.next.title}}</span>
           <span class="fa-stack fa-lg">
             <svg class="icon icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg>
           </span>

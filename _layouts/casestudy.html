@@ -8,14 +8,14 @@ layout: default
 {% endif %}
 
 
-<header class="content-header">
-  <section class="page-title">
+<header class="content--header">
+  <section class="page--title">
     <h1>{{ page.title }} {% if page.project_date %} <span class="date">[{{ page.project_date | date: '%Y' }}]</span>{% endif %}</h1>
   </section>
 </header>
 
 <article class="content">
-  <section class="main-content {% if with_media %}with-media{% endif %}">
+  <section class="main--content {% if with_media %}with-media{% endif %}">
     {{ content | markdownify}}
 
   </section>
@@ -24,7 +24,7 @@ layout: default
   <aside class="media">
 
     {% if page.video_embed %}
-    <section class="video-embed">
+    <section class="video--embed">
       {{ page.video_embed }}
     </section>
     {% elsif page.main_image_path %}
@@ -39,7 +39,7 @@ layout: default
     {% if page.images %}
 
       {% if page.images[0].image_path %}
-      <section class="image-gallery">
+      <section class="image--gallery">
 
         {% for image in page.images %}
 

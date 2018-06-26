@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------------
 
 /// 100% Gallery blocks
-.gallery-cover {
+.gallery--cover {
     margin: 0 auto 1em auto;
     max-width: 1200px;
     a {
@@ -63,22 +63,22 @@
     }
 }
 
-.gallery-box,
-.gallery-box-large {
+.gallery--box,
+.gallery--box-large {
     padding-bottom: 1em;
     text-align: center;
     @include grid-media ($small) {
         @include grid-column(2);
     }
 }
-.gallery-box-50 {
+.gallery--box-50 {
     padding-bottom: 1em;
     text-align: center;
     @include grid-media ($small) {
         @include grid-column(2);
     }
 }
-.gallery-box-home {
+.gallery--box-home {
     @include grid-media ($small) {
         @include grid-column(2);
     }
@@ -95,10 +95,10 @@
 }
 /// Remove widths for grids
 @supports (display: grid) {
-  .gallery-box-50,
-  .gallery-box,
-  .gallery-box-large,
-  .gallery-box-home {
+  .gallery--box-50,
+  .gallery--box,
+  .gallery--box-large,
+  .gallery--box-home {
     width: auto;
   }
 }

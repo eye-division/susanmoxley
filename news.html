@@ -34,8 +34,8 @@ _options:
               <h3>{{ post.title }}</h3>
               <p>{{ post.excerpt | markdownify }}
               <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
-            <div class="post-meta">
-              <div class="post-date">{{ post.date | date: "%B %Y" }}</div>
+            <div class="post--meta">
+              <div class="post--date">{{ post.date | date: "%B %Y" }}</div>
               <!-- Editor Link -->
               <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
             </div>

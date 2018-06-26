@@ -4,7 +4,7 @@
 
 .front {
 
-    .page-content {
+    .page--content {
         @include grid-container;
     }
     .scrim {
@@ -15,4 +15,14 @@
         background: rgba(255,255,255,0.8);
     }
 
+}
+.home {
+    @include grid-media($large) { // half page width on 488px and above
+        @include grid-column(3);
+    }
+}
+.blog {
+    @include grid-media($large) { // half page width on 488px and above
+        @include grid-column(1);
+    }
 }
