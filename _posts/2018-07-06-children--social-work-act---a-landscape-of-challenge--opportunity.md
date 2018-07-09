@@ -65,7 +65,7 @@ So where are we now?
 
 Well, whilst commencement of all the strands of the Act, has been perhaps more of a trickle than a torrent, the changes it legislated for, are with us nonetheless.
 
-It is worth remembering too that rushed, large-scale implementation is rarely successful, on the ground. That makes 'piloting' as an approach, very sensible.
+It is worth remembering too that rushed, large-scale implementation is rarely successful, on the ground. That makes 'piloting' as an approach, very sensible.&nbsp;
 
 Meanwhile, the onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led innovation**, **co-production** and **collaborative commissioning**&nbsp; - which crosses practice, policy and geographical boundaries- &nbsp;is not going anywhere, anytime soon.
 
