@@ -4,6 +4,7 @@ date: 2017-03-09 15:21:00
 categories: 
   - News
 main_image_path: 
+video_embed:
 images:
   - image_path: 
     description: 
@@ -13,6 +14,10 @@ _options:
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
+_comments:
+  date: Posts are ordered by date
+  main_image_path: Image used to represent your post
+  video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
 > "Staying abreast of significant change in the complex eco-system of my multiple stakeholders, is fundamental to the success of my role in the Health Outcomes business. I have to understand those Stakeholder needs. The quick-fire briefing note produced by KindleCo brought me straight up to speed on recent changes at national level impacting the way Health would  work with its partner agencies in support of Children &amp; Young People… 

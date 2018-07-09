@@ -7,6 +7,7 @@ date: 2017-06-09 15:21:00
 categories:
   - News
 main_image_path: 
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/ABJaSAfECYo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
 images:
   - image_path:
     description:
@@ -18,11 +19,14 @@ _options:
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
+_comments:
+  date: Posts are ordered by date
+  main_image_path: Image used to represent your post
+  video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
 Back in the now dim & distant past of 2015, new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government.
 
-https://youtu.be/ABJaSAfECYo
 
 Its arrival was marked by an excellent event hosted by [**NCB**](https://www.ncb.org.uk/). Contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, and from the 'big three': **Health**, **Education** and **Social Care**.
 

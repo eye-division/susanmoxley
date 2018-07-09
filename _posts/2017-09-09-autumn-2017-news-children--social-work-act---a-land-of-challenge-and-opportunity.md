@@ -6,6 +6,7 @@ date: 2017-09-09 15:21:00
 categories:
   - News
 main_image_path:
+video_embed:
 images:
   - image_path:
     description:
@@ -16,6 +17,10 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
     correct_orientation: true
+_comments:
+  date: Posts are ordered by date
+  main_image_path: Image used to represent your post
+  video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
 Spring 2017 saw the journey of **"Putting Children First"** (the Government's policy paper on Vulnerable Children published in July'16) reach the end of its Parliamentary journey. It was granted Royal Assent on 27th April becoming the Children & Social Work Act. <!--base32-dnqq4t8-base32-->

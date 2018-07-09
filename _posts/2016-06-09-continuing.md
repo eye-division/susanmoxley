@@ -4,6 +4,7 @@ date: 2016-06-09 15:21:00
 categories: 
   - News
 main_image_path: 
+video_embed:
 images:
   - image_path: 
     description: 
@@ -13,6 +14,10 @@ _options:
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
+_comments:
+  date: Posts are ordered by date
+  main_image_path: Image used to represent your post
+  video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
 >“As a national charity at the cutting edge of support for vulnerable children &amp; families, The Mulberry Bush Organisation has to evolve in response to government led change – and now is no exception"

@@ -8,6 +8,12 @@ layout: default
     </section>
   </header>
 
+  {% if page.video_embed %}
+      <div class="video--responsive">
+        {{ page.video_embed }}
+      </div>
+    {% endif %}
+
     <section class="main-content">
       {{ content | markdownify }}
     </section>
@@ -25,6 +31,8 @@ layout: default
       {% endfor %}
     </section>
     {% endif %}
+
+
 
   <section class="rss">
     <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
