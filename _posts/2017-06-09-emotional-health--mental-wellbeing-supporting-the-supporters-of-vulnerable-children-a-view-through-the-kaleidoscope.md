@@ -6,7 +6,7 @@ title: |-
 date: 2017-06-09 15:21:00
 categories:
   - News
-main_image_path: 'https://www.youtube.com/watch?v=ABJaSAfECYo#action=share'
+main_image_path: 
 images:
   - image_path:
     description:
@@ -19,6 +19,8 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
+
+https://www.youtube.com/watch?v=ABJaSAfECYo#action=share
 
 Back in the now dim & distant past of 2015, new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government.
 

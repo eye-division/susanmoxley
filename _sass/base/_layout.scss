@@ -33,6 +33,7 @@ body {
 
 body {
   margin: 0;
+  background-color: $base-background-color;
 }
 
 
@@ -45,7 +46,6 @@ section {
   //@include grid-visual;
   max-width: 1200px;
   padding: 0;
-  background-color: $white;
   margin: 1em auto;
 
   .page {

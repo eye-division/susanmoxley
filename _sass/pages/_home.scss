@@ -21,7 +21,7 @@
         @include grid-column(3);
     }
 }
-.blog {
+.blog--home {
     @include grid-media($large) { // half page width on 488px and above
         @include grid-column(1);
     }

@@ -24,7 +24,8 @@ $light-gray: #ddd;
 $black: rgb(17, 17, 17);
 $dark-gray: rgb(51, 51, 51);
 $medium-gray: rgb(153, 153, 153);
-$light-gray: rgb(221, 221, 221);
+$light-gray: rgb(237, 237, 237);
+
 $white: rgb(255, 255, 255);
 $kbgray: rgb(229, 229, 229);
 // Flat UI Colors. For more, see http://flatuicolors.com/
@@ -74,7 +75,7 @@ $base-border-radius: 3px !default;
 
 // Background Colors
 $viewport-background-color: #fff;
-$base-background-color: rgb(255, 255, 255);
+$base-background-color: $light-gray; //rgb(255, 255, 255);
 
 // Focus
 $focus-outline-color: transparentize($action-color, 0.4);
