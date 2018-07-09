@@ -1,8 +1,6 @@
 ---
-title: >-
-  Autumn 2017 news: Children & Social Work Act - a land of challenge and
-  opportunity
-date: 2017-09-09 15:21:00
+title: Children & Social Work Act - a landscape of challenge & opportunity
+date: 2018-07-06 15:21:00
 categories:
   - News
 main_image_path:
@@ -18,11 +16,17 @@ _options:
     correct_orientation: true
 ---
 
-Spring 2017 saw the journey of **"Putting Children First"** (the Government's policy paper on Vulnerable Children published in July'16) reach the end of its Parliamentary journey. It was granted Royal Assent on 27th April becoming the Children & Social Work Act. <!--base32-dnqq4t8-base32-->
+July 2016 seems a very long time ago, not forgetting we have since then had a change of Prime Minister and the fall out from Brexit. But this is when **"Putting Children First"**&nbsp; - the Government's policy paper on Vulnerable Children - was first published. It reached the end of its Parliamentary journey pretty swiftly and was granted Royal Assent in April 2017, becoming the Children & Social Work Act. <!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
 
 [Download the document here](/CreativeLearningHubs_Future&amp;Feasibility_Kindle_18406Web.pdf).
 
-The Act should bring new statutory imperatives for the whole-sector:
+It was always the intention of the Policy paper, that the Act would bring new statutory imperatives at whole-sector level to the agencies responsible for vulnerable children, impacting strategic priorities, inter-agency working, ownership and accountability. Those agencies could be forgiven, along with their wider ecosystem of public sector partners, for feeling that commencement and the green shoots of implementation, seemed strangely dislocated from the passing of the Act.&nbsp;
+
+Some strands were quick to kick in - the adoption by Local Authorities of the requirement for whole-organisation Corporate Parenting Principles to name one. Others, such as the shift in ownership of who exactly is accountable for what in Schools, including Academy Trusts, has been slower to seed.
+
+What is clear however, is that the Act would seek to consolidate structural shifts in the Public Sector, in the way money flows through the agency infrastructure, which have been gathering pace and quietly bedding in for at least the past 5 years. The Education & Adoption Act (2015) - with its focus on subregional 'cluster - working' by Local Authorities - passed by the attentions of many out in the field, yet was a clear signal of the ongoing 'direction of travel' by the Government to extend the thinking behind Devolution Deals, to everything else. Then there has been the rise of 'sector-led improvement' models, which the Schools sector has been grappling with for some time, but which the 2016 'Putting Children First' paper gave as an intended plank in the reform of the Social Work sector.
+
+Then there is 'Co Production'
 
 **Regional and sub-regional commissioning of services:** a need for collaborative working across traditional Public Sector geographical boundaries
 
@@ -42,7 +46,7 @@ The Act should bring new statutory imperatives for the whole-sector:
 
 **"Local Offer"** to be extended to **Care Leavers**
 
-**The DfE have previously highlited three priority themes - in their words:** People and Leadership, Practice and Systems, Governance and Accountability as the strategic framework for the intended outcomes of the Act.
+&nbsp;
 
 **So where are we now?**
 
