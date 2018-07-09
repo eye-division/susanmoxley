@@ -33,7 +33,7 @@ What is clear however, is that the Act would seek to consolidate structural shif
 
 And what of 'Co Production'? A tenet of the brave new world ushered in by the Children & Families Act (2014) for those with SEND, which pivots on collaborative, person-centered decision-making between agencies, their representatives in the field and families. In itself, not a funding mechanism but certainly, a influencer in what money comes out of Government, where it goes and what it is purported to be used for.
 
-This saw the announcement by [NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding) and DfE of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding arrangements outlined in the C&SW Act. Local CSBs are to be 'retired' and fresh statutory impetus will fall on the the multi-agency effort of Police, LAs & Health.
+This saw the announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding)** and **[DfE](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)** of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding arrangements outlined in the C&SW Act. Local Children's Safeguarding Boards are to be 'retired'. Fresh statutory impetus will fall on the a single 'multi-agency' effort of Police, LAs & Health.
 
 So new multi-agency agreements, will be key. But more than that, collaborative working, will be paramount in pulling this off successfully.
 
@@ -61,9 +61,9 @@ I have re-produced here the analysis I first wrote about here back in December 2
 
 **So where are we now?**
 
-So, whilst commencement of all strands of the Act has been more of a trickle than a torrent, the changes it legislated for, are with us nonetheless.
+So, whilst commencement of all strands of the Act has been more of a trickle than a torrent, the changes it legislated for, are with us nonetheless. It is worth remembering that rushed, large-scale implementation is rarely successful on the ground. That makes 'piloting' as an approach, very sensible.
 
-The onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led innovation**, **co-production** and **collaborative commissioning**&nbsp; which crosses practice, policy and geographical boundaries, is not going anywhere, anytime soon.
+meanwhile, the onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led innovation**, **co-production** and **collaborative commissioning**&nbsp; - which crosses practice, policy and geographical boundaries- &nbsp;is not going anywhere, anytime soon.
 
 **Strap in & enjoy the ride.**
 
