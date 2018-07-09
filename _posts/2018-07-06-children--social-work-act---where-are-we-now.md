@@ -1,10 +1,9 @@
 ---
-title: Children & Social Work Act - a landscape of challenge & opportunity
+title: Children & Social Work Act - where are we now?
 date: 2018-07-06 15:21:00
 categories:
   - News
 main_image_path:
-video_embed:
 images:
   - image_path:
     description:
@@ -15,25 +14,21 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
     correct_orientation: true
-_comments:
-  date: Posts are ordered by date
-  main_image_path: Image used to represent your post
-  video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
 July 2016 seems a very long time ago, not forgetting we have since then had a change of Prime Minister and the fall out from Brexit. But this is when **"Putting Children First"**&nbsp; - the Government's policy paper on Vulnerable Children - was first published. It reached the end of its Parliamentary journey pretty swiftly and was granted Royal Assent in April 2017, becoming the Children & Social Work Act. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
 Download the document here.
 
-It was always the intention of the Policy paper, that the Act would bring new statutory imperatives at whole-sector level to the agencies responsible for vulnerable children, impacting strategic priorities, inter-agency working, ownership and accountability. Those agencies could be forgiven, along with their wider ecosystem of public sector partners, for feeling that commencement and the green shoots of implementation, seemed strangely dislocated from the passing of the Act.&nbsp;
+It was always the intention of the Policy paper, that the Act would bring new statutory imperatives at whole-sector level to the agencies responsible for vulnerable children, impacting **strategic priorities**, **inter-agency** working, **ownership** and **accountability**. Those agencies could be forgiven, along with their wider ecosystem of public sector partners, for feeling that commencement and the green shoots of implementation, seemed strangely dislocated from the passing of the Act.&nbsp;
 
-Some strands were quick to kick in - the adoption by Local Authorities of the requirement for whole-organisation Corporate Parenting Principles to name one. Others, such as the shift in ownership of who exactly is accountable for what in Schools, including Academy Trusts, has been slower to seed.
+Some strands were quick to kick in - the adoption by Local Authorities of the requirement for whole-organisation **Corporate Parenting Principles** to name one. Others, such as the shift in ownership of who exactly is accountable for what in **Schools**, including Academy Trusts, has been slower to seed.
 
-What is clear however, is that the Act would seek to consolidate structural shifts in the Public Sector, in the way money flows through the agency infrastructure, which have been gathering pace and quietly bedding in for at least the past 5 years. The Education & Adoption Act (2015) - with its focus on subregional 'cluster - working' by Local Authorities - passed by the attentions of many out in the field, yet was a clear signal of the ongoing 'direction of travel' by the Government to extend the thinking behind the preceding Devolution Deals, to everything else. Then there has been the rise of 'sector-led improvement' models, which the Schools sector has been grappling with for some time. The 2016 'Putting Children First' paper then gave expression to this as an intended plank in the Act's reform of the Social Work sector, who thought-leads and its 'community of practice'.
+What is clear however, is that the Act would seek to consolidate **structural shifts** in the **Public Sector**, in the way money flows through the agency infrastructure, which have been gathering pace and quietly bedding in for at least the past 5 years. The **Education & Adoption Act** (2015) - with its focus on subregional 'cluster - working' by Local Authorities - passed by the attentions of many out in the field, yet was a clear signal of the ongoing 'direction of travel' by the Government to extend the thinking behind the preceding **Devolution Deals**, to everything else. Then there has been the rise of '***sector-led improvement***' models, which the Schools sector has been grappling with for some time. The 2016 'Putting Children First' paper then gave expression to this as an intended plank in the Act's reform of the Social Work sector, who thought-leads and its 'community of practice'.
 
-And what of 'Co Production'? A tenet of the brave new world ushered in by the Children & Families Act (2014) for those with SEND, which pivots on collaborative, person-centered decision-making between agencies, their representatives in the field and families. In itself, not a funding mechanism but certainly, a influencer in what money comes out of Government, where it goes and what it is purported to be used for.
+And what of '***Co Production***'? A tenet of the brave new world ushered in by the **Children & Families Act** (2014) for those with SEND, which pivots on collaborative, person-centered decision-making between agencies, their representatives in the field and families. In itself, not a funding mechanism but certainly, a influencer in what money comes out of Government, where it goes and what it is purported to be used for.
 
-This saw the announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding)** and **[DfE](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)** of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding arrangements outlined in the C&SW Act. Local Children's Safeguarding Boards are to be 'retired'. Fresh statutory impetus will fall on the a single 'multi-agency' effort of Police, LAs & Health.
+This saw the announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding)** and **[DfE](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)** of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding arrangements outlined in the C&SW Act. **Local Children's Safeguarding Boards**&nbsp;are to be 'retired'. Fresh statutory impetus will fall on the a single 'multi-agency' effort of **Police**, **LAs** & **Health**.
 
 So new multi-agency agreements, will be key. But more than that, collaborative working, will be paramount in pulling this off.
 
