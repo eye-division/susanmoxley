@@ -23,7 +23,7 @@ _comments:
 
 July 2016 seems a very long time ago, not forgetting we have since then had a change of Prime Minister and the fall out from Brexit. But this is when **"Putting Children First"**&nbsp; - the Government's policy paper on Vulnerable Children - was first published. It reached the end of its Parliamentary journey pretty swiftly and was granted Royal Assent in April 2017, becoming the Children & Social Work Act. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
 
-[Download the document here](/CreativeLearningHubs_Future&amp;Feasibility_Kindle_18406Web.pdf).
+Download the document here.
 
 It was always the intention of the Policy paper, that the Act would bring new statutory imperatives at whole-sector level to the agencies responsible for vulnerable children, impacting strategic priorities, inter-agency working, ownership and accountability. Those agencies could be forgiven, along with their wider ecosystem of public sector partners, for feeling that commencement and the green shoots of implementation, seemed strangely dislocated from the passing of the Act.&nbsp;
 
