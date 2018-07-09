@@ -65,12 +65,10 @@ So, whilst commencement of all strands of the Act has been more of a trickle tha
 
 The onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led innovation**, **co-production** and **collaborative commissioning**&nbsp; which crosses practice, policy and geographical boundaries, is not going anywhere, anytime soon.
 
-Enjoy!
+**Strap in & enjoy the ride.**
 
 Jo Broad 06.07.18.
 
 06.12.16<br>05.04.17<br>27.04.17
-
-06.07.18.<br>(all information subject to influence of statutory commencement orders/implementation frameworks)
 
 Web Link : [Sector change ushered in for LAs, Schools, Health, Police](http://www.communitycare.co.uk/2017/04/28/children-social-work-act-2017-social-work-reforms-become-law/){: .greenlink target="link"}
