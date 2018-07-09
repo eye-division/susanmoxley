@@ -35,11 +35,13 @@ And what of 'Co Production'? A tenet of the brave new world ushered in by the Ch
 
 This saw the announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding)** and **[DfE](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)** of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding arrangements outlined in the C&SW Act. Local Children's Safeguarding Boards are to be 'retired'. Fresh statutory impetus will fall on the a single 'multi-agency' effort of Police, LAs & Health.
 
-So new multi-agency agreements, will be key. But more than that, collaborative working, will be paramount in pulling this off successfully.
+So new multi-agency agreements, will be key. But more than that, collaborative working, will be paramount in pulling this off.
 
-**So where does this leave us at the present time? **
+**So where does all this leave us at the present time? **
 
-I have re-produced here the analysis I first wrote about here back in December 2016 after "Putting Children First" was published, which draws a picture of the 'sector shifts' that we are all in the midst of, knowingly or otherwise. Some points are specific parts of the Act, some are my own expression of the 'sector levers' which are now at play in shaping the flow of money through the wider public sector economy - as follows:
+I have re-produced below here, an analysis I first published here back in December 2016 after "Putting Children First" rolled off the press. This draws a picture of the 'sector shifts' that we are all in the midst of, knowingly or otherwise.
+
+Some points are specific parts of the Act, some are my own expression of the 'sector levers' which are now at play in shaping the flow of money through the wider public sector economy:
 
 **Regional and sub-regional commissioning of services:** a need for collaborative working across traditional Public Sector geographical boundaries
 
@@ -59,11 +61,13 @@ I have re-produced here the analysis I first wrote about here back in December 2
 
 **"Local Offer"** to be extended to **Care Leavers**
 
-**So where are we now?**
+So where are we now?
 
-So, whilst commencement of all strands of the Act has been more of a trickle than a torrent, the changes it legislated for, are with us nonetheless. It is worth remembering that rushed, large-scale implementation is rarely successful on the ground. That makes 'piloting' as an approach, very sensible.
+Well, whilst commencement of all the strands of the Act, has been perhaps more of a trickle than a torrent, the changes it legislated for, are with us nonetheless.
 
-meanwhile, the onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led innovation**, **co-production** and **collaborative commissioning**&nbsp; - which crosses practice, policy and geographical boundaries- &nbsp;is not going anywhere, anytime soon.
+It is worth remembering too that rushed, large-scale implementation is rarely successful, on the ground. That makes 'piloting' as an approach, very sensible.
+
+Meanwhile, the onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led innovation**, **co-production** and **collaborative commissioning**&nbsp; - which crosses practice, policy and geographical boundaries- &nbsp;is not going anywhere, anytime soon.
 
 **Strap in & enjoy the ride.**
 
