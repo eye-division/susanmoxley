@@ -27,7 +27,6 @@ _comments:
 
 Back in the now dim & distant past of 2015, new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government.
 
-
 Its arrival was marked by an excellent event hosted by [**NCB**](https://www.ncb.org.uk/). Contributors from DfE and DoH came together with nationally recognised figures in the field of Adoption, and from the 'big three': **Health**, **Education** and **Social Care**.
 
 However, there was nothing substantial on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables (I was sat next to an extremely lovely gentleman from OFSTED) on the support that may be needed, or could be developed, to support the Wellbeing of adults directly working with vulnerable children.
