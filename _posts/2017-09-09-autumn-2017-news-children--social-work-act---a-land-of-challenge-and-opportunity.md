@@ -4,7 +4,7 @@ title: >-
   opportunity
 date: 2017-09-09 15:21:00
 categories:
-  - News
+  - Archive
 main_image_path:
 video_embed:
 images:

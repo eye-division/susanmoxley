@@ -1,6 +1,5 @@
 # External gems - updated to plugins in jekyll v3.6
 plugins:
- # - jekyll-archives # Sorry, not GitHub pages friendly!
    - jekyll-seo-tag
    - jekyll-sitemap
  # - jekyll-assets
@@ -33,7 +32,7 @@ highlightjs_theme: "monokai-sublime"
 # Image CDN
 imagecdn:
   staging: "https://ed-kindleco-dev.imgix.net"
-  #production: "https://ed-eyegallery.imgix.net"
+  production: "https://ed-kindleco.imgix.net"
 
 # Collections Example
 collections:
@@ -117,7 +116,7 @@ social:
     icon: icon-twitter_sign
     username: 'jobroad_kin'
     url: https://twitter.com/jobroad_kin
-    desc: Follow us on Twitter
+    desc: Follow KindleCo on Twitter
     share: true
 
   - name: Pinterest
@@ -131,7 +130,7 @@ social:
     icon: icon-linkedin_sign
     username: jo-broad
     url: https://uk.linkedin.com/pub/jo-broad/0/666/669
-    desc: Connect with me on LinkedIn
+    desc: Connect with KindleCo on LinkedIn
     share: true
 
 # https://uk.linkedin.com/pub/jo-broad/0/666/669
