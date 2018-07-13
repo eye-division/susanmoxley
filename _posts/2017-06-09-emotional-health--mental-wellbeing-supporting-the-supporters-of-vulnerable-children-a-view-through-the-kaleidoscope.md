@@ -80,15 +80,15 @@ Friends are good (especially those that are treading a similar path) but there a
 
 > ***There is a need for something that extends beyond informal cups of coffee.&nbsp;***
 
-Parent-Carers do get asked alot, to consult on other people's corporate plans: - not that parent-carers mind this-&nbsp; but when it's the only mode of interaction with public agencies and their arms-length partners, being repeatedly asked minus any actual support, can get a little wearing.&nbsp;
+**Parent-Carers do get asked alot, to consult on other people's corporate plans**: - not that parent-carers mind this-&nbsp; but when it's the only mode of interaction with public agencies and their arms-length partners, being repeatedly asked minus any actual support, can get a little wearing.&nbsp;
 
 **For many parent-carers, there is a need to process the emotions that come up when:**
 
 * you feel **de-skilled** around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development);
 * or **disempowered** in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;
-* or to handle that strange, ***semi- disabling outbreak of 'over-empathy***' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, under-resourced public sector professionals who have just forgotten to implement a key part of your child's support plan …… but you've got to tackle it head on with them anyway..?
+* or to handle that strange, ***semi- disabling outbreak of 'over-empathy***' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, **under-resourced public sector professionals** who have just forgotten to implement a key part of your child's support plan …… but you've got to tackle it head on with them anyway..?
 
-There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities (often involving taking their child to an event which can be challenging in itself). There is also on-line access to guidance (again valued) on which to call to help P-Cs fight their children's cases with the pubic sector itself.&nbsp;
+There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities (often involving taking their child to an event which can be challenging in itself). There is also on-line access to guidance (again valued) on which to call to help P-Cs advocate for their children's cases with the pubic sector itself.&nbsp;
 
 And, at the risk of doing a dizzying 360,&nbsp; one must not forget that [**Public Sector Leaders**](https://www.ncb.org.uk/resources-publications/browse-our-publications-catalogue/putting-corporate-parenting-practice) must take very difficult decisions about service reform & transformation. That comes with an emotional cost, especially in an era of heavily - reduced budgets.
 
