@@ -31,9 +31,8 @@ Its arrival was marked by an excellent event hosted by [**NCB**](https://www.ncb
 
 However, there was nothing substantial on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables (I was sat next to an extremely lovely gentleman from OFSTED) on the support that may be needed, or could be developed, to support the Wellbeing of adults directly working with vulnerable children.
 
-> **No-one tabled the question:** how do adults process the emotional impact of their work, on themselves, and those around them? &nbsp;
->
->
+**No-one tabled the question:** ***how do adults process the emotional impact of their work, on themselves, and those around them? ***&nbsp;
+
 > In a room full of Health professionals, this seemed strangely at odds with the realities so many adults face, in the course of our daily task.
 
 For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focussed on their own wellbeing. There is a lack of support which is systematized, and rooted in evidence-based practice, to help all the adults involved in supporting a child to maintain the emotional objectivity necessary stay effective.
@@ -51,7 +50,7 @@ What was discussed was entirely inequitable in its accessibility to all those ad
 >
 > There is no 'workplace' support scheme for parent-carers, despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those are the parents of young people with **SEN**, **Disabilities** and with enduring **Health** needs, who typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
 
-Truth to be told, there were not many P-Cs at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having recently stepped back into the workplace, after a hugely extended stint on maternity leave.
+**Truth to be told, there were not many P-Cs at the event**. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having recently stepped back into the workplace, after a hugely extended stint on maternity leave.
 
 But in families, whose children are not Looked After by the state, lived at home and are indeed highly Vulnerable, what happens to the mental state of the adults?&nbsp; What happens when they find themselves unwittingly at the front line of both child's emotional needs at home, and, the 'services' battlegrounds?
 
@@ -69,7 +68,7 @@ It struck me so much that day and since, that we lack an system which helps adul
 
 There are providers out there, doing some fantastic work with Professionals and with Families in a very holistic way (MBO in Oxfordshire and the Anna Freud Centre in London to name but two). But nothing which our national systems support, which truly responds to the daily reality of who does what, in a Team around a Child when they are unwell or not thriving socially and educationally.
 
-There is no rounded, 360 package of training & support, to help keep each of the individuals in the child's Team, healthy, objective and able to continue their role to an excellent standard.
+***There is no rounded, 360 package of training & support, to help keep each of the individuals in the child's Team, healthy, objective and able*** to continue their role to an excellent standard.
 
 Parent-Carers have no access to a concrete support structure for their own emotional wellbeing or Practice Development, which has parity with the Professionals in a Team, and certainly nothing borne of an evidence-base.
 
@@ -77,15 +76,15 @@ Yet, the additional challenges they face, operating as both the child's advocate
 
 Friends are good (especially those that are treading a similar path) but there are limits to what we can do for each other. And before anyone mentions an App, please don't. Buttons are not support, at least not for those of us borne in the late 1960s…..
 
-\*\*There is a need for something that extends beyond informal cups of coffee. \*\*
+> ***There is a need for something that extends beyond informal cups of coffee.&nbsp;***
 
 Parent-Carers do get asked alot, to consult on other people's corporate plans: - not that parent-carers mind this-&nbsp; but when it's the only mode of interaction with public agencies and their arms-length partners, being repeatedly asked minus any actual support, can get a little wearing.&nbsp;
 
-For many parent-carers, there is a need to process the emotions that come up when:
+**For many parent-carers, there is a need to process the emotions that come up when:**
 
-* you feel de-skilled around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development);
-* or disempowered in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;
-* or to handle that strange, semi- disabling outbreak of 'over-empathy' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, under-resourced public sector professionals who have just forgotten to implement a key part of your child's support plan for the third time that month…… but you've got to rollock them anyway, to get things done?
+* you feel **de-skilled** around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development);
+* or **disempowered** in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;
+* or to handle that strange, ***semi- disabling outbreak of 'over-empathy***' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, under-resourced public sector professionals who have just forgotten to implement a key part of your child's support plan …… but you've got to tackle it head on with them anyway..?
 
 There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities (often involving taking their child to an event which can be challenging in itself). There is also on-line access to guidance (again valued) on which to call to help P-Cs fight their children's cases with the pubic sector itself.&nbsp;
 
@@ -95,11 +94,11 @@ And, at the risk of doing a dizzying 360,&nbsp; one must not forget that [**Publ
 
 I think I should ad that NCB,&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of [**Co Production**](https://councilfordisabledchildren.org.uk/resources-and-help/im-parent) elsewhere with parent-carers. So no criticism implied of the 2015 event. The jury is still out on some of the other agencies driving that day.
 
-So, I have begun a journey of 'curious enquiry' with a range of organisations, sector -level stakeholder groups and with individuals, with who I am fortunate to have regular contact.
+So, I have begun ***a journey of 'curious enquiry' ***with a range of organisations, sector -level stakeholder groups and with individuals, with who I am fortunate to have regular contact.
 
-A sort of 3 - way lens has been slowly but surely building, of professional, stakeholder and personal perspectives over the past decade.
+A sort of **3 - way lens** has been slowly but surely building, of professional, stakeholder and personal perspectives over the past decade.
 
-It's a kaleidoscope view. One which I aim to deploy for the greater good, wherever possible and practicable.
+**It's a kaleidoscope view.** One which I aim to deploy for the greater good, wherever possible and practicable.
 
 There is (still) a debate to be had nationally, about how to resource and systematize the maintaining of ALL adults in a team around a child so that they remain healthy, objective and able to stay the course, without frazzling away into oblivion.
 
@@ -107,17 +106,17 @@ Experts would refer to [**Psychodynamic Theory &** Relational]((https://mulberry
 
 [**Projection** ](https://www.urbandictionary.com/define.php?term=Projection)is commonplace in meetings between adults, as well as when the child is in the room. Learning who's feelings belong to whom, and why, is something I have learned is incredibly important when trying to get things done and, stay whole.
 
-The key point is, such concepts can be an key influence in any group process, and are as strong a factor in individuals wearing a professional hat, as they are when wearing a parent-carer one. Deployed consciously and wisely, they can be helpful in brokering agreements, garnering stakeholder buy-in and ultimately facilitate the reaching of outcomes, which all parties experience as useful.&nbsp;
+The key point is, such concepts can be an key influence in any group process, and are as strong a factor in individuals wearing a professional hat, as they are when wearing a parent-carer one. **Deployed consciously and wisely, they can be helpful in brokering agreements, garnering stakeholder buy-in and ultimately facilitate the reaching of outcomes**, which all parties experience as useful.&nbsp;
 
-Left unchecked and unprocessed, they are a route to ill health for the adult, and poor outcomes for the child.
+**Left unchecked** and unprocessed, they are **a route to ill health for the adult**, and poor outcomes for the child.
 
-**Early Help** Offers from Local Authorities are variable.&nbsp; By and large, parents of Young People with SEND, can find these off -putting because the entire process sits in a Safeguarding frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, through the lens of Child Protection.&nbsp; The paid Professionals in a Team around the Child, do not have to make recourse to anything of this nature, in order to update their task-specific knowledge, remain healthy and continue to act objectively, in the best interests of the child. Google a few randomly selected examples on 'Early Help' for families and you will find some LAs are much more 'welcoming' in their tone, than others.
+**Early Help** Offers from Local Authorities are variable.&nbsp; By and large, parents of Young People with SEND, can find these off -putting because the entire process sits in a Safeguarding frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, through the lens of Child Protection.&nbsp; The paid **Professionals in a Team around the Child**, do not have to make recourse to anything of this nature, in order to update their task-specific knowledge, remain healthy and continue to act objectively, in the best interests of the child. Google a few randomly selected examples on 'Early Help' for families and you will find some LAs are much more 'welcoming' in their tone, than others.
 
-A national offer is needed which is equitable in its access (and includes Teachers' Wellbeing alongside Clinicians & Social Workers), is not workplace or seniority -specific, sits outside of Safeguarding and crucially, recognise the Parent-Carer as part of the team.
+A **national offer is needed which is equitable in its access** (and includes Teachers' Wellbeing alongside Clinicians & Social Workers), is **not workplace or seniority -specific**, sits **outside of Safeguarding** and crucially, **recognises the Parent-Carer****as part of the team.**
 
-It's about supporting the professional-level practice skills, and emotional load, demanded of all Team members around a child, regardless of their 'job' title.
+It's about supporting the professional-level practice skills, and emotional load, demanded of all Team members around a child, **regardless of their 'job' title**.
 
-I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue and seek to trigger a systems-level intervention.
+I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue and seek to trigger a **systems-level intervention**.
 
 If you would like to join me in 'support for the supporters' get in touch.&nbsp;
 
