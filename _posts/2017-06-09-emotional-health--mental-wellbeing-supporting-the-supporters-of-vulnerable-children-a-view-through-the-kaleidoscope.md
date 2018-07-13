@@ -33,32 +33,34 @@ However, there was nothing substantial on the formal Agenda,&nbsp; and little or
 
 **No-one tabled the question:** ***how do adults process the emotional impact of their work, on themselves, and those around them? ***&nbsp;
 
-> In a room full of Health professionals, this seemed strangely at odds with the realities so many adults face, in the course of our daily task.
+> **In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.
 
-For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focussed on their own wellbeing. There is a lack of support which is systematized, and rooted in evidence-based practice, to help all the adults involved in supporting a child to maintain the emotional objectivity necessary stay effective.
+For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focussed on their own wellbeing. **There is a lack of support which is systematized, and rooted in evidence-based practice, to help all the adults involved** in supporting a child to maintain the emotional objectivity necessary stay effective.
 
-What support there is, tends to be lopsided in who can access it, and is either about practice-development when delivering with the child, about the mechanics of discharging statutory duties, or arms-length counselling for individuals, through services which are fundamentally disconnected to the Team.
+What support there is, tends to be **lopsided in who can access it**, and is either about **practice-development** when delivering with the child, about the **mechanics of discharging statutory duties**, or **arms-length counselling** for individuals, through services which are fundamentally **disconnected to the Team**.
 
-Social Workers and Clinicians attending that day back in 2015, were able to cite some existing structures in the workplace, including 'Supervision'. By and large, Education professionals were not. A supportive Line Manager was a close as it got.
+Social Workers and Clinicians attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. By and large, Education professionals were not. A supportive Line Manager was a close as it got.
 
-Foster Carers were more likely to be viewed as Professionals and could access training through Local Authority generated support; Adoptive Parents felt almost on their own 'post-&nbsp; permanence'.
+**Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.
 
-What was discussed was entirely inequitable in its accessibility to all those adults who would typically form a Team around a Child.
+What was discussed was entirely inequitable in its accessibility to all those adults who would typically form a **Team around a Child**.
 
-> Then there were Parent-Carers: this turned up a zero.
+> ***Then there were Parent-Carers: this turned up a zero.***
 >
 >
-> There is no 'workplace' support scheme for parent-carers, despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those are the parents of young people with **SEN**, **Disabilities** and with enduring **Health** needs, who typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
+> There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those are the parents of young people with **SEN**, **Disabilities** and with enduring **Health** needs, who typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
 
 **Truth to be told, there were not many P-Cs at the event**. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having recently stepped back into the workplace, after a hugely extended stint on maternity leave.
 
-But in families, whose children are not Looked After by the state, lived at home and are indeed highly Vulnerable, what happens to the mental state of the adults?&nbsp; What happens when they find themselves unwittingly at the front line of both child's emotional needs at home, and, the 'services' battlegrounds?
+But in families, whose **children are not Looked After by the state, live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults**?&nbsp;
 
-Most parent-carers, given a suitably 'safe (non-judgmental, non-pathologizing) space', would say, it's a massive challenge.
+What happens when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and, the '**services**' negotiating grounds?
+
+Most parent-carers, given a suitably 'safe (**non-judgmental, non-pathologizing**) space', would say, it's a massive challenge.
 
 In the past decade, I have become acutely aware of the toll it takes those adults - any adult - supporting vulnerable children directly.
 
-The toll it takes on a vulnerable child, trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense, regardless of eventual outcomes, the commitment to self-efficacy by the child, and how well those adults do their jobs.&nbsp;
+The toll it takes on a vulnerable child, trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense, regardless of eventual outcomes and, how well those adults do their jobs.&nbsp;
 
 And if it is immense for the child, it's going to be immense for the adult.
 
