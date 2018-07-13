@@ -1,5 +1,5 @@
 ---
-title: Children & Social Work Act - where are we now?
+title: 'Children & Social Work Act - it''s July 2018, so where are we now?'
 date: 2018-07-06 15:21:00
 categories:
   - News
@@ -16,9 +16,9 @@ _options:
     correct_orientation: true
 ---
 
-July 2016 seems a very long time ago, not forgetting we have since then had a change of Prime Minister and the fall out from Brexit. But this is when **"Putting Children First"**&nbsp; - the Government's policy paper on Vulnerable Children - was first published. It reached the end of its Parliamentary journey pretty swiftly and was granted Royal Assent in April 2017, becoming the Children & Social Work Act. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1retnpgt9memvkgt9hchhkjtvh6tu3jutp70pp4rbkcmtk4-base32-->
+July 2016 seems a very long time ago, not forgetting we have since then had a change of Prime Minister and the fall out from Brexit. But this is when **"Putting Children First"**&nbsp; - the Government's **policy paper on Vulnerable Children** - was first published. It reached the end of its Parliamentary journey pretty swiftly and was granted Royal Assent in April 2017, becoming the Children & Social Work Act. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2wk5ehq70tvm75ppavbpddkq8eb8cdm6guvaehv6gdkmemtpmxbme0vk0w3g6ht64uv3dnu6pd1dc9gq6t9k68-base32-->
 
-Download the document here.
+You can download the document [here.](https://www.gov.uk/government/publications/putting-children-first-our-vision-for-childrens-social-care)
 
 It was always the intention of the Policy paper, that the Act would bring new statutory imperatives at whole-sector level to the agencies responsible for vulnerable children, impacting **strategic priorities**, **inter-agency** working, **ownership** and **accountability**. Those agencies could be forgiven, along with their wider ecosystem of public sector partners, for feeling that commencement and the green shoots of implementation, seemed strangely dislocated from the passing of the Act.&nbsp;
 
@@ -32,7 +32,7 @@ This saw the announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-hi
 
 So new multi-agency agreements, will be key. But more than that, collaborative working, will be paramount in pulling this off.
 
-**So where does all this leave us at the present time? **
+\*\*So where does all this leave us at the present time? \*\*
 
 I have re-produced below here, an analysis I first published here back in December 2016 after "Putting Children First" rolled off the press. This draws a picture of the 'sector shifts' that we are all in the midst of, knowingly or otherwise.
 
