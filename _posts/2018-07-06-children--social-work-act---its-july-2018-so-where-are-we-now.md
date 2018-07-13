@@ -16,9 +16,9 @@ _options:
     correct_orientation: true
 ---
 
-July 2016 seems a very long time ago, not forgetting we have since then had a change of Prime Minister and the fall out from Brexit. But this is when **"Putting Children First"**&nbsp; - the Government's **policy paper on Vulnerable Children** - was first published. It reached the end of its Parliamentary journey pretty swiftly and was granted Royal Assent in April 2017, becoming the Children & Social Work Act. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2wk5ehq70tvm75ppavbpddkq8eb8cdm6guvaehv6gdkmemtpmxbme0vk0w3g6ht64uv3dnu6pd1dc9gq6t9k68-base32-->
+July 2016 seems a very long time ago, not forgetting we have since then had a change of Prime Minister and the fall out from Brexit. But this is when **"Putting Children First"**&nbsp; - the Government's **policy paper on Vulnerable Children** - was first published. It reached the end of its Parliamentary journey pretty swiftly and was granted Royal Assent in April 2017, becoming the Children & Social Work Act. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xvb6njpgw9q61u7cv9q6nr70rbpc9r68t3be4w6arhrcdj6udk7env62tb8erv6et3bdnjpux3gdnw64vb561v6pc3q6dkkcu3m6ru7axhkchq7adkgcgrp8rttcxrkcx1tdcv3gbb2c5tpactj-base32-->
 
-You can download the document [here.](https://www.gov.uk/government/publications/putting-children-first-our-vision-for-childrens-social-care)
+**You can download the document [here.](https://www.gov.uk/government/publications/putting-children-first-our-vision-for-childrens-social-care)**
 
 It was always the intention of the Policy paper, that the Act would bring new statutory imperatives at whole-sector level to the agencies responsible for vulnerable children, impacting **strategic priorities**, **inter-agency** working, **ownership** and **accountability**. Those agencies could be forgiven, along with their wider ecosystem of public sector partners, for feeling that commencement and the green shoots of implementation, seemed strangely dislocated from the passing of the Act.&nbsp;
 
@@ -30,11 +30,11 @@ And what of '***Co Production***'? A tenet of the brave new world ushered in by 
 
 This saw the announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding)** and **[DfE](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)** of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding arrangements outlined in the C&SW Act. **Local Children's Safeguarding Boards**&nbsp;are to be 'retired'. Fresh statutory impetus will fall on the a single 'multi-agency' effort of **Police**, **LAs** & **Health**.
 
-So new multi-agency agreements, will be key. But more than that, collaborative working, will be paramount in pulling this off.
+So new **multi-agency agreements, will be key**. But more than that, **collaborative working, will be paramount** in pulling off effectiveness.
 
-\*\*So where does all this leave us at the present time? \*\*
+**So where does all this leave us at the present time?&nbsp;**
 
-I have re-produced below here, an analysis I first published here back in December 2016 after "Putting Children First" rolled off the press. This draws a picture of the 'sector shifts' that we are all in the midst of, knowingly or otherwise.
+**I have re-produced below here, an analysis I first published here back in December 2016** after "Putting Children First" rolled off the press. This draws a picture of the '**sector shifts**' that we are all in the midst of, knowingly or otherwise.
 
 Some points are specific parts of the Act, some are my own expression of the 'sector levers' which are now at play in shaping the flow of money through the wider public sector economy:
 
@@ -56,18 +56,18 @@ Some points are specific parts of the Act, some are my own expression of the 'se
 
 **"Local Offer"** to be extended to **Care Leavers**
 
-So where are we now?
+**So where are we now?**
 
-Well, whilst commencement of all the strands of the Act, has been perhaps more of a trickle than a torrent, the changes it legislated for, are with us nonetheless.
+Whilst commencement of all the strands of the Act, has been more of a trickle than a torrent, the changes it legislated for, are with us nonetheless.
 
-It is worth remembering too that rushed, large-scale implementation is rarely successful, on the ground. That makes 'piloting' as an approach, very sensible.&nbsp;
+It is worth remembering too that **rushed, large-scale implementation is rarely successful**, on the ground. That makes '**piloting**' as an approach, very sensible.&nbsp;
 
-Meanwhile, the onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led innovation**, **co-production** and **collaborative commissioning**&nbsp; - which crosses practice, policy and geographical boundaries- &nbsp;is not going anywhere, anytime soon.
+Meanwhile, the onward march towards **whole-system** adoption of **sector-led improvement** models, **practice-led** innovation, **co-production** and **collaborative commissioning**&nbsp; - crossing **practice, policy** and **geographical** boundaries as it goes- &nbsp;is not going anywhere, anytime soon.
 
 **Strap in & enjoy the ride.**
 
-Jo Broad 06.07.18.
+**Jo Broad 06.07.18.**
 
-06.12.16<br>05.04.17<br>27.04.17
+Previously published: 06.12.16&nbsp; &nbsp;05.04.17.&nbsp; &nbsp;27.04.17
 
 Web Link : [Sector change ushered in for LAs, Schools, Health, Police](http://www.communitycare.co.uk/2017/04/28/children-social-work-act-2017-social-work-reforms-become-law/){: .greenlink target="link"}
