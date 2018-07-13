@@ -62,21 +62,21 @@ In the past decade, I have become acutely aware of the toll it takes those adult
 
 The toll it takes on a vulnerable child, trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense, regardless of eventual outcomes and, how well those adults do their jobs.&nbsp;
 
-And if it is immense for the child, it's going to be immense for the adult.
+> **And if it is immense for the child, it's going to be immense for the adult.**
 
 The vast majority of parents, whether Corporate or not, want to meet these challenges in full, selflessly, with gusto & dedication and be an effective agent for that child's own life ambitions.
 
 It struck me so much that day and since, that we lack an system which helps adults process their work emotionally, which is equitable in access, and evidence-based.
 
-There are providers out there, doing some fantastic work with Professionals and with Families in a very holistic way (MBO in Oxfordshire and the Anna Freud Centre in London to name but two). But nothing which our national systems support, which truly responds to the daily reality of who does what, in a Team around a Child when they are unwell or not thriving socially and educationally.
+There are providers out there, doing some fantastic work with Professionals and with Families in a very holistic way (***MBO in Oxfordshire*** and the ***Anna Freud Centre ***in London to name but two). But **nothing which our national systems supports**, which truly responds to the daily reality of who does what, in a Team around a Child when they are **unwell, and not thriving** socially and educationally.
 
-***There is no rounded, 360 package of training & support, to help keep each of the individuals in the child's Team, healthy, objective and able*** to continue their role to an excellent standard.
+***There is no rounded, 360 package of training & support, to help keep each of the individuals in the child's Team, ***healthy, objective and able to continue their role to an excellent standard.
 
-Parent-Carers have no access to a concrete support structure for their own emotional wellbeing or Practice Development, which has parity with the Professionals in a Team, and certainly nothing borne of an evidence-base.
+**Parent-Carers** have no routine access to a concrete support structure for their own emotional wellbeing or Practice Development, which has **parity with the Professionals** in a Team, and certainly **nothing borne of an evidence-base.**
 
 Yet, the additional challenges they face, operating as both the child's advocate with agencies, and the child's relational backstop, at home, are immense.
 
-Friends are good (especially those that are treading a similar path) but there are limits to what we can do for each other. And before anyone mentions an App, please don't. Buttons are not support, at least not for those of us borne in the late 1960s…..
+Friends are good (especially those that are treading a similar path) but there are limits to what we can do for each other. And before anyone mentions an App, please don't. Buttons are not support, whatever the lure of the global marketplace may be.
 
 > ***There is a need for something that extends beyond informal cups of coffee.&nbsp;***
 
