@@ -33,7 +33,7 @@ Back in the now **dim & distant past of 2015**, new statutory guidance emphasisi
 
 Its arrival was marked by **an excellent event hosted by** [**NCB**](https://www.ncb.org.uk/). Contributors from **DfE** and **DoH** came together with nationally recognised figures in the field of Adoption, and from the 'big three' of&nbsp;**Health**, **Education** and **Social Care**.
 
-However, there was nothing substantial on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables (I was sat next to an extremely lovely gentleman from OFSTED) on the support that may be needed of adults directly working with these vulnerable children.
+However, there was nothing substantial on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables (I was sat next to an extremely lovely gentleman from OFSTED) on the support that may be needed for adults directly working with these vulnerable children.
 
 **No-one tabled the question:** *\*\*how do adults process the emotional impact of their work, on themselves, and those around them? \*\**&nbsp;
 
