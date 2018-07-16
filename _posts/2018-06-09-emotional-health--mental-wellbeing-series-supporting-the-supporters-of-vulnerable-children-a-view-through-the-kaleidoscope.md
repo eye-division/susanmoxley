@@ -56,13 +56,13 @@ What was discussed was entirely inequitable in its accessibility to all those ad
 
 But in families, whose **children are not Looked After by the state, live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults,** when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and, the '**services**' negotiating grounds?
 
-Most parent-carers, given a suitably 'safe - (**non-judgmental, non-pathologizing**)- space', would say, it's a massive challenge.
+Most parent-carers, given a suitably 'safe - (**non-judgemental, non-pathologising**)- space', would say, it's a massive challenge.
 
 In the past decade, I have become acutely aware through my professional work and the community circles I move in, of the toll it takes those adults (any adult) supporting vulnerable children directly.
 
 That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense. That's regardless of self-efficacy, graft, quality of professional input, eventual resilience and outcomes.
 
-> **It's because, if it is immense for the child, it's immense for the adult.**
+> **If it is immense for the child, it's immense for the adult.**
 
 The vast majority of parents, whether Corporate or not, want to meet these challenges in full, selflessly, with gusto & dedication and be an effective agent for that child's own life ambitions.
 
