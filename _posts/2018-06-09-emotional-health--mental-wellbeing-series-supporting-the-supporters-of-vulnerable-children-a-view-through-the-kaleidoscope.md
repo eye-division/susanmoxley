@@ -60,9 +60,9 @@ Most parent-carers, given a suitably 'safe - (**non-judgmental, non-pathologizin
 
 In the past decade, I have become acutely aware through my professional work and the community circles I move in, of the toll it takes those adults (any adult) supporting vulnerable children directly.
 
-The toll it takes on a vulnerable child, trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense, regardless of eventual outcomes and, how well those adults do their jobs.&nbsp;
+That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense. That's regardless of self-efficacy, graft, quality of professional input, eventual resilience and outcomes.
 
-> **And if it is immense for the child, it's going to be immense for the adult.**
+> **It's because, if it is immense for the child, it's immense for the adult.**
 
 The vast majority of parents, whether Corporate or not, want to meet these challenges in full, selflessly, with gusto & dedication and be an effective agent for that child's own life ambitions.
 
