@@ -26,7 +26,7 @@ says John Diamond, CEO.
 
 > "My vision is to lead the organisation to a response that is strategic, well-informed and practical. Working with Jo has enabled us to achieve that".
 
-> Jo is able to demonstrate quickly her skills in capturing our organisational 'essence’, and sound understanding of our corporate dynamics. Combining this with strong analytical skills and an experienced grasp of public sector mechanics, Jo enables us to arrive at an informed view of what the key shifts in the wider Public Sector - Putting Children First, the Children & Families Act, Future in Mind, Adoption Support - can mean for us as a whole-organisation. As we continue to build our organisational Strategy for the future, we will be meeting these challenges with confidence.”
+> Jo is able to demonstrate quickly her skills in capturing our organisational 'essence’, and sound understanding of our corporate dynamics. Combining this with strong analytical skills and an experienced grasp of public sector mechanics, Jo enables us to arrive at an informed view of what the key shifts in the wider Public Sector - Communities of Practice, What Works, Children & Social Work Act, Children & Families Act, Future in Mind - can mean for us as a whole-organisation. As we continue to build our organisational Strategy for the future, we will be meeting these challenges with confidence.”
 
 John Diamond, CEO, Mulberry Bush Organisation
 
