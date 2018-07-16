@@ -1,21 +1,21 @@
 ---
-title: "Continuing to support developments at innovative national children's charity"
-date: 2016-06-09 15:21:00
-categories: 
+title: Continuing to support developments at innovative national children's charity
+date: 2018-06-07 15:21:00
+categories:
   - News
-main_image_path: 
+main_image_path:
 video_embed:
 images:
-  - image_path: 
-    description: 
+  - image_path:
+    description:
 _options:
   main_image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
-  date: Posts are ordered by date
+  date: Invalid date
   main_image_path: Image used to represent your post
   video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
