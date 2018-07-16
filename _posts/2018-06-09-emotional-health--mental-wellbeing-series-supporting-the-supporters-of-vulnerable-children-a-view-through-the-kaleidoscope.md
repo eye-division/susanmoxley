@@ -37,7 +37,7 @@ However, there was nothing substantial on the formal Agenda,&nbsp; and little or
 
 > **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.
 
-For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focussed on their own wellbeing. There is a lack of support which is **systematized, and rooted in evidence-based practice, to help all the adults involved, at least not a system which is restricted to those carrying out the role of Foster or Corporate Parent.**
+For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is **systematized, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is restricted to those carrying out the role of Foster or Corporate Parent.
 
 What support there is, tends to be **lopsided in who can access it**, and is either about **practice-development** when delivering with the child, about the **mechanics of discharging statutory duties**, or **arms-length counselling** for individuals, through services which are fundamentally **disconnected to the Team**.
 
