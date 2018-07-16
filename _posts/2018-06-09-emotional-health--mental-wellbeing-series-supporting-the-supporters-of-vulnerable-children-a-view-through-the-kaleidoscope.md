@@ -37,7 +37,7 @@ However, there was nothing substantial on the formal Agenda,&nbsp; and little or
 
 > **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.
 
-For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is **systematized, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is restricted to those carrying out the role of Foster or Corporate Parent.
+For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is**&nbsp;systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is restricted to those carrying out the role of Foster or Corporate Parent.
 
 What support there is, tends to be **lopsided in who can access it**, and is either about **practice-development** when delivering with the child, about the **mechanics of discharging statutory duties**, or **arms-length counselling** for individuals, through services which are fundamentally **disconnected to the Team**.
 
@@ -54,11 +54,9 @@ What was discussed was entirely inequitable in its accessibility to all those ad
 
 **Truth to be told, there were not many P-Cs at the event**. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having recently stepped back into the workplace, after a hugely extended stint on maternity leave.
 
-But in families, whose **children are not Looked After by the state, live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults**?&nbsp;
+But in families, whose **children are not Looked After by the state, live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults,** when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and, the '**services**' negotiating grounds?
 
-What happens when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and, the '**services**' negotiating grounds?
-
-Most parent-carers, given a suitably 'safe (**non-judgmental, non-pathologizing**) space', would say, it's a massive challenge.
+Most parent-carers, given a suitably 'safe - (**non-judgmental, non-pathologizing**)- space', would say, it's a massive challenge.
 
 In the past decade, I have become acutely aware of the toll it takes those adults - any adult - supporting vulnerable children directly.
 
