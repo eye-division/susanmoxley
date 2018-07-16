@@ -20,7 +20,7 @@ _comments:
   video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
-> “As a national charity at the cutting edge of support for vulnerable children & families, The Mulberry Bush Organisation has to evolve in response to government led change – and now is no exception" <!--base32-dnqq4t8-base32-->
+> “As a national charity at the cutting edge of support for vulnerable children & families, The Mulberry Bush Organisation has to evolve in response to government led change – and now is no exception" <!--base32-c9gq6t9k68pp8vkhe4u78e1dc9gq6t9k68-base32-->
 
 says John Diamond, CEO.
 
@@ -30,6 +30,6 @@ says John Diamond, CEO.
 
 John Diamond, CEO, Mulberry Bush Organisation
 
-![](/uploads/mbo170.jpg)
+![](/uploads/mbo170.jpg)![](/uploads/mbob70-pw.jpg)![](/uploads/mboc-at70.jpg)
 
 Web Link : [Emotional Health & Mental Wellbeing:Vulnerable Children, Families, supporting Professionals](http://www.mulberrybush.org.uk/national-centre/){: target="new"}
