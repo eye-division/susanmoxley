@@ -58,7 +58,7 @@ But in families, whose **children are not Looked After by the state, live at hom
 
 Most parent-carers, given a suitably 'safe - (**non-judgmental, non-pathologizing**)- space', would say, it's a massive challenge.
 
-In the past decade, I have become acutely aware of the toll it takes those adults - any adult - supporting vulnerable children directly.
+In the past decade, I have become acutely aware through my professional work and the community circles I move in, of the toll it takes those adults (any adult) supporting vulnerable children directly.
 
 The toll it takes on a vulnerable child, trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense, regardless of eventual outcomes and, how well those adults do their jobs.&nbsp;
 
