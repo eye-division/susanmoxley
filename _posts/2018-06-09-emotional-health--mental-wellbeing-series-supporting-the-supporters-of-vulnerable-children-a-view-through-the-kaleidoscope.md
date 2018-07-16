@@ -64,9 +64,9 @@ That's partly because the toll it takes on a vulnerable child, just trying to li
 
 > **If it is immense for the child, it's immense for the adult.**
 
-The vast majority of parents, whether Corporate or not, want to meet these challenges in full, selflessly, with gusto & dedication and be an effective agent for that child's own life ambitions.
+&nbsp;
 
-It struck me so much that day and since, that we lack an system which helps adults process their work emotionally, which is equitable in access, and evidence-based.
+The vast majority of parents,&nbsp; Corporate and otherwise, want to meet these challenges in full, selflessly, with gusto & dedication and be an effective agent for that child's own life ambitions. Yet, it struck me so much that day back in 2015 and since, how much we lack a national system which helps all the relevant adults process their work emotionally, which is equitable in access, and borne of an evidence-base.
 
 There are providers out there, doing some fantastic work with Professionals and with Families in a very holistic way (***MBO in Oxfordshire*** and the ***Anna Freud Centre \*\**in London to name but two). But \*\*nothing which our national systems supports**, which truly responds to the daily reality of who does what, in a Team around a Child when they are **unwell, and not thriving** socially and educationally.
 
