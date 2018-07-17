@@ -24,7 +24,7 @@ KindleCo worked extensively across the region to bring the education, learning, 
 
 ###### ![](/uploads/artswork-birthday-pic.JPG)
 
-###### Celebrating 30th Birthday of&nbsp;[Artswork](https://artswork.org.uk/)&nbsp;in Nov 2017 with former Arts Council colleagues Jane (CEO, Artswork) and Norinne (Chair of Trustees)
+###### Celebrating 30th Birthday of&nbsp;[Artswork](https://artswork.org.uk/)&nbsp;in Nov 2017 with former Arts Council colleagues now Artswork CEO & Chair of Trustees
 
 We worked with the regional partners to generate sustainable business models for programme leaders & a wide range of stakeholders to create a road map to the future.
 
