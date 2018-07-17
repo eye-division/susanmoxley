@@ -35,9 +35,9 @@ Its arrival was marked by **an excellent event hosted by** [**NCB**](https://www
 
 However there was nothing on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables (I was sat next to an extremely lovely gentleman from OFSTED) on the support that might be needed for the adults, working directly with these vulnerable children.
 
-> **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.
+> **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?&nbsp;***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.
 
-![](/uploads/broken-bowl-pic-2.PNG)
+![](/uploads/children-champion-quote.PNG)
 
 For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is restricted to those carrying out the role of Foster or Corporate Parent.
 
