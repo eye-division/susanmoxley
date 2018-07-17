@@ -22,6 +22,10 @@ KindleCo successfully bid to design and deliver the organisational modelling and
 
 KindleCo worked extensively across the region to bring the education, learning, culture, business and economic development communities together in an integrated approach to support the creative learning infrastructure for children & young people in schools.
 
+###### ![](/uploads/artswork-birthday-pic.JPG)
+
+###### Photo courtesy of [Artswork](https://artswork.org.uk/) 30th Birthday celebrations Nov 2017
+
 With multiple stakeholders, KindleCo worked with the national programmes four regional leaders to generated models of how best to grow C.P. beyond its original constituencies.
 
 We worked with the regional partners to generate sustainable business models for programme leaders & a wide range of stakeholders to create a road map to the future.
