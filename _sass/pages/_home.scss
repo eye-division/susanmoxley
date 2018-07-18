@@ -6,7 +6,9 @@
 
     .page--content {
         @include grid-container;
+        background-color: $page-background-color;
     }
+
     .scrim {
         padding: 0 0 20em 0;
     }

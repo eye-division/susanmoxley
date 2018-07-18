@@ -46,13 +46,11 @@ section {
   //@include grid-visual;
   max-width: 1200px;
   padding: 0;
-  margin: 1em auto;
+  margin: 0 auto;
+  background-color: $page-background-color;
+   border-right: 1px solid $kindle-blue;
+   border-left: 1px solid $kindle-blue;
 
-  .page {
-     padding: 1em;
-     max-width: 48em;
-     margin: 1em auto;
-  }
   /// index.html
   .site-header-container {
       color: $white;
@@ -71,3 +69,9 @@ section {
 
 }
 
+.page {
+   padding: 1em;
+   max-width: 48em;
+   margin: 0 auto;
+
+}

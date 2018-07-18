@@ -6,9 +6,17 @@
     @include grid-container;
     //@include grid-visual;
     padding: 1em;
+    background-color: $footer-background;
+    color: $footer-color;
     .wrapper {
         padding: 0 1em;
         margin-top: 1em;
+    }
+    a {
+        color: $footer-color;
+        &:hover {
+            color: $footer-color-hover;
+        }
     }
 }
 

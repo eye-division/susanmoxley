@@ -75,7 +75,8 @@ $base-border-radius: 3px !default;
 
 // Background Colors
 $viewport-background-color: #fff;
-$base-background-color: $light-gray; //rgb(255, 255, 255);
+$base-background-color: lighten($kindle-blue,40%);
+$page-background-color: $white;
 
 // Focus
 $focus-outline-color: transparentize($action-color, 0.4);
@@ -110,6 +111,12 @@ $navigation-background: $kindle-blue;
 $navigation-color: $white;
 $navigation-color-hover: $kindle-green;
 $navigation-active-link-color: $kindle-green;
+
+// footer
+$footer-background: $kindle-blue;
+$footer-color: $white;
+$footer-color-hover: $kindle-green;
+$footer-active-link-color: $kindle-green;
 
 // drop down variables
 $dropdown-color: $base-font-color;
