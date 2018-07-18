@@ -72,12 +72,12 @@ _options:
     undo: true
     redo: true
     format: p h1 h2 h3 h4 div
-    numberedlist: true
-    bulletedlist: true
-    indent: true
-    outdent:  true
-    blockquote: true
-    image: true
+    numberedlist:
+    bulletedlist:
+    indent:
+    outdent:
+    blockquote:
+    image:
     styles: /css/editor.scss
   content:
     left: align-left
