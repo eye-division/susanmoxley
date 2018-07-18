@@ -57,6 +57,15 @@ defaults:
 
 _options:
   content:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    italic: true
+    numberedlist: true
+    table: true
+    indent: true
+    outdent:  true
+    blockquote: true
+    embed: true
     styles: /css/editor.css
   _block:
     left: align-left
