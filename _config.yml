@@ -56,10 +56,18 @@ defaults:
           layout: "post"
 
 _options:
+  _text:
+    italic: true
+    bold: true
+  _block:
+    left: align-left
+    center: center-this-text
+    right: align-right
+    justify: full-width-text
+    undo: true
+    redo: true
   content:
     format: p h1 h2 h3 h4 h5 h6 pre address div
-    bold: true
-    italic: true
     numberedlist: true
     table: true
     indent: true
@@ -67,11 +75,6 @@ _options:
     blockquote: true
     embed: true
     styles: /css/editor.css
-  _block:
-    left: align-left
-    center: center-this-text
-    right: align-right
-    justify: full-width-text
 
 # Payment settings
 # Environment settings
