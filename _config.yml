@@ -72,7 +72,7 @@ _options:
     indent: true
     outdent:  true
     blockquote: true
-    styles: /css/editor.css
+    styles: /css/editor.scss
 
 
 # Payment settings
