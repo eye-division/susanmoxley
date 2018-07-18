@@ -25,4 +25,8 @@
     @include grid-media($large) { // half page width on 488px and above
         @include grid-column(1);
     }
+    blockquote {
+        margin-left: 0;
+        padding-top: 0;
+    }
 }
