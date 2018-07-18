@@ -72,8 +72,17 @@ _options:
     indent: true
     outdent:  true
     blockquote: true
+    embed: true
     styles: /css/editor.scss
-
+  content:
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    numberedlist: true
+    table: true
+    indent: true
+    outdent:  true
+    blockquote: true
+    embed: true
+    styles: /css/editor.scss
 
 # Payment settings
 # Environment settings
