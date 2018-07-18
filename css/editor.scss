@@ -6,15 +6,17 @@
 
 /// https://docs.cloudcannon.com/editing/options/
 
-p.callout { /* Can be applied to blocks of content */
-  margin: 10px;
-  border: 1px solid rgb(114, 113, 160);
-  background-color: #eee;
-}
+
 
 span.big-purple-text { /* Can be applied to inline content */
   font-size: 2rem;
   color: rgb(114, 113, 160);
+}
+
+span.callout { /* Can be applied to blocks of content?? */
+  margin: 10px;
+  border: 1px solid rgb(114, 113, 160);
+  background-color: #eee;
 }
 
 .center-this-text { /* Excluded from style dropdown, used as center class described below */
