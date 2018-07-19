@@ -6,7 +6,9 @@
 
     .page--content {
         @include grid-container;
-        background-color: $page-background-color;
+        @include grid-media ($small) {
+        background: url('/assets/images/leaf.png') bottom right -10px no-repeat, url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
+        }
     }
 
     .scrim {
@@ -21,6 +23,7 @@
 .home {
     @include grid-media($large) { // half page width on 488px and above
         @include grid-column(3);
+        padding-right: 60px;
     }
 }
 .blog--home {
