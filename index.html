@@ -1,6 +1,10 @@
 ---
 layout: home
-title: "Welcome to KindleCo"
+carousel:
+  - image:
+    caption: ""
+    link:
+
 _options:
   image:
     width: 1200
@@ -8,48 +12,89 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
-
+  carousel: Edit the slideshow
+  link: Optional web link from the slide
+  caption: optional caption
 ---
 
-<section class="home">
-  <header class="post--header">
-      <h2 class="post--title">{{ page.title }}</h2>
-    </header>
-  <div class="editable">
-    <h3><em><em><em>Specialist to Social Purpose &amp; Public Sector</em></em>
-      </em><em><em></em></em>
-    </h3>
-    <div><em><em>working in the interests of </em></em><em><em><strong>Children, Young People &amp; Families</strong></em></em>
+    <div class="editable">
+      <p>Susan Moxley's prints and paintings are exhibited extensively in the UK and internationally, where they take their place in both public and private collections.</p>
+      <p>The diversity of her work including fine art, children's books, novel covers and stained glass demonstrates her curiosity and passion for creativity in all forms.</p>
+    <p>Susan's work is always immediately recognizable through it's free flowing,painterly lines and exuberant colours.</p>
     </div>
-    <div>&nbsp;</div>
-    <div>&nbsp;</div>
-    <p><strong>&nbsp;<img src="/uploads/kindle-templates-bullet-1.jpg" />Consultancy -&nbsp;</strong>developing projects, partnerships &amp; organisations</p>
-    <p><strong><img src="/uploads/kindle-templates-bullet-1.jpg" />Coaching multi-agency -&nbsp;</strong>project inception, design &amp; delivery</p>
-    <p><strong><img src="/uploads/kindle-templates-bullet-1.jpg" />Programme Leadership - </strong>for strategic initiatives</p>
-    <p><strong>&nbsp;<img src="/uploads/kindle-templates-bullet-1.jpg" />Surgeries </strong>for public sector &amp; social purpose professionals<strong></strong></p>
-    <p>&nbsp;</p>
-    <p><strong>Director</strong>,&nbsp;<strong>Jo Broad</strong>&nbsp;has been working in the interests of Children, Young People &amp; Families for more than 25 years.&nbsp;</p>
-    <blockquote>
-      <p><strong>Collaborative endeavour is my rocket fuel </strong> and I want it to be yours too​​​​​​....read on for more about <a data-cms-editor-link-style="undefined" href="/about/">KindleCo's values</a></p>
-    </blockquote>
-    <p>&nbsp;</p>
-    <p class="center-this-text">What do clients say ? Read <a href="/case-studies/#testimonials">testimonials</a>&nbsp;</p>
-  </div>
-  </section>
 
-  <section class="blog--home">
+    {% if site.show_carousel and page.carousel %}
+    <!-- <div class="two-thirds no-gutter"> -->
+    <section>
+      <h2>This is a demo slideshow</h2>
+      <div class="flexslider">
+          <ul class="slides">
+            {% for slides in page.carousel %}
+            <li>
+              {% if slides.link %}
+              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+              {% endif %}
+              {% include img.html src=slides.image width=960 alt=slides.caption %}
+              {% if slides.link %}
+              </a>
+            {% endif %}
+              {% if slides.caption %}
+              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+      <!-- </div> -->
+      {% endif %}
 
-    <ul>
-      {% for post in site.posts limit:2 %}
-        <li>
-          <h3 class="hdr--small">{{ post.title }}</h3>
-          <p>{{ post.excerpt | markdownify }}
-          <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
-        </li>
+      <!-- Regular page promotions on front page -->
+      {% for section in site.pages %}
 
-      {% endfor %}
+      {% if section.frontpage %}
 
-    </ul>
-    <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
+        {% if section.main_image_path %}
+          <section class="gallery-cover has-cover" style="background-image: url({{ section.main_image_path }});">
+        {% else %}
+          <section class="gallery-cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+        {% endif %}
+          <a href="{{ section.url | prepend: site.baseurl }}">
+            <div class="scrim has-cover">
+              <article class="gallery--front">
+                <header class="gallery-header">
+                  <h2 class="title">{{ section.frontpagetitle }}</h2>
+                </header>
+                {% if section.homepage_description_markdown %}
+                  {{ section.homepage_description_markdown  | markdownify }}<br>
+                  <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
-  </section>
+                {% endif %}
+            </article>
+          </div>
+          </a>
+        </section>
+
+      {% endif %}
+
+    {% endfor %}
+
+      <!-- Galleries -->
+    {% for gallery in site.gallery %}
+      {% if gallery.frontpage %}
+        <section class="gallery-cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
+          <a href="{{ gallery.url }}">
+            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
+            <article class="gallery--front">
+              <header class="gallery-header">
+                <h2 class="title">{{ gallery.title }}</h2>
+              </header>
+              {% if gallery.homepage_description_markdown %}
+                {{ gallery.homepage_description_markdown | markdownify }}
+              {% endif %}
+          </article>
+          </div>
+        </a>
+      </section>
+      {% endif %}
+    {% endfor %}

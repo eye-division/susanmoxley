@@ -48,12 +48,12 @@ section {
   padding: 0;
   padding-bottom: 120px;
   margin: 0 auto;
-  background: url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
+  //background: url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
   //background-color: $page-background-color;
-  border-right: 1px solid $kindle-blue;
-  border-left: 1px solid $kindle-blue;
+  border-right: 1px solid $light-gray;
+  border-left: 1px solid $light-gray;
   @include grid-media ($small) {
-    background: url('/assets/images/leaf.png') top 10px right 10px no-repeat, url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
+    //background: url('/assets/images/leaf.png') top 10px right 10px no-repeat, url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
   }
   /// index.html
   .site-header-container {

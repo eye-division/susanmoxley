@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="page">
+
+  <header>
+    <section>
+      <h1>{{ page.title }}</h1>
+    </section>
+  </header>
+
+  <article>
+
+    {% if page.main_image_path and page.display_image %}
+      <figure class="gallery--feature">
+      {% assign alt_text = page.title %}
+      {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+        <a href="{% include imgpath.html src=page.main_image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ page.main_image_caption }}">
+          {% include img.html src=page.main_image_path alt=alt_text %}
+        </a>
+      <figcaption>{{ alt_text }}</figcaption>
+      </figure>
+    {% endif %}
+
+    {% if page.images[0].image_path %}
+    <section class="gallery--list">
+      {% for image in page.images %}
+        {% if image.image_path %}
+        <div class="gallery--box {% cycle 'alpha', '', 'last' %}">
+          <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+            {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
+          </a>
+          {% if page.display_title %}
+            <caption>{{ image.image_title }}</caption>
+          {% endif %}
+        </div>
+        {% endif %}
+      {% endfor %}
+    </section>
+    {% endif %}
+
+    {% if page.description_markdown %}
+    <section class="main--content">
+      {{ page.description_markdown | markdownify }}
+    </section>
+    {% endif %}
+
+    {% if page.videos %}
+
+      {% for video in page.videos %}
+        {% if video.videoid %}
+          {% include youtubeplayer.html id=video.videoid %}
+          {% if video.description %}
+            <p class="description">{{ video.description }}</p>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    {% endif %}
+
+  </article>
+
+
+</div>

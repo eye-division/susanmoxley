@@ -7,7 +7,7 @@
     .page--content {
         @include grid-container;
         @include grid-media ($small) {
-        background: url('/assets/images/leaf.png') bottom right -10px no-repeat, url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
+        //background: url('/assets/images/leaf.png') bottom right -10px no-repeat, url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
         }
     }
 

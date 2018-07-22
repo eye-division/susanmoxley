@@ -8,6 +8,7 @@
     max-width: 1200px;
     a {
         color: $action-color;
+        text-decoration: none;
         &:active,
         &:focus,
         &:hover {
@@ -19,8 +20,14 @@
         }
     }
 }
+.gallery--feature {
+  // featured image on gallery page
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 1em;
+}
 
-.gallery {
+.gallery--list {
     /// make it a flexbox so items can be aligned vertically
     /*@include display(flex);
     @include align-items(flex-start);
@@ -33,7 +40,7 @@
 
     display: grid;
     grid-gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 
 
     a {
@@ -61,6 +68,10 @@
             }
         }
     }
+}
+.gallery--front {
+    padding: 0 1em 1em;
+    background: rgba(255,255,255,0.8);
 }
 
 .gallery--box,

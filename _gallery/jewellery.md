@@ -1,0 +1,112 @@
+---
+title: "Petra silver jewellery"
+description_markdown: >-
+  Since 2006 Susan Moxley has been making Sterling silver jewellery incorporating beach pebbles, slate and pummice from Greece.
+
+  Her designs are  determined by the naturally pummeled and sea polished pebbles which she carefully selects and matches. 
+
+  The silver is beaten and fold- formed to create unique pieces of jewelley that speak with the same voice as her two dimentional work.
+homepage_description_markdown: 
+frontpage: true
+_gallery_date: 2016-05-01 00:00:00
+permalink: /gallery/petra-silver-jewellery/
+archive: false
+display_title: true
+main_image_path: /assets/images/4feb01f9e9932.jpg
+images:
+  - image_path: "/assets/images/4feb01f9e9932.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb03050a3db.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb034433580.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb027d92525.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0417af281.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0457822bc.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb04e8d8a94.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb052f2f249.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0670a38ba.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb06a04ecd0.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb06f06c671.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb071fa8e46.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb07dde2f56.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0815bcd16.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb084044c03.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb092e98bc4.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb09531e4a8.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb09cb7a5ea.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb09fc8d0d2.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0cd46452d.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0d30b1e0a.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0d66dcd34.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0dc65170d.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb0de9c0fe3.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/4feb1189518d3.jpg"
+    image_title: ""
+    image_description: ""
+_options:
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  main_image_path:
+    width: 1200
+    height: 800
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Gallery title
+  permalink: Be careful editing this
+  main_image_path: Image used to represent your gallery
+  images: Add and edit your gallery images here
+  image_description: Might only be shown in the close up of an image
+  archive: Not used yet!
+  frontpage: Show this gallery on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+---

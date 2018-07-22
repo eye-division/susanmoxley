@@ -1,0 +1,150 @@
+---
+title: Painting
+description_markdown: >-
+  
+homepage_description_markdown: 
+frontpage: true
+_gallery_date: 2016-05-01 00:00:00
+permalink: /gallery/painting/
+archive: false
+display_title: true
+main_image_path: /assets/images/54dccef673506.jpg
+images:
+  - image_path: "/assets/images/54dccef673506.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54fdc78598d6d.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54dccf226bdd8.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54dccf4827f9c.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54dccf66e1daf.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d669b58bc.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54dccf82e9b88.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d6ab826da.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54dccfa179286.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d6f3e91e2.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d7316f2ef.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d76c4d222.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54dcd270da1b8.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/463afc87b098e.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/463afcd736b7e.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/463afe217be04.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d885ca440.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d95bef5c4.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9dafa78a52.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d8fe9e96b.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49f9d93430d8e.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54f62a9412f0c.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54f62ae694864.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54f62b1c675c6.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54fdc69bc2977.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54fdc65729667.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54fdc6bef0c8f.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54fdc74ad78f3.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49fa140985538.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49fa146006926.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49fa149cacb74.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/463a059a26637.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/463a0a751abdd.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/49fa16e838d8d.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/54f628cb13c2b.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/58f9f44402464.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/58f9f66da5fb9.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/58f9f6f4582a8.jpg"
+    image_title: ""
+    image_description: ""
+  - image_path: "/assets/images/58f9f881cc764.jpg"
+    image_title: ""
+    image_description: ""
+_options:
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  main_image_path:
+    width: 1200
+    height: 800
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Gallery title
+  permalink: Be careful editing this
+  main_image_path: Image used to represent your gallery
+  images: Add and edit your gallery images here
+  image_description: Might only be shown in the close up of an image
+  archive: Not used yet!
+  frontpage: Show this gallery on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+---

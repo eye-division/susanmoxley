@@ -1,5 +1,5 @@
 // Typography
-$base-font-family: $font-stack-system;
+$base-font-family: ('Century Gothic', 'Helvetica', 'Verdana', 'Arial', sans-serif);//$font-stack-system;
 $heading-font-family: $base-font-family;
 $subheading-font-family: ('Lato', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
 
@@ -38,9 +38,6 @@ $red: rgb(192, 57, 43);       // Pomegranate
 $gray: rgb(127, 140, 141);        // Asbestos
 $dark-gray: rgb(51, 51, 51) !default;
 
-$kindle-blue: rgb(114, 113, 160);
-$kindle-green: rgb(168, 195, 99);
-
 // Social Media Brand Colors */
 $twitter: rgb(0, 172, 237);
 $facebook: rgb(59, 89, 152);
@@ -63,10 +60,15 @@ $yahoo: rgb(123, 0, 153);
 $blogger: rgb(251, 143, 61);
 $soundcloud: rgb(255, 58, 0);
 
+// Accessible link colours
+$aaa-link: rgb(51, 68, 221);
+$aaa-hover: rgb(181, 0, 16);
+$aaa-visited: rgb(128, 65, 128);
+
 // Font Colors
-$base-font-color: $black;
-$action-color: $kindle-blue;
-$action-hover-color: $kindle-green;
+$base-font-color: $dark-gray;
+$action-color: $aaa-link;
+$action-hover-color: $aaa-hover;
 
 // Border
 $base-border-color: $light-gray;
@@ -74,8 +76,8 @@ $base-border: 1px solid $base-border-color;
 $base-border-radius: 3px !default;
 
 // Background Colors
-$viewport-background-color: #fff;
-$base-background-color: lighten($kindle-blue,40%);
+$viewport-background-color: $white;
+$base-background-color: $white;
 $page-background-color: $white;
 
 // Focus
@@ -92,11 +94,6 @@ $base-timing: ease;
 
 $highlight-color: tint($action-color, 33%);
 
-// Accessible link colours
-$aaa-link: rgb(51, 68, 221);
-$aaa-hover: rgb(181, 0, 16);
-$aaa-visited: rgb(128, 65, 128);
-
 // Gallery image hover
 $gallery-image-hover-opacity: 0.7;
 $gallery-image-hover-color: $medium-gray;
@@ -107,16 +104,16 @@ $navigation-height: 30px;
 $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 15em;
 
-$navigation-background: $kindle-blue;
-$navigation-color: $white;
-$navigation-color-hover: $kindle-green;
-$navigation-active-link-color: $kindle-green;
+$navigation-background: $white;
+$navigation-color: $dark-gray;
+$navigation-color-hover: $action-hover-color;
+$navigation-active-link-color: $action-color;
 
 // footer
-$footer-background: $kindle-blue;
-$footer-color: $white;
-$footer-color-hover: $kindle-green;
-$footer-active-link-color: $kindle-green;
+$footer-background: $white;
+$footer-color: $dark-gray;
+$footer-color-hover: $action-hover-color;
+$footer-active-link-color: $action-color;
 
 // drop down variables
 $dropdown-color: $base-font-color;
