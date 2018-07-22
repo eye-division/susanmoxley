@@ -19,7 +19,7 @@ description: Susan Moxley art gallery website
 baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.susanmoxley.com" #"http://outrageous-hurricane.cloudvent.net"
-logo: "/assets/logo.gif"
+logo: "/assets/logo.png"
 email: "a.ward@eyedivision.com"
 #placeholder_image: "/assets/images/leaf-icon.png"
 
@@ -184,8 +184,8 @@ social:
 
 protocols:
     fb_image: "/assets/logo.png"
-    fb_image_width: 399
-    fb_image_height: 170
+    fb_image_width: 400
+    fb_image_height: 400
     fb_image_type: "image/png"
 
     twitter_image: "/assets/logo.png"

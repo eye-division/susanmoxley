@@ -65,10 +65,13 @@ nav {
     overflow: visible;
     padding: 0;
     width: 100%;
+
     @include grid-media ($small) {
-        display: block;
-        margin: 0;
-        padding: 0;
+      border-top: 1px solid $medium-gray;
+      border-bottom: 1px solid $medium-gray;
+      display: block;
+      margin: 0;
+      padding: 0;
     }
     &.show {
         display: block;
@@ -82,11 +85,14 @@ nav {
     text-align: right;
     width: 100%;
     padding: 0.25em 0;
+    text-transform: uppercase;
+
     @include grid-media ($small) {
         background: transparent;
         display: inline-block;
         text-decoration: none;
         width: auto;
+        font-size: modular-scale(-1);
     }
     a {
         color: $navigation-color;
