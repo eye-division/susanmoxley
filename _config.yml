@@ -20,7 +20,7 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "https://www.susanmoxley.com" #"http://outrageous-hurricane.cloudvent.net"
 logo: "/assets/logo.png"
-email: "a.ward@eyedivision.com"
+email: "susan@susanmoxley.com"
 #placeholder_image: "/assets/images/leaf-icon.png"
 
 show_carousel: false
@@ -41,8 +41,16 @@ imagecdn:
 collections:
     gallery:
         output: true
-        permalink: /gallery/:path/
-        _hide_content: true
+        permalink: /:path/
+    prints:
+        output: true
+        #permalink: /prints/:path/
+    stained_glass:
+        output: true
+        #permalink: /stained-glass/:path/
+    celebrating_women:
+        output: true
+        #permalink: /celebrating-women/:path/
 
 # Defaults Example
 defaults:
@@ -50,6 +58,24 @@ defaults:
         scope:
             path: ""
             type: "gallery"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "prints"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "stained_glass"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "celebrating_women"
         values:
             layout: "gallery"
     -

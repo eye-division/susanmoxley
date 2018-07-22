@@ -7,7 +7,7 @@ description_markdown: >-
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/stained-glass/school-commissions/
+permalink: /stained-glass/school-commissions/
 archive: false
 display_title: true
 main_image_path: /assets/images/466d7c3064e4a.jpg

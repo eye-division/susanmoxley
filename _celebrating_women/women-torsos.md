@@ -1,37 +1,37 @@
 ---
-title: "3D figures - celebrating women"
+title: "Torsos - celebrating women"
 description_markdown: >-
-  
+  The torso drawings are simple, iconic, female forms, similar to those that have been repeated over hundreds of years of art history, as in the ‘perfect’ classical forms that have become generic symbols of woman.
+
+  These drawings are in contrast to the ‘imperfect’ ‘One in Nine’ prints and also to the specific individual faces in the ‘100 Women’ portraits.
+
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/celebrating-women/3d-figures/
+permalink: /celebrating-women/torsos/
 archive: false
 display_title: true
-main_image_path: /assets/images/56dc3d2b85aac.jpg
+main_image_path: /assets/images/54f5d85d13f80.jpg
 images:
-  - image_path: "/assets/images/56dc3d2b85aac.jpg"
+  - image_path: "/assets/images/54f5d85d13f80.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/56dc439fc5bc7.jpg"
+  - image_path: "/assets/images/4b798c0d4ea13.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/56dc4278b6d8c.jpg"
+  - image_path: "/assets/images/4b798cf0e418a.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/56dc44078f059.jpg"
+  - image_path: "/assets/images/4b79937ba79c2.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/56dc434166c35.jpg"
+  - image_path: "/assets/images/4b7992da13462.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/56dc4442da792.jpg"
+  - image_path: "/assets/images/4b798f6291c43.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/56dc446a81d18.jpg"
-    image_title: ""
-    image_description: ""
-  - image_path: "/assets/images/58a707e9dee7b.jpg"
+  - image_path: "/assets/images/4b79943c72fef.jpg"
     image_title: ""
     image_description: ""
 _options:

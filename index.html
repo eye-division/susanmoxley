@@ -79,8 +79,68 @@ _comments:
 
     {% endfor %}
 
-      <!-- Galleries -->
+    <!-- Galleries -->
     {% for gallery in site.gallery %}
+      {% if gallery.frontpage %}
+        <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
+          <a href="{{ gallery.url }}">
+            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
+            <article class="gallery--front">
+              <header class="gallery--header">
+                <h2 class="gallery--title">{{ gallery.title }}</h2>
+              </header>
+              {% if gallery.homepage_description_markdown %}
+                {{ gallery.homepage_description_markdown | markdownify }}
+              {% endif %}
+          </article>
+          </div>
+        </a>
+      </section>
+      {% endif %}
+    {% endfor %}
+    <!-- Prints -->
+    <!-- Galleries -->
+    {% for gallery in site.prints %}
+      {% if gallery.frontpage %}
+        <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
+          <a href="{{ gallery.url }}">
+            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
+            <article class="gallery--front">
+              <header class="gallery--header">
+                <h2 class="gallery--title">{{ gallery.title }}</h2>
+              </header>
+              {% if gallery.homepage_description_markdown %}
+                {{ gallery.homepage_description_markdown | markdownify }}
+              {% endif %}
+          </article>
+          </div>
+        </a>
+      </section>
+      {% endif %}
+    {% endfor %}
+
+    <!-- Stained glass -->
+    {% for gallery in site.stained_glass %}
+      {% if gallery.frontpage %}
+        <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
+          <a href="{{ gallery.url }}">
+            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
+            <article class="gallery--front">
+              <header class="gallery--header">
+                <h2 class="gallery--title">{{ gallery.title }}</h2>
+              </header>
+              {% if gallery.homepage_description_markdown %}
+                {{ gallery.homepage_description_markdown | markdownify }}
+              {% endif %}
+          </article>
+          </div>
+        </a>
+      </section>
+      {% endif %}
+    {% endfor %}
+
+    <!-- Celebrating women -->
+    {% for gallery in site.celebrating_women %}
       {% if gallery.frontpage %}
         <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
           <a href="{{ gallery.url }}">

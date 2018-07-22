@@ -9,7 +9,7 @@ description_markdown: >-
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/petra-silver-jewellery/
+permalink: /petra-silver-jewellery/
 archive: false
 display_title: true
 main_image_path: /assets/images/4feb01f9e9932.jpg

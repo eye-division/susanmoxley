@@ -5,7 +5,7 @@ description_markdown: >-
 homepage_description_markdown: 
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/prints/gallery/
+permalink: /prints/gallery/
 archive: false
 display_title: true
 main_image_path: /assets/images/58a6dc662c295.jpg

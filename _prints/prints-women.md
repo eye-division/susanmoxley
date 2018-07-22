@@ -1,27 +1,22 @@
 ---
-title: Celebrating women
+title: Women - prints
 description_markdown: >-
-  Celebrating Woman is a touring exhibition about the randomness and intensly personal experience of breast cancer.
 
-  "So lyrical, strong, brave and full of beauty and truth"
 homepage_description_markdown: 
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/celebrating-women/
+permalink: /prints/women/
 archive: false
 display_title: true
-main_image_path: /assets/images/54f5d85d13f80.jpg
+main_image_path: /assets/images/58a6e1c43f553.jpg
 images:
-  - image_path: "/assets/images/54f5d85d13f80.jpg"
+  - image_path: "/assets/images/58a6e1c43f553.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/4b7994d2a616d.jpg"
+  - image_path: "/assets/images/58a6e269328bf.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/54f5d88f8ea49.jpg"
-    image_title: ""
-    image_description: ""
-  - image_path: "/assets/images/56dc3d2b85aac.jpg"
+  - image_path: "/assets/images/58a6e28b682f1.jpg"
     image_title: ""
     image_description: ""
 _options:

@@ -1,24 +1,17 @@
 ---
-title: "Stained glass"
-description_markdown: >-
-  
+title: 
+description_markdown: 
 homepage_description_markdown: 
-frontpage: false
-_gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/stained-glass/
+frontpage: true
+_gallery_date: 
+permalink:
 archive: false
+main_image_path:
 display_title: true
-main_image_path: /assets/images/466d7c3064e4a.jpg
 images:
-  - image_path: "/assets/images/466d7c3064e4a.jpg"
-    image_title: ""
-    image_description: ""
-  - image_path: "/assets/images/47cd9acf86f06.jpg"
-    image_title: ""
-    image_description: ""
-  - image_path: "/assets/images/4639efded9cf5.jpg"
-    image_title: ""
-    image_description: ""
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200

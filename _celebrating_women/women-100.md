@@ -12,7 +12,7 @@ description_markdown: >-
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/celebrating-women/100-women/
+permalink: /celebrating-women/100-women/
 archive: false
 display_title: true
 main_image_path: /assets/images/4b7994d2a616d.jpg

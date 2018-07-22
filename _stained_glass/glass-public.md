@@ -1,37 +1,34 @@
 ---
-title: "Torsos - celebrating women"
+title: "Public commissions - stained glass"
 description_markdown: >-
-  The torso drawings are simple, iconic, female forms, similar to those that have been repeated over hundreds of years of art history, as in the ‘perfect’ classical forms that have become generic symbols of woman.
+  The  leaded stained glass window was commissioned to commemorate the opening of the the University of Reading Museum of Rural Life in 2005.
 
-  These drawings are in contrast to the ‘imperfect’ ‘One in Nine’ prints and also to the specific individual faces in the ‘100 Women’ portraits.
+  The window is based on Michael O"Connell's Variety of British Farming wall hangings created for the Country Pavilion at the Festival of Britain.
 
+  The window captures the variety of British farming in a stylized and contemporary way.
+
+  To see more and hear the interview with Susan about the window click on  http://www.rdg.ac.uk/rhc/
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/celebrating-women/torsos/
+permalink: /stained-glass/public-commissions/
 archive: false
 display_title: true
-main_image_path: /assets/images/54f5d85d13f80.jpg
+main_image_path: /assets/images/4639efded9cf5.jpg
 images:
-  - image_path: "/assets/images/54f5d85d13f80.jpg"
+  - image_path: "/assets/images/4639bd4000eb0.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/4b798c0d4ea13.jpg"
+  - image_path: "/assets/images/4639efded9cf5.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/4b798cf0e418a.jpg"
+  - image_path: "/assets/images/54f5f6903402a.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/4b79937ba79c2.jpg"
+  - image_path: "/assets/images/49f9c9606eb78.jpg"
     image_title: ""
     image_description: ""
-  - image_path: "/assets/images/4b7992da13462.jpg"
-    image_title: ""
-    image_description: ""
-  - image_path: "/assets/images/4b798f6291c43.jpg"
-    image_title: ""
-    image_description: ""
-  - image_path: "/assets/images/4b79943c72fef.jpg"
+  - image_path: "/assets/images/54f62e83bf0b1.jpg"
     image_title: ""
     image_description: ""
 _options:
