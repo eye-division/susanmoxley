@@ -3,10 +3,11 @@
 // -----------------------------------------------------------------------------
 
 .navigation {
-  margin: 0;
+  margin: 0.5em 0 0;
   @include grid-container;
   //@include grid-visual;
-  padding: 1em 1em 0;
+  padding: 0.5em 0;
+  border-top: 1px solid $base-border-color;
   z-index: 99; // to cover over flexslider
 
   background-color: $navigation-background;
@@ -84,7 +85,7 @@ nav {
     display: block;
     text-align: right;
     width: 100%;
-    padding: 0.25em 0;
+    padding: 0;
     text-transform: uppercase;
 
     @include grid-media ($small) {
@@ -99,7 +100,7 @@ nav {
         display: inline-block;
         text-decoration: none;
         @include grid-media ($small) {
-            padding-right: 1.5em;
+            padding-right: 1em;
         }
         &:hover {
             color: $navigation-color-hover;

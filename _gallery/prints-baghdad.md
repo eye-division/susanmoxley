@@ -5,7 +5,7 @@ description_markdown: >-
 
   The series date from the start  of the invasion of the allies into Iraq and has retained the decorative quality of the origional manuscripts.
 homepage_description_markdown: 
-frontpage: true
+frontpage: false
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/prints/baghdad-series/
 archive: false

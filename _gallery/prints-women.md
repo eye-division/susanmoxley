@@ -3,7 +3,7 @@ title: Women - prints
 description_markdown: >-
 
 homepage_description_markdown: 
-frontpage: true
+frontpage: false
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/prints/women/
 archive: false
