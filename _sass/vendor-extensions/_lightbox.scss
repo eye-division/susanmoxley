@@ -5,6 +5,7 @@
 .lb-dataContainer {
     //background: $black;
     padding: 1em
+
 }
 /// Lightbox font size fix
 .lb-data .lb-number {
@@ -21,4 +22,9 @@
 }
 .lb-data .lb-close {
   background: none;
+}
+.lb-caption {
+  strong {
+      color: $white;
+    }
 }
