@@ -17,19 +17,28 @@ display_title: true
 main_image_path: /assets/images/4639efded9cf5.jpg
 images:
   - image_path: "/assets/images/4639bd4000eb0.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Museum of Rural Life, Reading"
+    image_description: "**Museum of Rural Life, Reading**  
+273 x 400cm  
+ **Date** : 2005  
+ **Medium** : Leaded Stained Glass"
   - image_path: "/assets/images/4639efded9cf5.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Museum of Rural Life, Reading"
+    image_description: "**Museum of Rural Life, Reading**  
+273 x 400  
+ **Date** : 2005  
+ **Medium** : Leaded Stained Glass"
   - image_path: "/assets/images/54f5f6903402a.jpg"
-    image_title: ""
+    image_title: "ReadingMerl"
     image_description: ""
   - image_path: "/assets/images/49f9c9606eb78.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Humphry Carpenter memorial window"
+    image_description: "**Humphry Carpenter memorial window**  
+250 x 200  
+ **Date** : 2008  
+ **Medium** : stained glass"
   - image_path: "/assets/images/54f62e83bf0b1.jpg"
-    image_title: ""
+    image_title: "Museum of Rural Life, Reading"
     image_description: ""
 _options:
   image_path:

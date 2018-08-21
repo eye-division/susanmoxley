@@ -11,13 +11,13 @@ display_title: true
 main_image_path: /assets/images/58a6e1c43f553.jpg
 images:
   - image_path: "/assets/images/58a6e1c43f553.jpg"
-    image_title: ""
+    image_title: "Horae I"
     image_description: ""
   - image_path: "/assets/images/58a6e269328bf.jpg"
-    image_title: ""
+    image_title: "Horae III"
     image_description: ""
   - image_path: "/assets/images/58a6e28b682f1.jpg"
-    image_title: ""
+    image_title: "Horae IV"
     image_description: ""
 _options:
   image_path:

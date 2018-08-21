@@ -14,26 +14,35 @@ display_title: true
 main_image_path: /assets/images/54f5d85d13f80.jpg
 images:
   - image_path: "/assets/images/54f5d85d13f80.jpg"
-    image_title: ""
+    image_title: "torso exhibition"
     image_description: ""
   - image_path: "/assets/images/4b798c0d4ea13.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Torso 2"
+    image_description: "**Torso 2**  
+ **Date** : 2009"
   - image_path: "/assets/images/4b798cf0e418a.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Torso 5"
+    image_description: "**Torso 5**  
+ **Date** : 2009  
+ **Medium** : ink,wax and graphite"
   - image_path: "/assets/images/4b79937ba79c2.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Torso 3"
+    image_description: "**Torso 3**  
+ **Date** : 2009  
+ **Medium** : ink,wax and graphite"
   - image_path: "/assets/images/4b7992da13462.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Torso 6"
+    image_description: "**Torso 6**  
+ **Date** : 2009  
+ **Medium** : ink,wax and graphite"
   - image_path: "/assets/images/4b798f6291c43.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Blue torso"
+    image_description: "**Blue torso**  
+ **Date** : 2009"
   - image_path: "/assets/images/4b79943c72fef.jpg"
-    image_title: ""
-    image_description: ""
+    image_title: "Orange torso"
+    image_description:  "**Orange torso**  
+ **Date** : 2009"
 _options:
   image_path:
     width: 1200
