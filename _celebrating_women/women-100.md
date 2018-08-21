@@ -19,36 +19,36 @@ main_image_path: /assets/images/4b7994d2a616d.jpg
 images:
   - image_path: "/assets/images/4b7994d2a616d.jpg"
     image_title: "100 women detail"
-    image_description: "**100 women detail**  
+    image_description_markdown: "**100 women detail**  
 1.50 x 700m  
  **Date** : 2010  
  **Medium** : oil on canvas"
   - image_path: "/assets/images/54f5d7c58fa66.jpg"
     image_title: "100 women painting"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/4b799549c93d9.jpg"
     image_title: "1"
-    image_description: "**1**  
+    image_description_markdown: "**1**  
 30x30cm  
  **Date** : 2010  
  **Medium** : oil on canvas"
   - image_path: "/assets/images/4b799579df08d.jpg"
     image_title: "2"
-    image_description: "**2**  
+    image_description_markdown: "**2**  
  **Date** : 2010  
  **Medium** : oil"
   - image_path: "/assets/images/4b7995a23d98d.jpg"
     image_title: "3"
-    image_description: "**3**  
+    image_description_markdown: "**3**  
  **Medium** : oil on canvas"
   - image_path: "/assets/images/4b7995d87e918.jpg"
     image_title: "4"
-    image_description: "**4**  
+    image_description_markdown: "**4**  
  **Date** : 2010  
  **Medium** : oil on canvas"
   - image_path: "/assets/images/4b7995ff0c804.jpg"
     image_title: "4"
-    image_description: "**4**  
+    image_description_markdown: "**4**  
  **Date** : 2010  
  **Medium** : oil on canvas"
 _options:
@@ -67,7 +67,7 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
-  image_description: Might only be shown in the close up of an image
+  image_description_markdown: Might only be shown in the close up of an image
   archive: Not used yet!
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown

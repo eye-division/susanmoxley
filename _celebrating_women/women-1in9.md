@@ -19,34 +19,34 @@ main_image_path: /assets/images/54f5d88f8ea49.jpg
 images:
   - image_path: "/assets/images/54f5d88f8ea49.jpg"
     image_title: "One in Nine"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/4b7ef680787d7.jpg"
     image_title: "1 in 9  No 1"
-    image_description: "**1 in 9 No 1**  
+    image_description_markdown: "**1 in 9 No 1**  
  **Date** : 2010  
  **Medium** : Collagraph"
   - image_path: "/assets/images/4b8d3e771cc27.jpg"
     image_title: "1 in 9 II"
-    image_description: "**1 in 9 II**  
+    image_description_markdown: "**1 in 9 II**  
  **Medium** : Collagraph"
   - image_path: "/assets/images/4b8d3f26ba3f0.jpg"
     image_title: "1 in 9 III"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/4b8d3f49611f8.jpg"
     image_title: "1 in 9 IV"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/4b8d418b640a3.jpg"
     image_title: "1 in 9 V"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/4b8d4032b91cf.jpg"
     image_title: "1 in 9 VI"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/4b8d4071d3c1e.jpg"
     image_title: "Physical confusion"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/4b8d42541a9df.jpg"
     image_title: "1 in 9 V"
-    image_description: ""
+    image_description_markdown: ""
 _options:
   image_path:
     width: 1200
@@ -63,7 +63,7 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
-  image_description: Might only be shown in the close up of an image
+  image_description_markdown: Might only be shown in the close up of an image
   archive: Not used yet!
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown

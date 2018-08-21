@@ -12,13 +12,13 @@ main_image_path: /assets/images/58a6e1c43f553.jpg
 images:
   - image_path: "/assets/images/58a6e1c43f553.jpg"
     image_title: "Horae I"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/58a6e269328bf.jpg"
     image_title: "Horae III"
-    image_description: ""
+    image_description_markdown: ""
   - image_path: "/assets/images/58a6e28b682f1.jpg"
     image_title: "Horae IV"
-    image_description: ""
+    image_description_markdown: ""
 _options:
   image_path:
     width: 1200
@@ -35,7 +35,7 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
-  image_description: Might only be shown in the close up of an image
+  image_description_markdown: Might only be shown in the close up of an image
   archive: Not used yet!
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
