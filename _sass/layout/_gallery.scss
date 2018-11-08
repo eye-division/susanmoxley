@@ -89,6 +89,13 @@
         @include grid-column(2);
     }
 }
+.gallery--header {
+    padding: 1em 0;
+}
+.gallery--caption {
+    font-style: normal;
+}
+
 .gallery--box-home {
     @include grid-media ($small) {
         @include grid-column(2);

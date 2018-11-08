@@ -29,8 +29,12 @@ _comments:
      <div class="gallery--box{% cycle '', ' last' %}">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
-	          {% include img.html src=gallery.main_image_path width=1200 max-h=400 fit=clip alt=gallery.title %}
-	          <h4>{{ gallery.title }}</h4>
+	           <!-- cropped square images -->
+            {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+            <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->
+
+
+           <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
           </a>
 
      </div>
