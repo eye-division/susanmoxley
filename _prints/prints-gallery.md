@@ -8,6 +8,8 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/gallery/
 archive: false
 display_title: true
+display_image: false
+thumb_crop: true
 main_image_path: /assets/images/58a6dc662c295.jpg
 images:
   - image_path: "/assets/images/58a6dc662c295.jpg"

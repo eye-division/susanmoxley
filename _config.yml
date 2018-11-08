@@ -85,6 +85,7 @@ defaults:
         values:
           layout: "post"
 
+# https://docs.cloudcannon.com/editing/options/
 _options:
   _text:
     italic: true

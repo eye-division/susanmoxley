@@ -10,6 +10,8 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /stained-glass/school-commissions/
 archive: false
 display_title: true
+display_image: false
+thumb_crop: true
 main_image_path: /assets/images/466d7c3064e4a.jpg
 images:
   - image_path: "/assets/images/4639abe0c0cce.jpg"

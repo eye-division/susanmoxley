@@ -11,6 +11,8 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /celebrating-women/torsos/
 archive: false
 display_title: true
+display_image: false
+thumb_crop: true
 main_image_path: /assets/images/54f5d85d13f80.jpg
 images:
   - image_path: "/assets/images/54f5d85d13f80.jpg"

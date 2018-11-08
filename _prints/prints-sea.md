@@ -8,6 +8,8 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/sea/
 archive: false
 display_title: true
+display_image: false
+thumb_crop: true
 main_image_path: "/assets/images/56dc16c04fa62.jpg"
 images:
   - image_path: "/assets/images/56dc16c04fa62.jpg"

@@ -10,6 +10,8 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/baghdad-series/
 archive: false
 display_title: true
+display_image: false
+thumb_crop: true
 main_image_path: /assets/images/58ab1c0c34c3e.jpg
 images:
   - image_path: "/assets/images/58ab1c0c34c3e.jpg"

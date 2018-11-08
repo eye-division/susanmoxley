@@ -8,6 +8,8 @@ permalink:
 archive: false
 main_image_path:
 display_title: true
+display_image: false
+thumb_crop: true
 images:
   - image_path:
     image_title:

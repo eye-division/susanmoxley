@@ -15,6 +15,8 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /celebrating-women/100-women/
 archive: false
 display_title: true
+display_image: false
+thumb_crop: true
 main_image_path: /assets/images/4b7994d2a616d.jpg
 images:
   - image_path: "/assets/images/4b7994d2a616d.jpg"

@@ -26,18 +26,39 @@ layout: default
     {% if page.images[0].image_path %}
     <section class="gallery--list">
       {% for image in page.images %}
+
         {% if image.image_path %}
+
         <div class="gallery--box {% cycle 'alpha', '', 'last' %}">
-          <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description_markdown | markdownify}}">
-            {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
+          <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_description_markdown | markdownify}}">
+
+            {% if page.thumb_crop %}
+
+                <!-- cropped square images -->
+                {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.image_title %}
+                <!-- end cropped square -->
+
+              {% else %}
+
+                <!-- full format images -->
+                {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
+                 <!-- end format images -->
+               {% endif %}
+
           </a>
-          {% if page.display_title %}
-            <caption>{{ image.image_title }}</caption>
+
+          {% if page.display_thumb_title %}
+            <figcaption class="gallery--caption">{{ image.image_title }}</figcaption>
           {% endif %}
+
         </div>
+
         {% endif %}
+
       {% endfor %}
+
     </section>
+
     {% endif %}
 
     {% if page.description_markdown %}

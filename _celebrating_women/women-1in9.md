@@ -15,6 +15,8 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /celebrating-women/one-in-nine/
 archive: false
 display_title: true
+display_image: false
+thumb_crop: true
 main_image_path: /assets/images/54f5d88f8ea49.jpg
 images:
   - image_path: "/assets/images/54f5d88f8ea49.jpg"
