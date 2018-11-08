@@ -37,7 +37,7 @@ _comments:
 
     {% if page.show_carousel and page.carousel %}
     <!-- <div class="two-thirds no-gutter"> -->
-    <section>
+
     <section class="slideshow">
       <h2>This is a demo slideshow</h2>
       <div class="flexslider">
@@ -61,62 +61,12 @@ _comments:
       </section>
       {% endif %}
 
-      <!-- Regular page promotions on front page -->
-      {% for section in site.pages %}
-
-      {% if section.frontpage %}
-
-        {% if section.main_image_path %}
-          <section class="gallery--cover has-cover" style="background-image: url({{ section.main_image_path }});">
-        {% else %}
-          <section class="gallery--cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
-        {% endif %}
-          <a href="{{ section.url | prepend: site.baseurl }}">
-
-            <div class="scrim has-cover">
-              <article class="gallery--front">
-                <header class="gallery--header">
-                  <h2 class="gallery--title">{{ section.frontpagetitle }}</h2>
-                </header>
-                {% if section.homepage_description_markdown %}
-                  {{ section.homepage_description_markdown  | markdownify }}<br>
-                  <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
-
-                {% endif %}
-              </article>
-            </div>
-
-          </a>
-        </section>
-
-      {% endif %}
-
-    {% endfor %}
-
+    <section class="gallery--list">
     <!-- Galleries -->
     {% for gallery in site.gallery %}
 
       {% if gallery.frontpage %}
 
-        <!-- IMAGE STRIPS
-        <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-
-          <a href="{{ gallery.url }}">
-
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-              <article class="gallery--front">
-                <header class="gallery--header">
-                  <h2 class="gallery--title">{{ gallery.title }}</h2>
-                </header>
-                {% if gallery.homepage_description_markdown %}
-                  {{ gallery.homepage_description_markdown | markdownify }}
-                {% endif %}
-              </article>
-            </div>
-          </a>
-
-        </section>
-        -->
         <div class="gallery--box{% cycle '', ' last' %}">
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
             {% if page.thumb_crop %}
@@ -141,7 +91,9 @@ _comments:
 
     <!-- Galleries -->
     {% for gallery in site.prints %}
+
       {% if gallery.frontpage %}
+
         <div class="gallery--box{% cycle '', ' last' %}">
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
             {% if page.thumb_crop %}
@@ -182,4 +134,4 @@ _comments:
         </div>
       {% endif %}
     {% endfor %}
-
+  </section>
