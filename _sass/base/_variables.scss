@@ -136,3 +136,19 @@ $dropdown-arrow-top-distance: 0;
 $form-box-shadow: inset 0 1px 3px rgba(rgb(0, 0, 0), 0.06);
 $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
 
+// Neat 2 grid
+$neat-grid: (
+  columns: 4,
+  gutter: 10px,
+);
+
+$small: (
+  columns: 4,
+  gutter: 10px,
+  media: 488px,
+);
+$large: (
+  columns: 4,
+  gutter: 10px,
+  media: 960px,
+);

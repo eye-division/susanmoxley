@@ -24,10 +24,6 @@
 
 .header--logo {
 
-    @include grid-media ($large) {
-       // float: left;
-    }
-    //max-width: 150px;
 }
 
 .header--title {
@@ -44,6 +40,7 @@
 
     @include grid-media ($small) {
         font-size: modular-scale(5);
+        letter-spacing: 0.1em;
     }
 }
 
@@ -53,6 +50,7 @@
     .header--wrapper {
         display: grid;
         grid-gap: 10px;
+        //justify-items: center;
         grid-template-columns: repeat(2, auto);
     }
     .header--logo {

@@ -2,26 +2,52 @@
 layout: page
 title: "Stained glass"
 permalink: /stained-glass/
+display_page_title: true
 main_image_path:
 main_image_caption:
+display_image: false
 frontpage: false
-description_markdown:
+homepage_description_markdown: >-
 frontpagetitle:
-archive:
+display_thumb_title: true
+thumb_crop: true
+images:
+  - image_path:
+    image_title:
+    image_description:
 _options:
+  layout:
+    hidden: true
   main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  image_path:
     width: 1200
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
 _comments:
-  title: Gallery title
+  title: Page title
   permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
-  archive: Not used yet!
-  frontpage: Show this gallery on the homepage
+  display_page_title: Show the page title at the top of the page
+  main_image_path: Image used to represent your page
+  display_image: Show the featured image at the top of the page
+  images_first: display gallery of images BEFORE the main text
+  frontpage: Show this page on the homepage
   homepage_description_markdown: Text used on homepage if shown
+  frontpagetitle: Alternative title for home page use
+  display_thumb_title: Show image titles below images
+  images: Add and edit images here
+  image_description: Might only be shown in the close up of an image
 ---
+<div class="editable">
+  <p>Susan Moxley has completed large commissions in stained glass for schools and institutions as well as smaller works for private homes. Her windows are always instantly recognisable through her use of colour,  line and unique symbolic imagery.<br>
+  In all her windows she works closely with the client or does workshops in schools where the children are encouraged to draw their ideas. She often reproduces the children's drawings onto the glass which gives them a feeling of  involvement in a lasting installation. She carries this ancient craft into the contemporary world.</p>
+
+</div>
+
 <div class="gallery--list">
 
 {% for gallery in site.stained_glass %}
@@ -29,12 +55,24 @@ _comments:
      <div class="gallery--box{% cycle '', ' last' %}">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
-	           <!-- cropped square images -->
-            {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
-            <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->
 
+            {% if page.thumb_crop %}
 
-           <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+              <!-- cropped square images -->
+              {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+              <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->
+
+            {% else %}
+
+              <!-- full format images -->
+              {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+               <!-- end format images -->
+            {% endif %}
+
+            {% if page.display_thumb_title %}
+              <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+            {% endif %}
+
           </a>
 
      </div>

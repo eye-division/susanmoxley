@@ -8,8 +8,9 @@
     width: 30px;
     height: 30px;
 }
-a:hover .icon { /// hover colour
-    fill: $highlight-color;
+a:hover .icon,
+a:active .icon { /// hover colour
+    fill: $action-hover-color;
 }
 
 .icon--readmore {
@@ -48,4 +49,7 @@ a svg {
 
 .icon--light {
     fill: $white;
+}
+a:hover .icon--light { /// hover colour
+    fill: shade($white, 20%);
 }

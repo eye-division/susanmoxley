@@ -1,52 +1,64 @@
 ---
 layout: home
+display_thumb_title: true
+thumb_crop: true
+show_carousel: false
 carousel:
   - image:
     caption: ""
     link:
-
 _options:
-  image:
+  layout:
+    hidden: true
+  main_image_path:
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 _comments:
   carousel: Edit the slideshow
   link: Optional web link from the slide
   caption: optional caption
+  show_carouse: Show the slideshow
+  display_thumb_title: Show image titles below images
+  thumb_crop: Crop thumbnail images to a consistent size
 ---
 
     <div class="editable">
       <p>Susan Moxley's prints and paintings are exhibited extensively in the UK and internationally, where they take their place in both public and private collections.</p>
       <p>The diversity of her work including fine art, children's books, novel covers and stained glass demonstrates her curiosity and passion for creativity in all forms.</p>
-    <p>Susan's work is always immediately recognizable through it's free flowing,painterly lines and exuberant colours.</p>
+      <p>Susan's work is always immediately recognizable through it's free flowing, painterly lines and exuberant colours.</p>
     </div>
 
-    {% if site.show_carousel and page.carousel %}
+    {% if page.show_carousel and page.carousel %}
     <!-- <div class="two-thirds no-gutter"> -->
     <section>
+    <section class="slideshow">
       <h2>This is a demo slideshow</h2>
       <div class="flexslider">
           <ul class="slides">
             {% for slides in page.carousel %}
             <li>
-              {% if slides.link %}
-              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+              {% if slides.alink %}
+                 <a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">
               {% endif %}
               {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.link %}
-              </a>
-            {% endif %}
+              {% if slides.alink %}
+                </a>
+              {% endif %}
               {% if slides.caption %}
-              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+                <p class="flex-caption">{% if slides.alink %}<a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.alink %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
               {% endif %}
             </li>
             {% endfor %}
           </ul>
         </div>
       </section>
-      <!-- </div> -->
       {% endif %}
 
       <!-- Regular page promotions on front page -->
@@ -60,6 +72,7 @@ _comments:
           <section class="gallery--cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
         {% endif %}
           <a href="{{ section.url | prepend: site.baseurl }}">
+
             <div class="scrim has-cover">
               <article class="gallery--front">
                 <header class="gallery--header">
@@ -70,8 +83,9 @@ _comments:
                   <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
                 {% endif %}
-            </article>
-          </div>
+              </article>
+            </div>
+
           </a>
         </section>
 
@@ -81,80 +95,91 @@ _comments:
 
     <!-- Galleries -->
     {% for gallery in site.gallery %}
+
       {% if gallery.frontpage %}
+
+        <!-- IMAGE STRIPS
         <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
+
           <a href="{{ gallery.url }}">
+
             <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery--header">
-                <h2 class="gallery--title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown %}
-                {{ gallery.homepage_description_markdown | markdownify }}
-              {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
+              <article class="gallery--front">
+                <header class="gallery--header">
+                  <h2 class="gallery--title">{{ gallery.title }}</h2>
+                </header>
+                {% if gallery.homepage_description_markdown %}
+                  {{ gallery.homepage_description_markdown | markdownify }}
+                {% endif %}
+              </article>
+            </div>
+          </a>
+
+        </section>
+        -->
+        <div class="gallery--box{% cycle '', ' last' %}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+            {% if page.thumb_crop %}
+              <!-- cropped square images -->
+              {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+              <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->
+            {% else %}
+              <!-- full format images -->
+              {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+               <!-- end format images -->
+            {% endif %}
+           {% if page.display_thumb_title %}
+              <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+            {% endif %}
+          </a>
+        </div>
+
       {% endif %}
+
     {% endfor %}
     <!-- Prints -->
+
     <!-- Galleries -->
     {% for gallery in site.prints %}
       {% if gallery.frontpage %}
-        <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery--header">
-                <h2 class="gallery--title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown %}
-                {{ gallery.homepage_description_markdown | markdownify }}
-              {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
+        <div class="gallery--box{% cycle '', ' last' %}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+            {% if page.thumb_crop %}
+              <!-- cropped square images -->
+              {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+              <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->
+            {% else %}
+              <!-- full format images -->
+              {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+               <!-- end format images -->
+            {% endif %}
+           {% if page.display_thumb_title %}
+              <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+            {% endif %}
+          </a>
+        </div>
       {% endif %}
     {% endfor %}
 
     <!-- Stained glass -->
     {% for gallery in site.stained_glass %}
       {% if gallery.frontpage %}
-        <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery--header">
-                <h2 class="gallery--title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown %}
-                {{ gallery.homepage_description_markdown | markdownify }}
-              {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
+        <div class="gallery--box{% cycle '', ' last' %}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+            {% if page.thumb_crop %}
+              <!-- cropped square images -->
+              {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+              <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->
+            {% else %}
+              <!-- full format images -->
+              {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+               <!-- end format images -->
+            {% endif %}
+           {% if page.display_thumb_title %}
+              <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+            {% endif %}
+          </a>
+        </div>
       {% endif %}
     {% endfor %}
 
-    <!-- Celebrating women -->
-    {% for gallery in site.celebrating_women %}
-      {% if gallery.frontpage %}
-        <section class="gallery--cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery--header">
-                <h2 class="gallery--title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown %}
-                {{ gallery.homepage_description_markdown | markdownify }}
-              {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
-      {% endif %}
-    {% endfor %}

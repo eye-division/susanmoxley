@@ -23,8 +23,6 @@ logo: "/assets/logo.png"
 email: "susan@susanmoxley.com"
 #placeholder_image: "/assets/images/leaf-icon.png"
 
-show_carousel: false
-
 # Build settings
 markdown: kramdown
 
@@ -48,9 +46,6 @@ collections:
     stained_glass:
         output: true
         #permalink: /stained-glass/:path/
-    celebrating_women:
-        output: true
-        #permalink: /celebrating-women/:path/
 
 # Defaults Example
 defaults:
@@ -70,12 +65,6 @@ defaults:
         scope:
             path: ""
             type: "stained_glass"
-        values:
-            layout: "gallery"
-    -
-        scope:
-            path: ""
-            type: "celebrating_women"
         values:
             layout: "gallery"
     -

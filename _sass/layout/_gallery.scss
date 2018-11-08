@@ -26,22 +26,21 @@
   text-align: center;
   padding-bottom: 1em;
 }
-
+.gallery--link {
+    text-decoration: none;
+}
 .gallery--list {
     /// make it a flexbox so items can be aligned vertically
-    /*@include display(flex);
-    @include align-items(flex-start);
-    @include flex-direction(row);
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
 
-    // align-items: flex-end; // align bottom
-    @include flex-wrap(wrap);*/
-
-    // now, woah there, make it a grid like it's 2017
-
-    display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-
+    // now grid it
+    @supports (display: grid) {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
 
     a {
         img {
@@ -62,7 +61,7 @@
         &:focus,
         &:hover {
             text-decoration: none;
-            color: shade($action-color, 20%);
+            color: darken($action-color, 20%);
             h3 {
                 //color: $camouflage;
             }
@@ -70,25 +69,19 @@
     }
 }
 .gallery--front {
-    padding: 0 1em 1em;
+    padding: 0 1em 2em;
     background: rgba(255,255,255,0.9);
 }
 
 .gallery--box,
 .gallery--box-large {
-    padding-bottom: 1em;
-    text-align: center;
     @include grid-media ($small) {
-        @include grid-column(2);
+        flex: 0 1 25%;
     }
-}
-.gallery--box-50 {
-    padding-bottom: 1em;
+    margin: 1em;
     text-align: center;
-    @include grid-media ($small) {
-        @include grid-column(2);
-    }
 }
+
 .gallery--header {
     padding: 1em 0;
 }
@@ -96,21 +89,6 @@
     font-style: normal;
 }
 
-.gallery--box-home {
-    @include grid-media ($small) {
-        @include grid-column(2);
-    }
-}
-.alpha {
-    @include grid-media ($small) {
-        clear: both;
-    }
-}
-.last {
-    @include grid-media ($small) {
-        //@include omega();
-    }
-}
 /// Remove widths for grids
 @supports (display: grid) {
   .gallery--box-50,

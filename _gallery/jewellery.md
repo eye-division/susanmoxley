@@ -10,10 +10,11 @@ homepage_description_markdown:
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
 permalink: /petra-silver-jewellery/
-archive: false
 display_title: true
 display_image: false
 thumb_crop: true
+display_thumb_title: true
+archive: false
 main_image_path: /assets/images/4feb01f9e9932.jpg
 images:
   - image_path: "/assets/images/4feb01f9e9932.jpg"
@@ -111,4 +112,6 @@ _comments:
   archive: Not used yet!
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
+  thumb_crop: Crop thumbnail images to a consistent size
+  display_thumb_title: Show titles under thumbnails
 ---

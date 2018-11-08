@@ -3,11 +3,10 @@
 // -----------------------------------------------------------------------------
 
 .site--footer {
-    @include grid-container;
-    //@include grid-visual;
     padding: 1em;
     background-color: $footer-background;
     color: $footer-color;
+    text-align: center;
     .wrapper {
         padding: 0 1em;
         margin-top: 1em;
@@ -19,7 +18,10 @@
         }
     }
 }
-
+.footer--wrapper {
+    padding: 0 1em;
+    margin-top: 1em;
+}
 ///  Site Navigation (left)
 
 .site--navigation {
@@ -27,7 +29,6 @@
 }
 
 .social-media-list {
-    @include grid-container;
     text-align: center;
     padding: 1em 0;
     a {
@@ -56,4 +57,23 @@
 }
 .site--copyright {
     text-align: center;
+}
+
+/// And now, with the grid
+@supports (display: grid) {
+
+    .site--footer {
+        // positioning of main body grid - push down to bottom of page
+        grid-row-start: 3;
+        grid-row-end: 4;
+    }
+
+    .footer--wrapper {
+        display: grid;  // this is the container
+        grid-gap: 10px;
+        justify-items: center;
+        // how many columns in this grid?
+        // NONE!
+        //grid-template-columns: repeat(3, 33% [col-start]);
+    }
 }

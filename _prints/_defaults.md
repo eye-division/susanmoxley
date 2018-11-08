@@ -9,6 +9,7 @@ archive: false
 main_image_path:
 display_title: true
 display_image: false
+display_thumb_title: true
 thumb_crop: true
 images:
   - image_path:
@@ -34,4 +35,6 @@ _comments:
   archive: Not used yet!
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
+  thumb_crop: Crop thumbnail images to a consistent size
+  display_thumb_title: Show titles under thumbnails
 ---

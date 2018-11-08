@@ -1,23 +1,10 @@
-// Neat 2 grid
-$neat-grid: (
-  columns: 4,
-  gutter: 10px,
-);
-
-$small: (
-  columns: 4,
-  gutter: 10px,
-  media: 488px,
-);
-$large: (
-  columns: 4,
-  gutter: 10px,
-  media: 960px,
-);
-
 html {
-  background-color: $base-background-color;
+  background-color: $viewport-background-color;
   box-sizing: border-box;
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: 100%;
+  line-height: $base-line-height;
 }
 
 *,
@@ -34,48 +21,33 @@ body {
 body {
   margin: 0;
   background-color: $base-background-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
 }
 
-
-section {
-
+/// 1. fallback to flexbox page layout
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center; // centers horizontally
 }
 
-.page--content {
-  @include grid-container;
-  //@include grid-visual;
-  max-width: 1200px;
-  padding: 0;
-  padding-bottom: 120px;
-  margin: 0 auto;
-  //background: url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
-  //background-color: $page-background-color;
-  border-right: 1px solid $light-gray;
-  border-left: 1px solid $light-gray;
-  @include grid-media ($small) {
-    //background: url('/assets/images/leaf.png') top 10px right 10px no-repeat, url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
+.site--footer {
+  flex-shrink: 0; // footer sticks to bottom of page
+}
+
+/// 2. basic grid CSS layout for header, page--content and footer - works without it
+
+@supports (display: grid) {
+  body {
+    display: grid;
+    grid-template-rows: max-content auto auto;
+
+    // 1. header.page--header
+    // 2. div.page--content
+    // 3. footer.site--footer
+
+    grid-gap: 1rem;
+    align-items: start;
   }
-  /// index.html
-  .site-header-container {
-      color: $white;
-      text-shadow: 0 2px 1px rgba(0,0,0,0.33);
-      background-color: $highlight-color;
-      .site--header{
-          .title {
-              font-size: modular-scale(6);
-          }
-          .subtitle {
-              font-style: italic;
-              font-size: modular-scale(1);
-          }
-      }
-  }
-
-}
-
-.page {
-   padding: 1em;
-   max-width: 48em;
-   margin: 0 auto;
-
 }
