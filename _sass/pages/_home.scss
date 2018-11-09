@@ -4,13 +4,6 @@
 
 .front {
 
-    .page--content {
-        @include grid-container;
-        @include grid-media ($small) {
-        //background: url('/assets/images/leaf.png') bottom right -10px no-repeat, url('/assets/images/leaf.png') bottom -30px left -30px no-repeat, $page-background-color;
-        }
-    }
-
     .scrim {
         padding: 0 0 20em 0;
     }
@@ -20,18 +13,12 @@
     }
 
 }
-.home {
-    @include grid-media($large) { // half page width on 488px and above
-        @include grid-column(3);
-        padding-right: 60px;
+.gallery--home {
+
+    @supports (display: grid) {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     }
-}
-.blog--home {
-    @include grid-media($large) { // half page width on 488px and above
-        @include grid-column(1);
-    }
-    blockquote {
-        margin-left: 0;
-        padding-top: 0;
-    }
+
 }

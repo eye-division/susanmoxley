@@ -3,12 +3,13 @@ layout: page
 title: "Stained glass"
 permalink: /stained-glass/
 display_page_title: true
-main_image_path:
-main_image_caption:
+main_image_path: /assets/images/466d7c3064e4a.jpg
+main_image_caption: "St Philip"
 display_image: false
-frontpage: false
+frontpage: true
+page_order_number: 3
 homepage_description_markdown: >-
-frontpagetitle:
+frontpagetitle: "Stained glass"
 display_thumb_title: true
 thumb_crop: true
 images:
@@ -52,9 +53,9 @@ _comments:
 
 {% for gallery in site.stained_glass %}
 
-     <div class="gallery--box{% cycle '', ' last' %}">
+     <div class="gallery--box">
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link  gallery--title">
 
             {% if page.thumb_crop %}
 

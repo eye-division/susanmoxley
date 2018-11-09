@@ -9,7 +9,7 @@ description_markdown: >-
 
   [See more and hear the interview with Susan](http://www.rdg.ac.uk/rhc/) about the window.
 homepage_description_markdown: 
-frontpage: true
+frontpage: false
 _gallery_date: 2016-05-01 00:00:00
 permalink: /stained-glass/public-commissions/
 display_title: true

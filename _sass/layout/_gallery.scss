@@ -4,7 +4,7 @@
 
 /// 100% Gallery blocks
 .gallery--cover {
-    margin: 0 auto 1em auto;
+    margin: 0 auto 2em auto;
     max-width: 1200px;
     a {
         color: $action-color;
@@ -13,7 +13,7 @@
         &:focus,
         &:hover {
             text-decoration: none;
-            color: $highlight-color;
+            color: darken($highlight-color,10%);
             .gallery {
                 background: rgba(255,255,255,1);
             }
@@ -87,6 +87,12 @@
 }
 .gallery--caption {
     font-style: normal;
+    font-size: 1em;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+.gallery--title {
+    font-size: smaller;
 }
 
 /// Remove widths for grids

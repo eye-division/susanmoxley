@@ -4,6 +4,7 @@ description_markdown: >-
   
 homepage_description_markdown: 
 frontpage: true
+page_order_number: 2
 _gallery_date: 2016-05-01 00:00:00
 permalink: /painting/
 display_title: true
@@ -31,49 +32,43 @@ images:
     image_description_markdown: ""
   - image_path: "/assets/images/49f9d669b58bc.jpg"
     image_title: "Meditoranean patched 1"
-    image_description_markdown: "**Meditoranean patched 1**  
-40 x 40  
- **Date** : 2009  
- **Medium** : oil on canvas"
+    image_description_markdown: "40 x 40  
+     **Date** : 2009  
+      **Medium** : oil on canvas"
   - image_path: "/assets/images/54dccf82e9b88.jpg"
     image_title: "Limani II"
     image_description_markdown: ""
   - image_path: "/assets/images/49f9d6ab826da.jpg"
     image_title: "Meditoranean patched 2"
-    image_description_markdown: "**Meditoranean patched 2**  
-40 x 40  
- **Date** : 2009  
- **Medium** : oil on canvas"
+    image_description_markdown: "40 x 40  
+     **Date** : 2009  
+      **Medium** : oil on canvas"
   - image_path: "/assets/images/54dccfa179286.jpg"
     image_title: "Limani III"
     image_description_markdown: ""
   - image_path: "/assets/images/49f9d6f3e91e2.jpg"
     image_title: "The black sea 1"
-    image_description_markdown: "**The black sea 1**  
-50 x50  
- **Date** : 2009  
- **Medium** : oil on canvas"
+    image_description_markdown: "50 x50  
+     **Date** : 2009  
+      **Medium** : oil on canvas"
   - image_path: "/assets/images/49f9d7316f2ef.jpg"
     image_title: "The black sea 2"
-    image_description_markdown: "**The black sea 2**  
-50 x50  
- **Date** : 2009  
- **Medium** : oil on canvas"
+    image_description_markdown: "50 x50  
+     **Date** : 2009  
+      **Medium** : oil on canvas"
   - image_path: "/assets/images/49f9d76c4d222.jpg"
     image_title: "The black sea 3"
-    image_description_markdown: "**The black sea 3**  
-50 x50  
- **Date** : 2009  
- **Medium** : oil on canvas"
+    image_description_markdown: "50 x50  
+     **Date** : 2009  
+      **Medium** : oil on canvas"
   - image_path: "/assets/images/54dcd270da1b8.jpg"
     image_title: "Customs house I"
     image_description_markdown: ""
   - image_path: "/assets/images/463afc87b098e.jpg"
     image_title: "Diakofti"
-    image_description_markdown: "**Diakofti**  
-30 x 30cm  
- **Date** : 2007  
- **Medium** : Mixed media"
+    image_description_markdown: "30 x 30cm  
+     **Date** : 2007  
+      **Medium** : Mixed media"
   - image_path: "/assets/images/463afcd736b7e.jpg"
     image_title: "Pink Seascape"
     image_description_markdown: "**Pink Seascape**  
@@ -82,10 +77,9 @@ images:
  **Medium** : Mixed media"
   - image_path: "/assets/images/463afe217be04.jpg"
     image_title: "Seascape with tower"
-    image_description_markdown: "**Seascape with tower**  
-30 x 30cm  
- **Date** : 2007  
- **Medium** : Mixed media"
+    image_description_markdown: "30 x 30cm  
+     **Date** : 2007  
+      **Medium** : Mixed media"
   - image_path: "/assets/images/49f9d885ca440.jpg"
     image_title: "September"
     image_description_markdown: "**September**  
@@ -93,24 +87,20 @@ images:
  **Medium** : mixed media"
   - image_path: "/assets/images/49f9d95bef5c4.jpg"
     image_title: "Harbour 1"
-    image_description_markdown: "**Harbour 1**  
- **Date** : 2008  
- **Medium** : oil"
+    image_description_markdown: "**Date** : 2008  
+     **Medium** : oil"
   - image_path: "/assets/images/49f9dafa78a52.jpg"
     image_title: "Harbour 2"
-    image_description_markdown: "**Harbour 2**  
- **Date** : 2008  
- **Medium** : oil"
+    image_description_markdown: "**Date** : 2008 
+    **Medium** : oil"
   - image_path: "/assets/images/49f9d8fe9e96b.jpg"
     image_title: "The end of the Summer 2"
-    image_description_markdown: "**The end of the Summer 2**  
- **Date** : 2008  
- **Medium** : oil"
+    image_description_markdown: "**Date** : 2008  
+    **Medium** : oil"
   - image_path: "/assets/images/49f9d93430d8e.jpg"
     image_title: "Waiting for the boat"
-    image_description_markdown:  "**Waiting for the boat**  
- **Date** : 2008  
- **Medium** : oil"
+    image_description_markdown:  "**Date** : 2008  
+    **Medium** : oil"
   - image_path: "/assets/images/54f62a9412f0c.jpg"
     image_title: "Its not what it seems I"
     image_description_markdown: ""
@@ -134,38 +124,32 @@ images:
     image_description_markdown: ""
   - image_path: "/assets/images/49fa140985538.jpg"
     image_title: "Panama"
-    image_description_markdown: "**Panama**  
-30x 30  
- **Date** : 2000  
- **Medium** : oil on canvas"
+    image_description_markdown: "30x 30  
+     **Date** : 2000  
+      **Medium** : oil on canvas"
   - image_path: "/assets/images/49fa146006926.jpg"
     image_title: "Panama with plums"
-    image_description_markdown: "**Panama with plums**  
-30 x30  
- **Date** : 2000  
- **Medium** : oil on canvas"
+    image_description_markdown: "30 x30  
+     **Date** : 2000  
+     **Medium** : oil on canvas"
   - image_path: "/assets/images/49fa149cacb74.jpg"
     image_title: "Panamas with old frame"
-    image_description_markdown: "**Panamas with old frame**  
-30 x 30  
- **Medium** : oil on canvas"
+    image_description_markdown: "30 x 30  
+    **Medium** : oil on canvas"
   - image_path: "/assets/images/463a059a26637.jpg"
     image_title: "Kefalo"
-    image_description_markdown: "**Kefalo**  
-60 x 60cm  
- **Date** : 2004  
- **Medium** : Oil"
+    image_description_markdown: "60 x 60cm  
+     **Date** : 2004  
+     **Medium** : Oil"
   - image_path: "/assets/images/463a0a751abdd.jpg"
     image_title: "Summer of 2002"
-    image_description_markdown: "**Summer of 2002**  
-140 x 80  
- **Medium** : Oil"
+    image_description_markdown: "140 x 80  
+    **Medium** : Oil"
   - image_path: "/assets/images/49fa16e838d8d.jpg"
     image_title: "Frosso's eggs"
-    image_description_markdown: "**Frosso's eggs**  
-30 x30  
- **Date** : 1999  
- **Medium** : oil on canvas"
+    image_description_markdown: "30 x30  
+     **Date** : 1999  
+     **Medium** : oil on canvas"
   - image_path: "/assets/images/54f628cb13c2b.jpg"
     image_title: "Willow jug"
     image_description_markdown: ""

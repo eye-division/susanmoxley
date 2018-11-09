@@ -4,7 +4,6 @@
 
 .navigation {
   margin: 0.5em 0 0;
-  @include grid-container;
   //@include grid-visual;
   padding: 0.5em 0;
   border-top: 1px solid $base-border-color;
@@ -20,7 +19,7 @@
 /// small view
 .navigation-menu-button {
   display: block;
-  text-align: right;
+  text-align: center;
   margin: 0;
   font-size: 1.5em;
   padding-top: 0.5em;
@@ -51,7 +50,7 @@
 }
 
 nav {
-    float: right;
+    //float: right;
     @include grid-media ($small) {
         float: none;
         line-height: 1.5em;
@@ -83,7 +82,7 @@ nav {
 
 .nav--link {
     display: block;
-    text-align: right;
+    text-align: center;
     width: 100%;
     padding: 0;
     text-transform: uppercase;

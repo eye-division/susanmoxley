@@ -17,8 +17,10 @@
    padding: 0 1em 1em;
    max-width: 48em;
    margin: 0 auto;
+   text-align: center;
   @include grid-media ($small) {
-    padding: 1em;
+    padding: 0 1em;
+    text-align: left;
   }
 }
 .page--header {

@@ -34,9 +34,9 @@ _comments:
 
 {% for gallery in site.gallery %}
 
-     <div class="gallery--box{% cycle '', ' last' %}">
+     <div class="gallery--box">
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
 	           <!-- cropped square images -->
             {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
             <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->

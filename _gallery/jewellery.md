@@ -8,6 +8,7 @@ description_markdown: >-
   The silver is beaten and fold- formed to create unique pieces of jewelley that speak with the same voice as her two dimentional work.
 homepage_description_markdown: 
 frontpage: true
+page_order_number: 4
 _gallery_date: 2016-05-01 00:00:00
 permalink: /petra-silver-jewellery/
 display_title: true

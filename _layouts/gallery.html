@@ -35,8 +35,8 @@ layout: default
 
         {% if image.image_path %}
 
-        <div class="gallery--box {% cycle 'alpha', '', 'last' %}">
-          <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_description_markdown | markdownify}}">
+        <div class="gallery--box">
+          <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="gallery--link" data-lightbox="gallery" data-title="{{ image.image_description_markdown | markdownify}}">
 
             {% if page.thumb_crop %}
 
@@ -51,11 +51,11 @@ layout: default
                  <!-- end format images -->
                {% endif %}
 
-          </a>
+            {% if page.display_thumb_title %}
+              <figcaption class="gallery--caption">{{ image.image_title }}</figcaption>
+            {% endif %}
 
-          {% if page.display_thumb_title %}
-            <figcaption class="gallery--caption">{{ image.image_title }}</figcaption>
-          {% endif %}
+          </a>
 
         </div>
 

@@ -3,12 +3,13 @@ layout: page
 title: "Prints"
 permalink: /prints/
 display_page_title: true
-main_image_path:
-main_image_caption:
+main_image_path: /assets/images/58ab1c0c34c3e.jpg
+main_image_caption: "Democracy"
 display_image: false
-frontpage: false
+frontpage: true
+page_order_number: 1
 homepage_description_markdown: >-
-frontpagetitle:
+frontpagetitle: "Prints"
 display_thumb_title: true
 thumb_crop: true
 images:
@@ -54,10 +55,10 @@ _comments:
 
 {% for gallery in site.prints %}
 
-     <div class="gallery--box{% cycle '', ' last' %}">
+     <div class="gallery--box">
 
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
 
             {% if page.thumb_crop %}
 

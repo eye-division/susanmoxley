@@ -5,7 +5,7 @@ description_markdown: >-
 
   In all her windows she works closely with the client or does workshops in schools where the children are encouraged to draw their ideas. She often reproduces the children's drawings onto the glass which gives them a feeling of  involvement in a lasting installation. She carries this ancient craft into the contemporary world.
 homepage_description_markdown: 
-frontpage: true
+frontpage: false
 _gallery_date: 2016-05-01 00:00:00
 permalink: /stained-glass/school-commissions/
 display_title: true
