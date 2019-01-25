@@ -1,0 +1,86 @@
+---
+layout: page
+title: "Prints"
+permalink: /prints/
+display_page_title: true
+main_image_path: /assets/images/58ab1c0c34c3e.jpg
+main_image_caption: "Democracy"
+display_image: false
+frontpage: true
+page_order_number: 1
+homepage_description_markdown: >-
+frontpagetitle: "Prints"
+display_thumb_title: true
+thumb_crop: true
+images:
+  - image_path:
+    image_title:
+    image_description:
+_options:
+  layout:
+    hidden: true
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Page title
+  permalink: Be careful editing this
+  display_page_title: Show the page title at the top of the page
+  main_image_path: Image used to represent your page
+  display_image: Show the featured image at the top of the page
+  images_first: display gallery of images BEFORE the main text
+  frontpage: Show this page on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+  frontpagetitle: Alternative title for home page use
+  display_thumb_title: Show image titles below images
+  images: Add and edit images here
+  image_description: Might only be shown in the close up of an image
+  thumb_crop: Crop thumbnail images to a consistent size
+---
+<div class="editable">
+  <p>Since 2006 Susan Moxley has been making Sterling silver jewellery incorporating beach pebbles, slate and pummice from Greece.</p>
+  <p>Her designs are  determined by the naturally pummeled and sea polished pebbles which she carefully selects and matches. </p>
+  <p>The silver is beaten and fold- formed to create unique pieces of jewelley that speak with the same voice as her two dimentional work.</p>
+
+</div>
+
+<div class="gallery--list">
+
+{% for gallery in site.prints %}
+
+     <div class="gallery--box">
+
+
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
+
+            {% if page.thumb_crop %}
+
+              <!-- cropped square images -->
+              {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+              <!-- end cropped square, was 'width=1200 max-h=400 fit=clip' -->
+
+            {% else %}
+
+              <!-- full format images -->
+              {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+               <!-- end format images -->
+            {% endif %}
+
+           {% if page.display_thumb_title %}
+              <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+            {% endif %}
+
+          </a>
+
+     </div>
+
+{% endfor %}
+
+</div>

@@ -1,0 +1,24 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+.front {
+
+    .scrim {
+        padding: 0 0 20em 0;
+    }
+    .gallery--front {
+        padding: 0 1em 1em;
+        background: rgba(255,255,255,0.9);
+    }
+
+}
+.gallery--home {
+
+    @supports (display: grid) {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+}

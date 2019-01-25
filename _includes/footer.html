@@ -1,50 +1,43 @@
-<footer class="site-footer">
+<footer class="site--footer">
 
-  <div class="wrapper">
+  <div class="footer--wrapper">
 
-    <div class="site-navigation">
-      
-      <p><strong>Site Map</strong></p>
-      <ul class="pages">
-        {% for page in site.pages %}
-        {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
+    <div class="site--contact">
 
-    <div class="site-contact">
-
-      <p><strong>Contact</strong></p>
-      <ul class="social-media-list">
-        <li>
-          <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">{{ site.email }}</span>
-          </a>
-        </li>
+      <ul class="social-media-list list--horizontal">
 
         {% for social in site.social %}
           {% if social.url != null %}
-          <li>
+          <li class="">
             <a href="{{ social.url }}" title="{{ social.desc }}">
-              <i class="fa fa-{{ social.icon }}"></i>
-              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
+              <svg class="icon {{ social.icon }} icon--light"><use xlink:href="#{{ social.icon }}" /></svg>
             </a>
           </li>
           {% endif %}
         {% endfor %}
 
       </ul>
+
     </div>
 
-    <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+
+    <div class="site--signature">
+      <p class="text">&copy; All work is copyright the artist, no reproduction without permission.
+        <br />site by <a href="https://eyedivision.com">Eye Division</a></p>
     </div>
+
 
   </div>
 
 </footer>
+
+<!-- Scripts -->
+{% if site.recaptcha_site_key and jekyll.environment == 'production' %}
+<script src="//www.google.com/recaptcha/api.js" async defer></script>
+{% endif %}
+<script defer src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
+<script src="/js/jquery.flexslider-min.js" defer></script>
+<script src="//cdn.jsdelivr.net/npm/lightbox2@2.10.0/dist/js/lightbox.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="/js/main.js"></script>
 

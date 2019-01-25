@@ -1,33 +1,77 @@
 ---
-layout: empty
-permalink:
+layout: page
+title: Contact
+permalink: /contact/
+main_image_path:
+main_image_caption:
+frontpage: false
+homepage_description_markdown:
+frontpagetitle:
+images:
+  - image_path:
+    image_title:
+    image_description:
+_options:
+  layout:
+    hidden: true
+  permalink:
+    hidden: true
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Page title
+  permalink: Be careful editing this
+  main_image_path: Image used to represent your page
+  archive: Not used yet!
+  frontpage: Show this page on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+  frontpagetitle: Alternative title for home page use
+  images: Add and edit images here
 ---
 
-    <form action="/thanks/" method="post" id="contact-form">
+<div class="editable">
+        <p>Susan Moxley<br>
+43 Oakthorpe Road<br>
+Summertown<br>
+Oxford<br>
+OX2 7BD<br>
+01865 516556</p>
+      </div>
+
+      <h4>Send an email</h4>
+
+      <form action="/thanks/" method="post">
 
       <fieldset>
-
-            <input type="hidden" name="_to" value="">
-            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
-            <input type="hidden" name="_subject" value="Web form">
-            <p>
-            <label for="name">Name:</label>
-            <input type="text" name="name">
-            </p>
-            <p>
-            <label for="_replyto">Email:</label>
-            <input type="text" name="_replyto">
-            </p>
-            <p>
-            <label>Message</label>
-            <textarea name="message"></textarea>
-            </p>
-            {% if site.recaptcha_site_key %}
-            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
-            {% endif %}
+        <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_to" value="{{ site.email }}" />
+        <input type="hidden" name="_subject" value="Web form" />
         <p>
-            <input type="submit" value="Send message">
-            </p>
+        <label for="name">Name:</label>
+        <input type="text" name="name" />
+        </p>
+        <p>
+        <label for="_replyto">Email:</label>
+        <input type="email" name="_replyto" />
+        </p>
+        <p>
+        <label>Message</label>
+        <textarea name="message"></textarea>
+        </p>
+        {% if site.recaptcha_site_key %}
+          <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+        {% endif %}
+  	     <p>
+          <input type="submit" value="Send message" />
+        </p>
       </fieldset>
 
       </form>

@@ -1,0 +1,127 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the navigation
+// -----------------------------------------------------------------------------
+
+.navigation {
+  margin: 0.5em 0 0;
+  //@include grid-visual;
+  padding: 0.5em 0;
+  border-top: 1px solid $base-border-color;
+  z-index: 99; // to cover over flexslider
+
+  background-color: $navigation-background;
+}
+/// Nav menu
+.navigation--wrapper {
+  position: relative;
+}
+
+/// small view
+.navigation-menu-button {
+  display: block;
+  text-align: center;
+  margin: 0;
+  font-size: 1.5em;
+  padding-top: 0.5em;
+  color: $white;
+  text-decoration: none;
+  .icon-menu {
+      fill : $navigation-color;
+  }
+  &:link {
+      color: $navigation-color;
+      text-decoration: none;
+  }
+  &:hover, &:active {
+      text-decoration: none;
+      color: tint($navigation-color,20%);
+      /// menu icon
+      .icon-menu {
+          fill : tint($navigation-color,20%);
+      }
+  }
+  @include grid-media ($small) {
+      display: none;
+  }
+}
+.menu--title {
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+nav {
+    //float: right;
+    @include grid-media ($small) {
+        float: none;
+        line-height: 1.5em;
+    }
+}
+
+.navigation--menu {
+    clear: both;
+    text-align: center;
+    display: none;
+    margin: 0 auto;
+    overflow: visible;
+    padding: 0;
+    width: 100%;
+
+    @include grid-media ($small) {
+      border-top: 1px solid $medium-gray;
+      border-bottom: 1px solid $medium-gray;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+    &.show {
+        display: block;
+    }
+}
+
+/// Nav items
+
+.nav--link {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    text-transform: uppercase;
+
+    @include grid-media ($small) {
+        background: transparent;
+        display: inline-block;
+        text-decoration: none;
+        width: auto;
+        font-size: modular-scale(-1);
+    }
+    a {
+        color: $navigation-color;
+        display: inline-block;
+        text-decoration: none;
+        @include grid-media ($small) {
+            padding-right: 1em;
+        }
+        &:hover {
+            color: $navigation-color-hover;
+            text-decoration: none;
+        }
+    }
+
+    &:last-child a {
+        @include grid-media ($small) {
+            padding-right: 1em;
+        }
+    }
+}
+.nav--link.active,
+.active {
+    a {
+        color: $navigation-active-link-color;
+    }
+}
+
+.show--menu {
+  display: block;
+}
+
+// Inspired by code by www.HUSAMUI.com

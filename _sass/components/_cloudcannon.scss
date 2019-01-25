@@ -1,0 +1,36 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to CloudCannon
+// -----------------------------------------------------------------------------
+
+/// Editor link
+
+.editor-link {
+  display: none;
+}
+
+.cms-editor-active .editor-link {
+  display: block;
+}
+
+/// used in editor.scss for CloudCannon editing interface
+
+p.callout { /* Can be applied to blocks of content */
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #000;
+  background-color: #eee;
+}
+
+
+.center-this-text { /* Excluded from style dropdown, used as center class described below */
+  text-align: center;
+}
+.align-left {
+    text-align: left;
+}
+.align-right {
+    text-align: right;
+}
+.full-width-text {
+    text-align: justify;
+}
