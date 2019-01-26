@@ -75,11 +75,20 @@ images:
   - image_path: /assets/images/56dc23d21e885.jpg
     image_title: Before the storm
     image_description_markdown:
-  - image_path: /assets/images/4fa8d7e44b1bb.jpg
-    image_title: Shield bird
+  - image_path: /uploads/dsc01888.JPG
+    image_title: The wave 1
     image_description_markdown:
-  - image_path: /assets/images/54dca4696145b.jpg
-    image_title: Water women
+  - image_path: /uploads/dsc01889.JPG
+    image_title: The Wave II
+    image_description_markdown:
+  - image_path: /uploads/dsc01890.JPG
+    image_title: The Wave III
+    image_description_markdown:
+  - image_path: /uploads/dsc01895.JPG
+    image_title: Cycladese I
+    image_description_markdown:
+  - image_path: /uploads/dsc01897.JPG
+    image_title: Halcyon Dasys
     image_description_markdown:
 _options:
   image_path:
