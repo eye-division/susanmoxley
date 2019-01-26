@@ -24,7 +24,7 @@ images:
   - image_path: /uploads/baghdad-juggler.jpg
     image_title: Bahgadad Juggler
     image_description_markdown:
-  - image_path: /assets/images/58a6d4b23c246.jpg
+  - image_path: /uploads/baghdad-dogs-brexit.jpg
     image_title: Baghdad Dogs (Brexit)
     image_description_markdown:
   - image_path: /assets/images/54dc9ba85fcd2.jpg
