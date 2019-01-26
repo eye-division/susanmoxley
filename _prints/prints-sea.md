@@ -1,7 +1,23 @@
 ---
 title: Sea - prints
 description_markdown:
-homepage_description_markdown:
+homepage_description_markdown: >-
+  Susan Moxley’s exhibition at Sewell Gallery ‘Crossing the Aegean’&nbsp; was
+  inspired by the current turmoil of the Middle East causing huge numbers of
+  people to embark on the dangerous journey across the Aegean in search of
+  European promise of peace and safety.
+
+
+  The exhibition forces us to look again at the idyllic picture of the peaceful
+  calm Mediterranean that peppers our travel brochures.
+
+
+  The calm blue strokes of Aegean are instead, imbued with dark undercurrents of
+  danger and fear for those who have recently crossed it.
+
+
+  There are references too, to ancient mythological odysseys crossing the same
+  stretch of sea, now separating the West from the East.
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/sea/
