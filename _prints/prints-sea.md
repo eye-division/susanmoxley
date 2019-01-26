@@ -21,8 +21,8 @@ images:
   - image_path: /assets/images/56dc17da7993d.jpg
     image_title: Aegean V
     image_description_markdown:
-  - image_path: /assets/images/56dc18c82fb90.jpg
-    image_title: Aegean IV
+  - image_path: /uploads/aegean-series-2--2.jpg
+    image_title: 'Aegean 2:2'
     image_description_markdown:
   - image_path: /uploads/aegean-series-2--3.jpg
     image_title: 'Aegean 2:1'
