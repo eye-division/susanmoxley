@@ -90,6 +90,27 @@ images:
   - image_path: /uploads/dsc01897.JPG
     image_title: Halcyon Dasys
     image_description_markdown:
+  - image_path: /uploads/dsc01894.JPG
+    image_title: Cyclades II
+    image_description_markdown:
+  - image_path: /uploads/ritsos.jpg
+    image_title: The Pier I
+    image_description_markdown:
+  - image_path: /uploads/soul-of-a-bird-ii.jpg
+    image_title: The soul of a Bird I
+    image_description_markdown:
+  - image_path: /uploads/soul-of-a-bird-iii.jpg
+    image_title: The soul of a bird II
+    image_description_markdown:
+  - image_path: /uploads/soul-of-a-birdi.jpg
+    image_title: The soul of a bird III
+    image_description_markdown:
+  - image_path: /uploads/wave-i.jpg
+    image_title: The Wave I
+    image_description_markdown:
+  - image_path: /uploads/wave-ii.jpg
+    image_title: The Wave II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
