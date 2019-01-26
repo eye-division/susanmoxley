@@ -43,10 +43,10 @@ images:
     image_title: Aegean Sea I
     image_description_markdown:
   - image_path: /assets/images/58a6d6ff4d105.jpg
-    image_title: Aegean Sea II
+    image_title: Disquiet I
     image_description_markdown:
   - image_path: /assets/images/58a6d731e358b.jpg
-    image_title: Aegean Sea III
+    image_title: Disquiet II
     image_description_markdown:
   - image_path: /assets/images/58a6f5f27ca57.jpg
     image_title: Sea I
@@ -76,13 +76,13 @@ images:
     image_title: Before the storm
     image_description_markdown:
   - image_path: /uploads/dsc01888.JPG
-    image_title: The wave 1
+    image_title: The Swell 1
     image_description_markdown:
   - image_path: /uploads/dsc01889.JPG
-    image_title: The Wave II
+    image_title: The Swell II
     image_description_markdown:
   - image_path: /uploads/dsc01890.JPG
-    image_title: The Wave III
+    image_title: The Swell III
     image_description_markdown:
   - image_path: /uploads/dsc01895.JPG
     image_title: Cycladese I
@@ -110,6 +110,9 @@ images:
     image_description_markdown:
   - image_path: /uploads/wave-ii.jpg
     image_title: The Wave II
+    image_description_markdown:
+  - image_path: /uploads/dsc01898.JPG
+    image_title: The Avgo
     image_description_markdown:
 _options:
   image_path:
