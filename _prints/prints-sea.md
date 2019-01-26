@@ -114,6 +114,12 @@ images:
   - image_path: /uploads/dsc01898.JPG
     image_title: The Avgo
     image_description_markdown:
+  - image_path: /uploads/pranayama-i.jpg
+    image_title: Pranayama I
+    image_description_markdown:
+  - image_path: /uploads/pranayama-iii.jpg
+    image_title: Pranayama II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
