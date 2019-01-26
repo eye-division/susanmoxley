@@ -13,7 +13,7 @@ thumb_crop: true
 main_image_path: /uploads/krathong-ii.jpg
 images:
   - image_path: /assets/images/58a6dc662c295.jpg
-    image_title: Bankok
+    image_title: Krathong
     image_description_markdown:
   - image_path: /assets/images/58a6e34ac68b1.jpg
     image_title: Batik
