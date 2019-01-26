@@ -27,8 +27,8 @@ images:
   - image_path: /uploads/aegean-series-2--3.jpg
     image_title: 'Aegean 2:1'
     image_description_markdown:
-  - image_path: /assets/images/58a6d9d10d533.jpg
-    image_title: Heat II
+  - image_path: /uploads/aegean-series-2--3-1.jpg
+    image_title: 'Aegean 2:3'
     image_description_markdown:
   - image_path: /assets/images/58a6d754f30d8.jpg
     image_title: Agiasmos I
