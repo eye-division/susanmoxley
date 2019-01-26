@@ -21,7 +21,7 @@ images:
   - image_path: /uploads/susan-moxley-democracyjpg.jpg
     image_title: Democracy
     image_description_markdown:
-  - image_path: /assets/images/58a6d4d9ec917.jpg
+  - image_path: /uploads/baghdad-juggler.jpg
     image_title: Bahgadad Juggler
     image_description_markdown:
   - image_path: /assets/images/58a6d4b23c246.jpg
