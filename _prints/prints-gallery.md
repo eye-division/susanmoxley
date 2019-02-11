@@ -1,7 +1,6 @@
 ---
 title: Gallery - prints
-description_markdown: >-
-  
+description_markdown:
 homepage_description_markdown:
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
@@ -135,6 +134,12 @@ images:
     image_description_markdown:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
+    image_description_markdown:
+  - image_path: /uploads/grey-pitharia.jpg
+    image_title: Grey Pitharia
+    image_description_markdown:
+  - image_path:
+    image_title:
     image_description_markdown:
 _options:
   image_path:
