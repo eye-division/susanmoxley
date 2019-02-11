@@ -142,6 +142,9 @@ images:
   - image_path: /uploads/humid-night.jpg
     image_title: Humid night I
     image_description_markdown:
+  - image_path: /uploads/humid-night-ii.jpg
+    image_title: Humid night II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
