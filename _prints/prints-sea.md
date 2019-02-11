@@ -136,6 +136,12 @@ images:
   - image_path: /uploads/pranayama-iii.jpg
     image_title: Pranayama II
     image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/pranayama-ii.jpg
+    image_title: Pranayama III
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
