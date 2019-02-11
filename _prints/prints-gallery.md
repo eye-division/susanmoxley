@@ -24,7 +24,7 @@ images:
   - image_path: /assets/images/58a6e34ac68b1.jpg
     image_title: Batik
     image_description_markdown:
-  - image_path: /assets/images/58a6dc9ae0098.jpg
+  - image_path: /uploads/thailand-ii.jpg
     image_title: Monsoon
     image_description_markdown:
   - image_path: /uploads/to-the-left-the-balls.jpg
