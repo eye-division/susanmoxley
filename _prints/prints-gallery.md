@@ -138,6 +138,18 @@ images:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
+  - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
+    image_title: There are 2 bowls in my house
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
   - image_path:
     image_title:
     image_description_markdown:
