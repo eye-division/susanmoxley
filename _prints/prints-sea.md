@@ -55,7 +55,7 @@ images:
   - image_path: /assets/images/58a701db7a281.jpg
     image_title: Agiasmos III
     image_description_markdown:
-  - image_path: /assets/images/58a6d6ff4d105.jpg
+  - image_path:
     image_title: Disquiet I
     image_description_markdown:
   - image_path: /assets/images/58a6d731e358b.jpg
