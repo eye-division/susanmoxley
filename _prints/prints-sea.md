@@ -43,9 +43,6 @@ images:
   - image_path:
     image_title: 'Aegean 2:1'
     image_description_markdown:
-  - image_path: /uploads/aegean-series-2--3-1.jpg
-    image_title: 'Aegean 2:3'
-    image_description_markdown:
   - image_path: /assets/images/58a6d754f30d8.jpg
     image_title: Agiasmos I
     image_description_markdown:
@@ -54,6 +51,9 @@ images:
     image_description_markdown:
   - image_path: /assets/images/58a701db7a281.jpg
     image_title: Agiasmos III
+    image_description_markdown:
+  - image_path: /uploads/aegean-series-2--3-1.jpg
+    image_title: 'Aegean 2:3'
     image_description_markdown:
   - image_path:
     image_title: Disquiet I
@@ -106,7 +106,7 @@ images:
   - image_path: /uploads/dsc01894.JPG
     image_title: Cyclades II
     image_description_markdown:
-  - image_path: /uploads/ritsos.jpg
+  - image_path: /uploads/on-course-1.jpg
     image_title: The Pier I
     image_description_markdown:
   - image_path: /uploads/soul-of-a-bird-ii.jpg
