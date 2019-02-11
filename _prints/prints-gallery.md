@@ -1,6 +1,7 @@
 ---
 title: Gallery - prints
-description_markdown:
+description_markdown: >-
+  
 homepage_description_markdown:
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
@@ -12,9 +13,6 @@ display_thumb_title: true
 thumb_crop: true
 main_image_path: /uploads/krathong-ii.jpg
 images:
-  - image_path:
-    image_title:
-    image_description_markdown:
   - image_path: /uploads/blue-pitharia.jpg
     image_title: Blue Pitharia
     image_description_markdown:
@@ -134,15 +132,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/58a6e08ebd776.jpg
     image_title: Stack IV
-    image_description_markdown:
-  - image_path:
-    image_title:
-    image_description_markdown:
-  - image_path:
-    image_title:
-    image_description_markdown:
-  - image_path:
-    image_title:
     image_description_markdown:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
