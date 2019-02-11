@@ -15,17 +15,23 @@ images:
   - image_path: /uploads/blue-pitharia.jpg
     image_title: Blue Pitharia
     image_description_markdown:
+  - image_path: /assets/images/56dc14d8d34a9.jpg
+    image_title: Pitharia
+    image_description_markdown:
+  - image_path: /uploads/grey-pitharia.jpg
+    image_title: Grey Pitharia
+    image_description_markdown:
   - image_path: /assets/images/58a6e34ac68b1.jpg
     image_title: Batik
     image_description_markdown:
   - image_path: /assets/images/58a6dc9ae0098.jpg
     image_title: Monsoon
     image_description_markdown:
+  - image_path: /uploads/to-the-left-the-balls.jpg
+    image_title: 'To he left, the balls'
+    image_description_markdown:
   - image_path: /assets/images/58a6dcc011081.jpg
     image_title: After the Monsoon
-    image_description_markdown:
-  - image_path: /assets/images/56dc14d8d34a9.jpg
-    image_title: Pitharia
     image_description_markdown:
   - image_path: /assets/images/54f579e5afcd0.jpg
     image_title: Eikon I
@@ -63,6 +69,9 @@ images:
   - image_path: /assets/images/54dcbae6a50d8.jpg
     image_title: Rhythm in Red
     image_description_markdown:
+  - image_path: /uploads/krathong-ii.jpg
+    image_title: Krathong
+    image_description_markdown:
   - image_path: /assets/images/54dcbb9c8096b.jpg
     image_title: Mycaenian Harbour
     image_description_markdown:
@@ -81,14 +90,20 @@ images:
   - image_path: /assets/images/54dcbea823571.jpg
     image_title: Jazz II
     image_description_markdown:
+  - image_path: /assets/images/54dcbef7474aa.jpg
+    image_title: Red and Black
+    image_description_markdown:
+  - image_path: /assets/images/56dc1494d719f.jpg
+    image_title: Into Light I
+    image_description_markdown:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
     image_description_markdown:
   - image_path: /assets/images/54fdc851af514.jpg
     image_title: Tranquil
     image_description_markdown:
-  - image_path: /assets/images/54dcbef7474aa.jpg
-    image_title: Red and Black
+  - image_path: /assets/images/54dcbfd5b7b4a.jpg
+    image_title: Landscape woman II
     image_description_markdown:
   - image_path: /assets/images/54dcc6f7eec92.jpg
     image_title: The Journey
@@ -99,14 +114,11 @@ images:
   - image_path: /assets/images/54dcbf4e08408.jpg
     image_title: Landscape Woman I
     image_description_markdown:
-  - image_path: /assets/images/54dcbfd5b7b4a.jpg
-    image_title: Landscape woman II
-    image_description_markdown:
   - image_path: /assets/images/54f581087170f.jpg
     image_title: Where I am
     image_description_markdown:
-  - image_path: /assets/images/56dc1494d719f.jpg
-    image_title: Into Light I
+  - image_path: /assets/images/54f57bc9bc308.jpg
+    image_title: Portrait I
     image_description_markdown:
   - image_path: /assets/images/56dc14b725480.jpg
     image_title: Into Light II
@@ -116,9 +128,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/54f57b75047d8.jpg
     image_title: The plait
-    image_description_markdown:
-  - image_path: /assets/images/54f57bc9bc308.jpg
-    image_title: Portrait I
     image_description_markdown:
   - image_path: /assets/images/58a6e023b1373.jpg
     image_title: Stack I
@@ -132,17 +141,8 @@ images:
   - image_path: /assets/images/58a6e08ebd776.jpg
     image_title: Stack IV
     image_description_markdown:
-  - image_path: /uploads/krathong-ii.jpg
-    image_title: Krathong
-    image_description_markdown:
-  - image_path: /uploads/grey-pitharia.jpg
-    image_title: Grey Pitharia
-    image_description_markdown:
   - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
     image_title: There are 2 bowls in my house
-    image_description_markdown:
-  - image_path: /uploads/to-the-left-the-balls.jpg
-    image_title: 'To he left, the balls'
     image_description_markdown:
   - image_path:
     image_title:
