@@ -157,6 +157,9 @@ images:
   - image_path: /uploads/heading-for-the-rocks.jpg
     image_title: Heading for the rocks
     image_description_markdown:
+  - image_path: /uploads/on-course.jpg
+    image_title: On course
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
