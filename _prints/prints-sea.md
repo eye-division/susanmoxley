@@ -37,10 +37,10 @@ images:
   - image_path: /assets/images/56dc17da7993d.jpg
     image_title: Aegean V
     image_description_markdown:
-  - image_path: /uploads/aegean-series-2--2.jpg
-    image_title: 'Aegean 2:2'
+  - image_path: /assets/images/58a6d66fd1d9d.jpg
+    image_title: Aegean Sea I
     image_description_markdown:
-  - image_path: /uploads/aegean-series-2--3.jpg
+  - image_path:
     image_title: 'Aegean 2:1'
     image_description_markdown:
   - image_path: /uploads/aegean-series-2--3-1.jpg
@@ -54,9 +54,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/58a701db7a281.jpg
     image_title: Agiasmos III
-    image_description_markdown:
-  - image_path: /assets/images/58a6d66fd1d9d.jpg
-    image_title: Aegean Sea I
     image_description_markdown:
   - image_path: /assets/images/58a6d6ff4d105.jpg
     image_title: Disquiet I
