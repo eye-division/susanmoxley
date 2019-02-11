@@ -151,6 +151,9 @@ images:
   - image_path: /uploads/humid-night-iv.jpg
     image_title: Humid Night IV
     image_description_markdown:
+  - image_path: /uploads/aegean-crossing.jpg
+    image_title: aegean crossing
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
