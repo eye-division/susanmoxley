@@ -132,6 +132,18 @@ images:
   - image_path: /assets/images/58a6e08ebd776.jpg
     image_title: Stack IV
     image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/krathong-ii.jpg
+    image_title: Krathong
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
