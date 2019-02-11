@@ -166,6 +166,9 @@ images:
   - image_path: /uploads/ritsos-ii.jpg
     image_title: Ritsos II
     image_description_markdown:
+  - image_path: /uploads/ritsos-iii.jpg
+    image_title: Ritsos III
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
