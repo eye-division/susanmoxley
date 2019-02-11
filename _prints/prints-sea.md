@@ -37,7 +37,7 @@ images:
   - image_path: /assets/images/56dc17da7993d.jpg
     image_title: Aegean V
     image_description_markdown:
-  - image_path: /assets/images/58a6d66fd1d9d.jpg
+  - image_path:
     image_title: Aegean Sea I
     image_description_markdown:
   - image_path:
