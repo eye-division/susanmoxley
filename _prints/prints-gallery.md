@@ -141,8 +141,8 @@ images:
   - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
     image_title: There are 2 bowls in my house
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/to-the-left-the-balls.jpg
+    image_title: 'To he left, the balls'
     image_description_markdown:
   - image_path:
     image_title:
