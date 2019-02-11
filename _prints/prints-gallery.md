@@ -21,8 +21,8 @@ images:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
-  - image_path: /assets/images/58a6e34ac68b1.jpg
-    image_title: Batik
+  - image_path: /uploads/krathong-ii-1.jpg
+    image_title: Krathong II
     image_description_markdown:
   - image_path: /uploads/thailand-ii.jpg
     image_title: Monsoon
