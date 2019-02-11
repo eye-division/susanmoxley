@@ -163,8 +163,8 @@ images:
   - image_path: /uploads/ritsos-i.jpg
     image_title: Ritsos I
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/ritsos-ii.jpg
+    image_title: Ritsos II
     image_description_markdown:
 _options:
   image_path:
