@@ -94,7 +94,7 @@ images:
   - image_path: /uploads/dsc01889.JPG
     image_title: The Swell II
     image_description_markdown:
-  - image_path: /uploads/dsc01890.JPG
+  - image_path: /uploads/swell.jpg
     image_title: The Swell III
     image_description_markdown:
   - image_path: /uploads/dsc01895.JPG
