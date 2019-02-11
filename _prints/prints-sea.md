@@ -154,6 +154,9 @@ images:
   - image_path: /uploads/aegean-crossing.jpg
     image_title: aegean crossing
     image_description_markdown:
+  - image_path: /uploads/heading-for-the-rocks.jpg
+    image_title: Heading for the rocks
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
