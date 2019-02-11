@@ -144,8 +144,8 @@ images:
   - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
     image_title: There are 2 bowls in my house
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/pitharia.jpg
+    image_title: Pink Pitharia
     image_description_markdown:
   - image_path:
     image_title:
