@@ -109,6 +109,18 @@ images:
   - image_path: /uploads/opeline-glass-necklace.jpg
     image_title: Opeline beads with silver
     image_description_markdown:
+  - image_path: /uploads/necklace.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/pendants-2.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/pendants.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/stuff.jpg
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
