@@ -54,6 +54,9 @@ images:
   - image_path: /assets/images/54fdc99720087.jpg
     image_title: Oasis
     image_description_markdown:
+  - image_path: /assets/images/54dcb044eb05b.jpg
+    image_title: In the shadows
+    image_description_markdown:
   - image_path: /assets/images/56dc13f72170f.jpg
     image_title: Rhythm I
     image_description_markdown:
@@ -62,9 +65,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/56dc14740f186.jpg
     image_title: Rhythm III
-    image_description_markdown:
-  - image_path: /assets/images/54dcb044eb05b.jpg
-    image_title: In the shadows
     image_description_markdown:
   - image_path: /assets/images/54dccb3e23de1.jpg
     image_title: Replenish
