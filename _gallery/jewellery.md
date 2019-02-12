@@ -100,6 +100,15 @@ images:
   - image_path: /uploads/necklace-2.jpg
     image_title: Silver tubes with black stones
     image_description_markdown:
+  - image_path: /uploads/black-bundle-necklace.jpg
+    image_title: Bundles of black stones
+    image_description_markdown:
+  - image_path: /uploads/bundle-necklace.jpg
+    image_title: silver cross tubes with black stones
+    image_description_markdown:
+  - image_path: /uploads/opeline-glass-necklace.jpg
+    image_title: Opeline beads with silver
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
