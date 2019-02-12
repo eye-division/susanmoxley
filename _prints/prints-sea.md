@@ -151,7 +151,7 @@ images:
   - image_path: /uploads/aegean-crossing.jpg
     image_title: aegean crossing
     image_description_markdown:
-  - image_path: /uploads/humid-night.jpg
+  - image_path:
     image_title: Humid night I
     image_description_markdown:
   - image_path: /uploads/humid-night-ii.jpg
