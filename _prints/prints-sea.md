@@ -70,7 +70,7 @@ images:
   - image_path: /assets/images/58a6f6299db3f.jpg
     image_title: Sea III
     image_description_markdown:
-  - image_path: /assets/images/58a6ff507f294.jpg
+  - image_path: /uploads/dsc01893.jpg
     image_title: Thalassa V
     image_description_markdown:
   - image_path: /assets/images/54dcafab51f19.jpg
