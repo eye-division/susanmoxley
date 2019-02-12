@@ -76,14 +76,14 @@ images:
   - image_path: /assets/images/54dcafab51f19.jpg
     image_title: Amphora women
     image_description_markdown:
+  - image_path: /assets/images/56dc24052c244.jpg
+    image_title: Aegean Journey
+    image_description_markdown:
   - image_path: /assets/images/54dcbc84027cb.jpg
     image_title: Thalatta
     image_description_markdown:
   - image_path: /assets/images/56dc21bbe59b3.jpg
     image_title: Thalassa
-    image_description_markdown:
-  - image_path: /assets/images/56dc24052c244.jpg
-    image_title: Aegean Journey
     image_description_markdown:
   - image_path: /assets/images/56dc23d21e885.jpg
     image_title: Before the storm
@@ -139,6 +139,9 @@ images:
   - image_path: /uploads/pranayama-ii.jpg
     image_title: Pranayama III
     image_description_markdown:
+  - image_path: /uploads/heading-for-the-rocks.jpg
+    image_title: Heading for the rocks
+    image_description_markdown:
   - image_path: /uploads/humid-night.jpg
     image_title: Humid night I
     image_description_markdown:
@@ -154,10 +157,7 @@ images:
   - image_path: /uploads/aegean-crossing.jpg
     image_title: aegean crossing
     image_description_markdown:
-  - image_path: /uploads/heading-for-the-rocks.jpg
-    image_title: Heading for the rocks
-    image_description_markdown:
-  - image_path: /uploads/on-course.jpg
+  - image_path:
     image_title: On course
     image_description_markdown:
   - image_path: /uploads/ritsos-i.jpg
