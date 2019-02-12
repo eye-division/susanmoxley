@@ -46,14 +46,44 @@ images:
   - image_path: /assets/images/4feb0670a38ba.jpg
     image_title: slate bundle necklace
     image_description_markdown:
+  - image_path: /uploads/leaf-necklace.jpg
+    image_title: Leaf shaped necklce
+    image_description_markdown:
   - image_path: /assets/images/4feb06a04ecd0.jpg
     image_title: Slate collar
+    image_description_markdown:
+  - image_path: /uploads/black-bundle-necklace.jpg
+    image_title: Bundles of black stones
+    image_description_markdown:
+  - image_path: /uploads/opeline-glass-necklace.jpg
+    image_title: Opeline beads with silver
+    image_description_markdown:
+  - image_path: /uploads/bundle-necklace.jpg
+    image_title: silver cross tubes with black stones
+    image_description_markdown:
+  - image_path: /uploads/necklace-2.jpg
+    image_title: Silver tubes with black stones
     image_description_markdown:
   - image_path: /assets/images/4feb06f06c671.jpg
     image_title: Classical slate pendant
     image_description_markdown:
   - image_path: /assets/images/4feb071fa8e46.jpg
     image_title: Silver cross on stone
+    image_description_markdown:
+  - image_path: /uploads/pendants-2.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/pendants.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/earings-and-braceletsjpg.jpg
+    image_title: Cufflinks with striped stone
+    image_description_markdown:
+  - image_path: /uploads/necklace.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/stuff.jpg
+    image_title:
     image_description_markdown:
   - image_path: /assets/images/4feb07dde2f56.jpg
     image_title: drop silver earings with putty coloured stone
@@ -85,44 +115,14 @@ images:
   - image_path: /assets/images/4feb0d66dcd34.jpg
     image_title: Beaten silver studs
     image_description_markdown:
+  - image_path: /uploads/flower-earings.jpg
+    image_title:
+    image_description_markdown:
   - image_path: /assets/images/4feb0dc65170d.jpg
     image_title: cufflinks with putty coloured stones
     image_description_markdown:
-  - image_path: /uploads/earings-and-braceletsjpg.jpg
-    image_title: Cufflinks with striped stone
-    image_description_markdown:
   - image_path: /assets/images/4feb1189518d3.jpg
     image_title: Pebble buttons
-    image_description_markdown:
-  - image_path: /uploads/leaf-necklace.jpg
-    image_title: Leaf shaped necklce
-    image_description_markdown:
-  - image_path: /uploads/necklace-2.jpg
-    image_title: Silver tubes with black stones
-    image_description_markdown:
-  - image_path: /uploads/black-bundle-necklace.jpg
-    image_title: Bundles of black stones
-    image_description_markdown:
-  - image_path: /uploads/bundle-necklace.jpg
-    image_title: silver cross tubes with black stones
-    image_description_markdown:
-  - image_path: /uploads/opeline-glass-necklace.jpg
-    image_title: Opeline beads with silver
-    image_description_markdown:
-  - image_path: /uploads/necklace.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/pendants-2.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/pendants.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/stuff.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/flower-earings.jpg
-    image_title:
     image_description_markdown:
 _options:
   image_path:
