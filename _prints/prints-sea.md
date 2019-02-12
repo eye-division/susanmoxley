@@ -55,7 +55,7 @@ images:
   - image_path: /uploads/aegean-series-2--3-1.jpg
     image_title: 'Aegean 2:3'
     image_description_markdown:
-  - image_path:
+  - image_path: /uploads/dsc01901.jpg
     image_title: Disquiet I
     image_description_markdown:
   - image_path: /assets/images/58a6d731e358b.jpg
