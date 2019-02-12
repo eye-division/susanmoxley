@@ -145,6 +145,12 @@ images:
   - image_path: /uploads/aegean-crossing.jpg
     image_title: aegean crossing
     image_description_markdown:
+  - image_path: /uploads/dsc01891.jpg
+    image_title: Crosscurrent I
+    image_description_markdown:
+  - image_path: /uploads/dsc01892.jpg
+    image_title: Cross current II
+    image_description_markdown:
   - image_path: /uploads/humid-night.jpg
     image_title: Humid night I
     image_description_markdown:
@@ -165,12 +171,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/ritsos-iii.jpg
     image_title: Ritsos III
-    image_description_markdown:
-  - image_path: /uploads/dsc01891.jpg
-    image_title: Crosscurrent I
-    image_description_markdown:
-  - image_path: /uploads/dsc01892.jpg
-    image_title: Cross current II
     image_description_markdown:
 _options:
   image_path:
