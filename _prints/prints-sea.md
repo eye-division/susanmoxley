@@ -53,7 +53,7 @@ images:
     image_title: Agiasmos III
     image_description_markdown:
   - image_path: /uploads/aegean-series-2--3-1.jpg
-    image_title: 'Aegean 2:3'
+    image_title: Disquiet III
     image_description_markdown:
   - image_path: /uploads/dsc01901.jpg
     image_title: Disquiet I
