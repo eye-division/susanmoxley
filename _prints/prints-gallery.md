@@ -105,7 +105,7 @@ images:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
     image_description_markdown:
-  - image_path: /assets/images/54fdc851af514.jpg
+  - image_path:
     image_title: Tranquil
     image_description_markdown:
   - image_path: /assets/images/54dcbfd5b7b4a.jpg
