@@ -20,6 +20,12 @@ images:
   - image_path: /assets/images/54fdc78598d6d.jpg
     image_title: Cargo II
     image_description_markdown:
+  - image_path: /uploads/dsc01910.jpg
+    image_title: Salt Port I
+    image_description_markdown:
+  - image_path: /uploads/dsc01909.jpg
+    image_title: Salt port II
+    image_description_markdown:
   - image_path: /assets/images/54dccf226bdd8.jpg
     image_title: Port 3A
     image_description_markdown:
@@ -95,15 +101,15 @@ images:
   - image_path: /assets/images/54fdc6bef0c8f.jpg
     image_title: Harbour III
     image_description_markdown:
+  - image_path: /assets/images/49fa146006926.jpg
+    image_title: Panama with plums
+    image_description_markdown: '30 x30   **Date** : 2000   **Medium** : oil on canvas'
   - image_path: /assets/images/54fdc74ad78f3.jpg
     image_title: Harbour IV
     image_description_markdown:
   - image_path: /assets/images/49fa140985538.jpg
     image_title: Panama
     image_description_markdown: '30x 30   **Date** : 2000   **Medium** : oil on canvas'
-  - image_path: /assets/images/49fa146006926.jpg
-    image_title: Panama with plums
-    image_description_markdown: '30 x30   **Date** : 2000   **Medium** : oil on canvas'
   - image_path: /assets/images/49fa149cacb74.jpg
     image_title: Panamas with old frame
     image_description_markdown: '30 x 30   **Medium** : oil on canvas'
@@ -130,12 +136,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/58f9f881cc764.jpg
     image_title: Limani IV 2017
-    image_description_markdown:
-  - image_path: /uploads/dsc01910.jpg
-    image_title: Salt Port I
-    image_description_markdown:
-  - image_path: /uploads/dsc01909.jpg
-    image_title: Salt port II
     image_description_markdown:
 _options:
   image_path:
