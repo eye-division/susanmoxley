@@ -1,8 +1,7 @@
 ---
 title: Women - prints
-description_markdown: >-
-
-homepage_description_markdown: 
+description_markdown:
+homepage_description_markdown:
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
 permalink: /prints/women/
@@ -13,26 +12,50 @@ display_thumb_title: true
 thumb_crop: true
 main_image_path: /assets/images/58a6e1c43f553.jpg
 images:
-  - image_path: "/assets/images/58a6e1c43f553.jpg"
-    image_title: "Horae I"
-    image_description_markdown: ""
-  - image_path: "/assets/images/58a6e269328bf.jpg"
-    image_title: "Horae III"
-    image_description_markdown: ""
-  - image_path: "/assets/images/58a6e28b682f1.jpg"
-    image_title: "Horae IV"
-    image_description_markdown: ""
+  - image_path: /assets/images/58a6e1c43f553.jpg
+    image_title: Horae I
+    image_description_markdown:
+  - image_path: /assets/images/58a6e269328bf.jpg
+    image_title: Horae III
+    image_description_markdown:
+  - image_path: /assets/images/58a6e28b682f1.jpg
+    image_title: Horae IV
+    image_description_markdown:
+  - image_path: /uploads/cycladic-figure-i.jpg
+    image_title: ycladic WomanI
+    image_description_markdown:
+  - image_path: /uploads/cycladic-woman-2.jpg
+    image_title: Cycladic woman II
+    image_description_markdown:
+  - image_path: /uploads/aegea.jpg
+    image_title: Aegea
+    image_description_markdown:
+  - image_path: /uploads/4-figures.jpg
+    image_title: 4 Figures
+    image_description_markdown:
+  - image_path: /uploads/5-figures.jpg
+    image_title: 5 Figures
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/5-women.jpg
+    image_title: 5 Cycladic women
+    image_description_markdown:
+  - image_path: /uploads/cycladin-women.jpg
+    image_title: Women
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
     width: 1200
     height: 800
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Gallery title
   permalink: Be careful editing this
@@ -45,3 +68,4 @@ _comments:
   thumb_crop: Crop thumbnail images to a consistent size
   display_thumb_title: Show titles under thumbnails
 ---
+
