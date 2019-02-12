@@ -106,8 +106,14 @@ images:
   - image_path: /uploads/dsc01894.JPG
     image_title: Cyclades II
     image_description_markdown:
+  - image_path: /uploads/electric-sky.jpg
+    image_title: Electric sky
+    image_description_markdown:
   - image_path: /uploads/on-course-1.jpg
     image_title: The Pier I
+    image_description_markdown:
+  - image_path: /uploads/dsc01898.JPG
+    image_title: The Avgo
     image_description_markdown:
   - image_path: /uploads/soul-of-a-bird-ii.jpg
     image_title: The soul of a Bird I
@@ -124,17 +130,11 @@ images:
   - image_path: /uploads/wave-ii.jpg
     image_title: The Wave II
     image_description_markdown:
-  - image_path: /uploads/dsc01898.JPG
-    image_title: The Avgo
-    image_description_markdown:
   - image_path: /uploads/pranayama-i.jpg
     image_title: Pranayama I
     image_description_markdown:
   - image_path: /uploads/pranayama-iii.jpg
     image_title: Pranayama II
-    image_description_markdown:
-  - image_path: /uploads/electric-sky.jpg
-    image_title: Electric sky
     image_description_markdown:
   - image_path: /uploads/pranayama-ii.jpg
     image_title: Pranayama III
