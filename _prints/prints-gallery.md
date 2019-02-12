@@ -108,9 +108,6 @@ images:
   - image_path: /assets/images/54fdc851af514.jpg
     image_title: Tranquil
     image_description_markdown:
-  - image_path: /assets/images/54f57bc9bc308.jpg
-    image_title: Portrait I
-    image_description_markdown:
   - image_path: /assets/images/54dcbfd5b7b4a.jpg
     image_title: Landscape woman II
     image_description_markdown:
@@ -125,6 +122,9 @@ images:
     image_description_markdown:
   - image_path: /assets/images/54f581087170f.jpg
     image_title: Where I am
+    image_description_markdown:
+  - image_path: /assets/images/54f57bc9bc308.jpg
+    image_title: Portrait I
     image_description_markdown:
   - image_path: /assets/images/54f580a835183.jpg
     image_title: Portrait II
