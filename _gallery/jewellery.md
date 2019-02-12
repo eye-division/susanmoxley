@@ -88,7 +88,7 @@ images:
   - image_path: /assets/images/4feb0dc65170d.jpg
     image_title: cufflinks with putty coloured stones
     image_description_markdown:
-  - image_path: /assets/images/4feb0de9c0fe3.jpg
+  - image_path: /uploads/earings-and-braceletsjpg.jpg
     image_title: Cufflinks with striped stone
     image_description_markdown:
   - image_path: /assets/images/4feb1189518d3.jpg
@@ -119,6 +119,9 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /uploads/stuff.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/flower-earings.jpg
     image_title:
     image_description_markdown:
 _options:
