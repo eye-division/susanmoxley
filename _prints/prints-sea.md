@@ -130,6 +130,9 @@ images:
   - image_path: /uploads/wave-ii.jpg
     image_title: The Wave II
     image_description_markdown:
+  - image_path: /uploads/heading-for-the-rocks.jpg
+    image_title: Heading for the rocks
+    image_description_markdown:
   - image_path: /uploads/pranayama-i.jpg
     image_title: Pranayama I
     image_description_markdown:
@@ -139,8 +142,8 @@ images:
   - image_path: /uploads/pranayama-ii.jpg
     image_title: Pranayama III
     image_description_markdown:
-  - image_path: /uploads/heading-for-the-rocks.jpg
-    image_title: Heading for the rocks
+  - image_path: /uploads/aegean-crossing.jpg
+    image_title: aegean crossing
     image_description_markdown:
   - image_path: /uploads/humid-night.jpg
     image_title: Humid night I
@@ -154,12 +157,6 @@ images:
   - image_path: /uploads/humid-night-iv.jpg
     image_title: Humid Night IV
     image_description_markdown:
-  - image_path: /uploads/aegean-crossing.jpg
-    image_title: aegean crossing
-    image_description_markdown:
-  - image_path:
-    image_title: On course
-    image_description_markdown:
   - image_path: /uploads/ritsos-i.jpg
     image_title: Ritsos I
     image_description_markdown:
@@ -168,6 +165,9 @@ images:
     image_description_markdown:
   - image_path: /uploads/ritsos-iii.jpg
     image_title: Ritsos III
+    image_description_markdown:
+  - image_path:
+    image_title: On course
     image_description_markdown:
   - image_path:
     image_title:
