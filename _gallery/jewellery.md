@@ -76,11 +76,11 @@ images:
   - image_path: /uploads/pendants.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/earings-and-braceletsjpg.jpg
-    image_title: Cufflinks with striped stone
-    image_description_markdown:
   - image_path: /uploads/necklace.jpg
     image_title:
+    image_description_markdown:
+  - image_path: /uploads/earings-and-braceletsjpg.jpg
+    image_title: Earings and bracelets
     image_description_markdown:
   - image_path: /uploads/stuff.jpg
     image_title:
