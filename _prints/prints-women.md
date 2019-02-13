@@ -67,7 +67,7 @@ images:
     image_title: 5 of 9
     image_description_markdown:
   - image_path: /uploads/6--1-in-9-copy.jpg
-    image_title: 6 0f 9
+    image_title: 6 of 9
     image_description_markdown:
   - image_path: /uploads/orange-woman-web.jpg
     image_title: Icon in orange
@@ -75,8 +75,11 @@ images:
   - image_path: /uploads/aegea.jpg
     image_title: Aegea
     image_description_markdown:
+  - image_path: /uploads/5-women.jpg
+    image_title: 5 Cycladic women
+    image_description_markdown:
   - image_path: /uploads/cycladic-figure-i.jpg
-    image_title: ycladic WomanI
+    image_title: Cycladic Woman I
     image_description_markdown:
   - image_path: /uploads/cycladic-woman-2.jpg
     image_title: Cycladic woman II
@@ -95,9 +98,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/5-figures.jpg
     image_title: 5 Figures
-    image_description_markdown:
-  - image_path: /uploads/5-women.jpg
-    image_title: 5 Cycladic women
     image_description_markdown:
   - image_path: /uploads/cycladin-women.jpg
     image_title: Women
