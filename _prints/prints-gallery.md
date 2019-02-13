@@ -36,7 +36,7 @@ images:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
     image_description_markdown:
-  - image_path: /assets/images/58a6dcc011081.jpg
+  - image_path: /uploads/monsoon-2.jpg
     image_title: After the Monsoon
     image_description_markdown:
   - image_path: /assets/images/54f579e5afcd0.jpg
@@ -147,7 +147,7 @@ images:
   - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
     image_title: There are 2 bowls in my house
     image_description_markdown:
-  - image_path:
+  - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
   - image_path:
