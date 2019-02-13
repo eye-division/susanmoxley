@@ -75,6 +75,15 @@ images:
       painted in monochrome. In this one collective painting all our lifes’
       journeys have come together.<br>10 of the 100 women have experienced
       breast cancer.
+  - image_path: /uploads/icon-drawings-and-prints.jpg
+    image_title: Icons
+    image_description_markdown: >-
+      The torso drawings are simple, iconic, female forms, similar to those that
+      have been repeated over hundreds of years of art history, as in the
+      ‘perfect’ classical forms that have become generic symbols of
+      woman.&nbsp;<br>These drawings are in contrast to the ‘imperfect’ ‘One in
+      Nine’ prints and also to the specific individual faces in the ‘100 Women’
+      portraits.
 _options:
   image_path:
     width: 1200
