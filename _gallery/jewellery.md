@@ -1,5 +1,5 @@
 ---
-title: Petra silver jewellery
+title: Jewellery
 description_markdown: >-
   Since 2006 Susan Moxley has been making Sterling silver jewellery
   incorporating beach pebbles, slate and pummice from Greece. Her designs are
