@@ -102,6 +102,9 @@ images:
   - image_path: /uploads/orange-woman-web.jpg
     image_title: Icon in orange
     image_description_markdown:
+  - image_path: /uploads/6--1-in-9-copy.jpg
+    image_title: 6 0f 9
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
