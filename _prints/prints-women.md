@@ -84,6 +84,24 @@ images:
       woman.&nbsp;<br>These drawings are in contrast to the ‘imperfect’ ‘One in
       Nine’ prints and also to the specific individual faces in the ‘100 Women’
       portraits.
+  - image_path: /uploads/1--1-in-9.jpg
+    image_title: 1 of 9
+    image_description_markdown:
+  - image_path: /uploads/2--1-in-9.jpg
+    image_title: 2 of 9
+    image_description_markdown:
+  - image_path: /uploads/3--1-in-9.jpg
+    image_title: 3 of 9
+    image_description_markdown:
+  - image_path: /uploads/4--1-in9.jpg
+    image_title: 4 of 9
+    image_description_markdown:
+  - image_path: /uploads/5--1-in-9.jpg
+    image_title: 5 of 9
+    image_description_markdown:
+  - image_path:
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
