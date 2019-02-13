@@ -66,6 +66,21 @@ images:
   - image_path: /uploads/5--1-in-9.jpg
     image_title: 5 of 9
     image_description_markdown:
+  - image_path: /uploads/6--1-in-9-copy.jpg
+    image_title: 6 0f 9
+    image_description_markdown:
+  - image_path: /uploads/orange-woman-web.jpg
+    image_title: Icon in orange
+    image_description_markdown:
+  - image_path: /uploads/aegea.jpg
+    image_title: Aegea
+    image_description_markdown:
+  - image_path: /uploads/cycladic-figure-i.jpg
+    image_title: ycladic WomanI
+    image_description_markdown:
+  - image_path: /uploads/cycladic-woman-2.jpg
+    image_title: Cycladic woman II
+    image_description_markdown:
   - image_path: /assets/images/58a6e1c43f553.jpg
     image_title: Horae I
     image_description_markdown:
@@ -75,23 +90,11 @@ images:
   - image_path: /assets/images/58a6e28b682f1.jpg
     image_title: Horae IV
     image_description_markdown:
-  - image_path: /uploads/cycladic-figure-i.jpg
-    image_title: ycladic WomanI
-    image_description_markdown:
-  - image_path: /uploads/cycladic-woman-2.jpg
-    image_title: Cycladic woman II
-    image_description_markdown:
-  - image_path: /uploads/aegea.jpg
-    image_title: Aegea
-    image_description_markdown:
   - image_path: /uploads/4-figures.jpg
     image_title: 4 Figures
     image_description_markdown:
   - image_path: /uploads/5-figures.jpg
     image_title: 5 Figures
-    image_description_markdown:
-  - image_path: /uploads/4--1-in9-1.jpg
-    image_title:
     image_description_markdown:
   - image_path: /uploads/5-women.jpg
     image_title: 5 Cycladic women
@@ -99,11 +102,8 @@ images:
   - image_path: /uploads/cycladin-women.jpg
     image_title: Women
     image_description_markdown:
-  - image_path: /uploads/orange-woman-web.jpg
-    image_title: Icon in orange
-    image_description_markdown:
-  - image_path: /uploads/6--1-in-9-copy.jpg
-    image_title: 6 0f 9
+  - image_path:
+    image_title:
     image_description_markdown:
 _options:
   image_path:
