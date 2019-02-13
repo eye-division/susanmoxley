@@ -99,8 +99,8 @@ images:
   - image_path: /uploads/cycladin-women.jpg
     image_title: Women
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/orange-woman-web.jpg
+    image_title: Icon in orange
     image_description_markdown:
 _options:
   image_path:
