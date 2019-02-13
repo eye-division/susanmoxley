@@ -143,13 +143,13 @@ images:
     image_title: Pranayama III
     image_description_markdown:
   - image_path: /uploads/dsc01891.jpg
-    image_title: Crosscurrent I
+    image_title: Cross current I
     image_description_markdown:
   - image_path: /uploads/dsc01892.jpg
     image_title: Cross current II
     image_description_markdown:
   - image_path: /uploads/aegean-crossing.jpg
-    image_title: aegean crossing
+    image_title: Aegean crossing
     image_description_markdown:
   - image_path:
     image_title: Humid night I
