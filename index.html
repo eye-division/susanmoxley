@@ -35,41 +35,55 @@ _comments:
       <p>Susan's work is always immediately recognizable through it's free flowing, painterly lines and exuberant colours.</p>
     </div>
 
-    {% if page.show_carousel and page.carousel %}
-
-    <section class="slideshow">
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.alink %}
-                 <a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">
-              {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.alink %}
-                </a>
-              {% endif %}
-              {% if slides.caption %}
-                <p class="flex-caption">{% if slides.alink %}<a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.alink %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-
-    {% endif %}
     <!--
       - Prints
       - Painting
       - Stained glass
       - Silver jewellery
     -->
-    <section class="gallery--list gallery--home">
-      <!-- Regular pages on front page -->
-      {% for section in site.pages %}
 
-      {% if section.frontpage %}
+    {% assign sectionone = site.pages | where: 'title', 'Prints' %}
+    {% assign sectiontwo = site.gallery | where: 'title', 'Painting' %} <!-- painting -->
+    {% assign sectionthree = site.pages | where: 'title', 'Stained glass' %}
+    {% assign sectionfour = site.gallery | where: 'title', 'Jewellery' %} <!-- jewellery -->
+
+    {% comment %}
+
+   {% assign pages = site.pages | where: 'frontpage', true %}
+    {% for p in pages %}
+      {% assign title = p.title | split:"," %}
+    {% endfor %}
+    // attempting to combine collections to make a new array - not working yet!
+
+    {% assign galleries = galleries | push: site.gallery | where: 'frontpage', true | where: 'page_order_number', '2' %}
+    {% for g in galleries %}
+      {% assign gtitle = g.title | split:"," %}
+      {% assign title = title | push: gtitle %}
+    {% endfor %}
+
+    {% assign prints = site.prints | where: 'frontpage', true %}
+    {% for pr in prints %}
+      {% assign prtitle = pr.title | split:"," %}
+      {% assign title = title | push: prtitle %}
+    {% endfor %}
+
+    {% assign stained_glass = site.stained_glass | where: 'frontpage', true %}
+    {% for sg in stained_glass %}
+      {% assign sgtitle = sg.title | split:"," %}
+      {% assign title = title | push: sgtitle %}
+    {% endfor %}
+
+    {% assign title = title | uniq  %}
+
+
+    {{ title | inspect }}
+
+    {% endcomment %}
+
+    <!-- Prints | Paintings | Stained glass | Jewellery -->
+    <section class="gallery--list gallery--home">
+
+      {% for section in sectionone %}
 
         <div class="gallery--box">
 
@@ -88,14 +102,10 @@ _comments:
 
         </div>
 
-      {% endif %}
-
     {% endfor %}
 
     <!-- Galleries -->
-    {% for gallery in site.gallery %}
-
-      {% if gallery.frontpage %}
+    {% for gallery in sectiontwo %}
 
         <div class="gallery--box">
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
@@ -113,15 +123,11 @@ _comments:
             {% endif %}
           </a>
         </div>
-
-      {% endif %}
 
     {% endfor %}
 
     <!-- Prints -->
-    {% for gallery in site.prints %}
-
-      {% if gallery.frontpage %}
+    {% for gallery in sectionthree %}
 
         <div class="gallery--box">
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
@@ -139,12 +145,11 @@ _comments:
             {% endif %}
           </a>
         </div>
-      {% endif %}
+
     {% endfor %}
 
     <!-- Stained glass -->
-    {% for gallery in site.stained_glass %}
-      {% if gallery.frontpage %}
+    {% for gallery in sectionfour %}
         <div class="gallery--box">
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
             {% if page.thumb_crop %}
@@ -161,7 +166,6 @@ _comments:
             {% endif %}
           </a>
         </div>
-      {% endif %}
     {% endfor %}
 
   </section>
