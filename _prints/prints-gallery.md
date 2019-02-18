@@ -31,7 +31,7 @@ images:
     image_title: Monsoon
     image_description_markdown:
   - image_path: /uploads/to-the-left-the-balls.jpg
-    image_title: 'To he left, the balls'
+    image_title: 'To the left, the balls'
     image_description_markdown:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
