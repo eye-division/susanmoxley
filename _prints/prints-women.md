@@ -111,6 +111,9 @@ images:
   - image_path: /uploads/water-women.jpg
     image_title: Water Women
     image_description_markdown:
+  - image_path: /uploads/3-women.jpg
+    image_title: Three Women
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
