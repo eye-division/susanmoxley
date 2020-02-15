@@ -21,11 +21,14 @@ images:
   - image_path: /assets/images/56dc14d8d34a9.jpg
     image_title: Pitharia
     image_description_markdown:
-  - image_path: /uploads/grey-pitharia.jpg
-    image_title: Grey Pitharia
+  - image_path: /uploads/pithari-in-red.jpg
+    image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/pitharia.jpg
     image_title: Pink Pitharia
+    image_description_markdown:
+  - image_path: /uploads/grey-pitharia.jpg
+    image_title: Grey Pitharia
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
@@ -102,11 +105,11 @@ images:
   - image_path: /assets/images/56dc14b725480.jpg
     image_title: Into Light II
     image_description_markdown:
-  - image_path: /assets/images/54fdc8bb527a1.jpg
-    image_title: Keeping order
-    image_description_markdown:
   - image_path:
     image_title: Tranquil
+    image_description_markdown:
+  - image_path: /assets/images/54fdc8bb527a1.jpg
+    image_title: Keeping order
     image_description_markdown:
   - image_path: /assets/images/54dcbfd5b7b4a.jpg
     image_title: Landscape woman II
@@ -141,14 +144,11 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/ancient-landscape.jpg
+    image_title: Ancient Landscape
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
-    image_description_markdown:
-  - image_path: /uploads/pithari-in-red.jpg
-    image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
