@@ -132,6 +132,9 @@ images:
   - image_path: /uploads/we-have-bowls-on-our-heads.jpg
     image_title: We Have bowl on our heads
     image_description_markdown:
+  - image_path: /uploads/cycladic-woman-v.jpg
+    image_title: Cycladic Woman III
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
