@@ -155,7 +155,7 @@ images:
     image_title: Humid night I
     image_description_markdown:
   - image_path: /uploads/halcyon-day-3.jpg
-    image_title: Halcion Day III
+    image_title: Halcyon Day III
     image_description_markdown:
   - image_path: /uploads/humid-night-iii.jpg
     image_title: Humid Night III
