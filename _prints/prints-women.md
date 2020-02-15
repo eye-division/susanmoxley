@@ -84,6 +84,9 @@ images:
   - image_path: /uploads/cycladic-woman-2.jpg
     image_title: Cycladic woman II
     image_description_markdown:
+  - image_path: /uploads/cycladic-woman-v.jpg
+    image_title: Cycladic Woman III
+    image_description_markdown:
   - image_path: /assets/images/58a6e1c43f553.jpg
     image_title: Horae I
     image_description_markdown:
@@ -131,9 +134,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/we-have-bowls-on-our-heads.jpg
     image_title: We Have bowl on our heads
-    image_description_markdown:
-  - image_path: /uploads/cycladic-woman-v.jpg
-    image_title: Cycladic Woman III
     image_description_markdown:
 _options:
   image_path:
