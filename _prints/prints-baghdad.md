@@ -100,6 +100,9 @@ images:
   - image_path: /uploads/baghdad-fish.jpg
     image_title:
     image_description_markdown:
+  - image_path: /uploads/baghdad-weazle.jpg
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
