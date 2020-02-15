@@ -105,8 +105,8 @@ images:
   - image_path: /assets/images/56dc14b725480.jpg
     image_title: Into Light II
     image_description_markdown:
-  - image_path:
-    image_title: Tranquil
+  - image_path: /uploads/azure-pitharia.jpg
+    image_title: Azure Pitaria
     image_description_markdown:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
