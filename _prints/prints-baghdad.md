@@ -94,6 +94,9 @@ images:
   - image_path: /assets/images/49f9c31352bd0.jpg
     image_title: Artwine lable image
     image_description_markdown:
+  - image_path: /uploads/baghdad-cat-ii.jpg
+    image_title: Baghdad Cat II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
