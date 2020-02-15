@@ -117,8 +117,14 @@ images:
   - image_path: /uploads/nabatean-woman-swimmer.jpg
     image_title: Nabatean Woman Sea
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/nabatean-woman-1.jpg
+    image_title: Nabatean Woman I
+    image_description_markdown:
+  - image_path: /uploads/nabatean-woman-blue-i.jpg
+    image_title: Nabatean Woman Blue
+    image_description_markdown:
+  - image_path: /uploads/nabatean-woman-ii.jpg
+    image_title: Nabaten Woman II
     image_description_markdown:
 _options:
   image_path:
