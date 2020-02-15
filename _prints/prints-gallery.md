@@ -162,6 +162,9 @@ images:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
     image_description_markdown:
+  - image_path: /uploads/full-moon.jpg
+    image_title: Full Moon
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
