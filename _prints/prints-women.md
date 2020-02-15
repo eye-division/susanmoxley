@@ -126,6 +126,12 @@ images:
   - image_path: /uploads/nabatean-woman-ii.jpg
     image_title: Nabaten Woman II
     image_description_markdown:
+  - image_path: /uploads/nabatean-woman-iii.jpg
+    image_title: Nabatean Woman III
+    image_description_markdown:
+  - image_path: /uploads/we-have-bowls-on-our-heads.jpg
+    image_title: We Have bowl on our heads
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
