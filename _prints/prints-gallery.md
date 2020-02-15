@@ -30,6 +30,9 @@ images:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
+  - image_path: /uploads/azure-pitharia.jpg
+    image_title: Azure Pitaria
+    image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
     image_description_markdown:
@@ -104,9 +107,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/56dc14b725480.jpg
     image_title: Into Light II
-    image_description_markdown:
-  - image_path: /uploads/azure-pitharia.jpg
-    image_title: Azure Pitaria
     image_description_markdown:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
