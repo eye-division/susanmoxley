@@ -108,6 +108,9 @@ images:
   - image_path: /uploads/waterwoman-ii.jpg
     image_title: Water Woman II
     image_description_markdown:
+  - image_path: /uploads/water-women.jpg
+    image_title: Water Women
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
