@@ -97,6 +97,9 @@ images:
   - image_path: /uploads/swell.jpg
     image_title: The Swell III
     image_description_markdown:
+  - image_path: /uploads/halcyon-day-3.jpg
+    image_title: Halcyon Day III
+    image_description_markdown:
   - image_path: /uploads/dsc01895.JPG
     image_title: Cycladese I
     image_description_markdown:
@@ -115,17 +118,17 @@ images:
   - image_path: /uploads/dsc01898.JPG
     image_title: The Avgo
     image_description_markdown:
-  - image_path: /uploads/soul-of-a-bird-ii.jpg
+  - image_path:
     image_title: The soul of a Bird I
-    image_description_markdown:
-  - image_path: /uploads/soul-of-a-bird-iii.jpg
-    image_title: The soul of a bird II
-    image_description_markdown:
-  - image_path: /uploads/soul-of-a-birdi.jpg
-    image_title: The soul of a bird III
     image_description_markdown:
   - image_path: /uploads/wave-i.jpg
     image_title: The Wave I
+    image_description_markdown:
+  - image_path:
+    image_title: The soul of a bird II
+    image_description_markdown:
+  - image_path:
+    image_title: The soul of a bird III
     image_description_markdown:
   - image_path: /uploads/wave-ii.jpg
     image_title: The Wave II
@@ -153,9 +156,6 @@ images:
     image_description_markdown:
   - image_path:
     image_title: Humid night I
-    image_description_markdown:
-  - image_path: /uploads/humid-night-ii.jpg
-    image_title: Humid night II
     image_description_markdown:
   - image_path: /uploads/humid-night-iii.jpg
     image_title: Humid Night III

@@ -84,6 +84,9 @@ images:
   - image_path: /uploads/cycladic-woman-2.jpg
     image_title: Cycladic woman II
     image_description_markdown:
+  - image_path: /uploads/cycladic-woman-v.jpg
+    image_title: Cycladic Woman III
+    image_description_markdown:
   - image_path: /assets/images/58a6e1c43f553.jpg
     image_title: Horae I
     image_description_markdown:
@@ -102,8 +105,35 @@ images:
   - image_path: /uploads/cycladin-women.jpg
     image_title: Women
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/water-woman-2.jpg
+    image_title: Water Woman I
+    image_description_markdown:
+  - image_path: /uploads/waterwoman-ii.jpg
+    image_title: Water Woman II
+    image_description_markdown:
+  - image_path: /uploads/water-women.jpg
+    image_title: Water Women
+    image_description_markdown:
+  - image_path: /uploads/3-women.jpg
+    image_title: Three Women
+    image_description_markdown:
+  - image_path: /uploads/nabatean-woman-swimmer.jpg
+    image_title: Nabatean Woman Sea
+    image_description_markdown:
+  - image_path: /uploads/nabatean-woman-1.jpg
+    image_title: Nabatean Woman I
+    image_description_markdown:
+  - image_path: /uploads/nabatean-woman-blue-i.jpg
+    image_title: Nabatean Woman Blue
+    image_description_markdown:
+  - image_path: /uploads/nabatean-woman-ii.jpg
+    image_title: Nabaten Woman II
+    image_description_markdown:
+  - image_path: /uploads/nabatean-woman-iii.jpg
+    image_title: Nabatean Woman III
+    image_description_markdown:
+  - image_path: /uploads/we-have-bowls-on-our-heads.jpg
+    image_title: We Have bowl on our heads
     image_description_markdown:
 _options:
   image_path:
