@@ -165,6 +165,9 @@ images:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
     image_description_markdown:
+  - image_path: /uploads/contained-history.jpg
+    image_title: Potted History
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
