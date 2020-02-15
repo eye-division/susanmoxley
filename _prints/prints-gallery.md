@@ -12,6 +12,9 @@ display_thumb_title: true
 thumb_crop: true
 main_image_path: /uploads/krathong-ii.jpg
 images:
+  - image_path: /uploads/contained-history.jpg
+    image_title: Potted History
+    image_description_markdown:
   - image_path: /uploads/blue-pitharia.jpg
     image_title: Blue Pitharia
     image_description_markdown:
@@ -26,9 +29,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
-    image_description_markdown:
-  - image_path: /uploads/thailand-ii.jpg
-    image_title: Monsoon
     image_description_markdown:
   - image_path: /uploads/to-the-left-the-balls.jpg
     image_title: 'To the left, the balls'
@@ -117,20 +117,11 @@ images:
   - image_path: /assets/images/54dcc699928d5.jpg
     image_title: Winter garden
     image_description_markdown:
-  - image_path: /assets/images/54dcbf4e08408.jpg
+  - image_path:
     image_title: Landscape Woman I
     image_description_markdown:
   - image_path: /assets/images/54f581087170f.jpg
     image_title: Where I am
-    image_description_markdown:
-  - image_path: /assets/images/54f57bc9bc308.jpg
-    image_title: Portrait I
-    image_description_markdown:
-  - image_path: /assets/images/54f580a835183.jpg
-    image_title: Portrait II
-    image_description_markdown:
-  - image_path: /assets/images/54f57b75047d8.jpg
-    image_title: The plait
     image_description_markdown:
   - image_path: /assets/images/58a6e023b1373.jpg
     image_title: Stack I
@@ -165,8 +156,8 @@ images:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
     image_description_markdown:
-  - image_path: /uploads/contained-history.jpg
-    image_title: Potted History
+  - image_path: /uploads/pithari-in-blue.jpg
+    image_title: Pithari in Blue
     image_description_markdown:
 _options:
   image_path:
