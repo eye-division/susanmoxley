@@ -157,7 +157,7 @@ images:
     image_title:
     image_description_markdown:
   - image_path: /uploads/pithari-in-red.jpg
-    image_title:
+    image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
