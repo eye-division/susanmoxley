@@ -121,8 +121,8 @@ images:
   - image_path: /uploads/image00003.JPG
     image_title: Twisted & Head shape
     image_description_markdown:
-  - image_path: /assets/images/4feb1189518d3.jpg
-    image_title: Pebble buttons
+  - image_path: /uploads/double-arms--flower-shape.jpg
+    image_title: Reflected leafshape & stylized rose shape
     image_description_markdown:
 _options:
   image_path:
