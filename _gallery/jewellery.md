@@ -127,6 +127,10 @@ images:
   - image_path: /uploads/petra-3.jpg
     image_title: Slate and coloured pebble necklaces and pendants
     image_description_markdown:
+  - image_path: >-
+      /uploads/2necklaces--silver-tubes-with-beach-quarts--randem-shape-beads-with-beach-quarts.jpg
+    image_title: silver necklaces with found quartz and black stones
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
