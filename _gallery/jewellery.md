@@ -124,6 +124,9 @@ images:
   - image_path: /uploads/double-arms--flower-shape.jpg
     image_title: Reflected leafshape & stylized rose shape
     image_description_markdown:
+  - image_path: /uploads/petra-3.jpg
+    image_title: Slate and coloured pebble necklaces and pendants
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
