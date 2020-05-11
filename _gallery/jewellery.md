@@ -22,8 +22,8 @@ images:
   - image_path: /assets/images/4feb01f9e9932.jpg
     image_title: Agia Pelagia Green stones necklace
     image_description_markdown:
-  - image_path: /assets/images/4feb03050a3db.jpg
-    image_title: Fossle stones with triangular silver
+  - image_path:
+    image_title:
     image_description_markdown:
   - image_path: /assets/images/4feb034433580.jpg
     image_title: Axe shaped silver with PVC beads
