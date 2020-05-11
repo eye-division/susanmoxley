@@ -143,6 +143,9 @@ images:
   - image_path: /uploads/silver-earings--fframed-flower--bea-shape.jpg
     image_title: Framed flower and Bee shape
     image_description_markdown:
+  - image_path: /uploads/silver-spoon-shape-spiral-studs.jpg
+    image_title: Oxidised spoon shape and spiral studs
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
