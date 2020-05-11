@@ -92,7 +92,7 @@ images:
   - image_path: /uploads/petra-3.jpg
     image_title: Slate and coloured pebble necklaces and pendants
     image_description_markdown:
-  - image_path: /uploads/image00015.JPG
+  - image_path: /uploads/slate-necklace-and-pendants1-3.jpg
     image_title: Slate necklace and pendants
     image_description_markdown:
   - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
