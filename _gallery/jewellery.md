@@ -85,6 +85,19 @@ images:
   - image_path: /uploads/stuff.jpg
     image_title:
     image_description_markdown:
+  - image_path: >-
+      /uploads/2necklaces--silver-tubes-with-beach-quarts--randem-shape-beads-with-beach-quarts.jpg
+    image_title: silver necklaces with found quartz and black stones
+    image_description_markdown:
+  - image_path: /uploads/petra-3.jpg
+    image_title: Slate and coloured pebble necklaces and pendants
+    image_description_markdown:
+  - image_path: /uploads/image00015.JPG
+    image_title: Slate necklace and pendants
+    image_description_markdown:
+  - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
+    image_title: Hammered silver chain and collection of silver rings
+    image_description_markdown:
   - image_path: /assets/images/4feb07dde2f56.jpg
     image_title: drop silver earings with putty coloured stone
     image_description_markdown:
@@ -121,21 +134,11 @@ images:
   - image_path: /uploads/image00003.JPG
     image_title: Twisted & Head shape
     image_description_markdown:
-  - image_path: /uploads/double-arms--flower-shape.jpg
-    image_title: Reflected leafshape & stylized rose shape
-    image_description_markdown:
-  - image_path: /uploads/petra-3.jpg
-    image_title: Slate and coloured pebble necklaces and pendants
-    image_description_markdown:
-  - image_path: >-
-      /uploads/2necklaces--silver-tubes-with-beach-quarts--randem-shape-beads-with-beach-quarts.jpg
-    image_title: silver necklaces with found quartz and black stones
-    image_description_markdown:
-  - image_path: /uploads/image00015.JPG
-    image_title: Slate necklace and pendants
-    image_description_markdown:
   - image_path: /uploads/silver-earings--triangular-slate-with-bar--organic-ciecle.jpg
     image_title: Triangular slate with silver bar and organic circle
+    image_description_markdown:
+  - image_path: /uploads/double-arms--flower-shape.jpg
+    image_title: Reflected leafshape & stylized rose shape
     image_description_markdown:
   - image_path: /uploads/silver-earings-open-book-shape--classic-shape.jpg
     image_title: Folded bar with black stone  and Classic shape
@@ -162,9 +165,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/studs-9c-gold-shield--spiral-shape.jpg
     image_title: 9 Carat gold shield stud and spiral stud
-    image_description_markdown:
-  - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
-    image_title: Hammered silver chain and collection of silver rings
     image_description_markdown:
 _options:
   image_path:
