@@ -137,6 +137,9 @@ images:
   - image_path: /uploads/silver-earings--triangular-slate-with-bar--organic-ciecle.jpg
     image_title: Triangular slate with silver bar and organic circle
     image_description_markdown:
+  - image_path: /uploads/silver-earings-open-book-shape--classic-shape.jpg
+    image_title: Folded bar with black stone  and Classic shape
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
