@@ -146,8 +146,8 @@ images:
   - image_path: /uploads/silver-spoon-shape-spiral-studs.jpg
     image_title: Oxidised spoon shape and spiral studs
     image_description_markdown:
-  - image_path: /uploads/silver-studs-square-shield--convex-shield.jpg
-    image_title: square shield stud and Round shield shape stud
+  - image_path: /uploads/9c-gold-folded-long-shield.jpg
+    image_title: 9 Carat gold folded shield shape
     image_description_markdown:
 _options:
   image_path:
