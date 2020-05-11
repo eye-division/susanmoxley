@@ -155,6 +155,11 @@ images:
   - image_path: /uploads/9c-gold-classic-bar-with-black-stone.jpg
     image_title: 9 Carat gold classic shape
     image_description_markdown:
+  - image_path: /uploads/9c-gold-open-book-shape-with-black-pebble--small-studs.jpg
+    image_title: >-
+      9Carat open book shape with black stone and small shield stud  with gold
+      centre
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
