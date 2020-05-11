@@ -131,6 +131,9 @@ images:
       /uploads/2necklaces--silver-tubes-with-beach-quarts--randem-shape-beads-with-beach-quarts.jpg
     image_title: silver necklaces with found quartz and black stones
     image_description_markdown:
+  - image_path: /uploads/image00015.JPG
+    image_title: Slate necklace and pendants
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
