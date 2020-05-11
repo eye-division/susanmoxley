@@ -140,6 +140,9 @@ images:
   - image_path: /uploads/silver-earings-open-book-shape--classic-shape.jpg
     image_title: Folded bar with black stone  and Classic shape
     image_description_markdown:
+  - image_path: /uploads/silver-earings--fframed-flower--bea-shape.jpg
+    image_title: Framed flower and Bee shape
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
