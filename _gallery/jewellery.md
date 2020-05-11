@@ -163,6 +163,9 @@ images:
   - image_path: /uploads/studs-9c-gold-shield--spiral-shape.jpg
     image_title: 9 Carat gold shield stud and spiral stud
     image_description_markdown:
+  - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
+    image_title: Hammered silver chain and collection of silver rings
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
