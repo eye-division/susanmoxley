@@ -146,6 +146,9 @@ images:
   - image_path: /uploads/silver-spoon-shape-spiral-studs.jpg
     image_title: Oxidised spoon shape and spiral studs
     image_description_markdown:
+  - image_path: /uploads/silver-studs-square-shield--convex-shield.jpg
+    image_title: square shield stud and Round shield shape stud
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
