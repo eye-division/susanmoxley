@@ -2,11 +2,11 @@
 title: Jewellery
 description_markdown: >-
   Since 2006 Susan Moxley has been making Sterling silver jewellery
-  incorporating beach pebbles, slate and pummice from Greece. Her designs are
-  determined by the naturally pummeled and sea polished pebbles which she
+  incorporating beach pebbles, slate and pumice from Greece. Her designs are
+  determined by the naturally smoothed and sea polished pebbles which she
   carefully selects and matches. The silver is beaten and fold- formed to create
-  unique pieces of jewelley that speak with the same voice as her two
-  dimentional work.
+  unique pieces of jewellery that speak with the same voice as her two
+  dimensional work.
 homepage_description_markdown:
 frontpage: true
 page_order_number: 4
@@ -95,11 +95,14 @@ images:
   - image_path: /uploads/slate-necklace-and-pendants1-3.jpg
     image_title: Slate necklace and pendants
     image_description_markdown:
+  - image_path: /assets/images/4feb07dde2f56.jpg
+    image_title: drop silver earings with putty coloured stone
+    image_description_markdown:
   - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
     image_title: Hammered silver chain and collection of silver rings
     image_description_markdown:
-  - image_path: /assets/images/4feb07dde2f56.jpg
-    image_title: drop silver earings with putty coloured stone
+  - image_path: /uploads/silver-pendants-1-5.jpg
+    image_title: Silver pendents
     image_description_markdown:
   - image_path: /assets/images/4feb0815bcd16.jpg
     image_title: drop silver earings with black stones
@@ -165,9 +168,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/studs-9c-gold-shield--spiral-shape.jpg
     image_title: 9 Carat gold shield stud and spiral stud
-    image_description_markdown:
-  - image_path: /uploads/silver-pendants-1-5.jpg
-    image_title: Silver pendents
     image_description_markdown:
 _options:
   image_path:
