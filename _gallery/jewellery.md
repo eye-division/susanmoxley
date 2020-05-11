@@ -134,6 +134,9 @@ images:
   - image_path: /uploads/image00015.JPG
     image_title: Slate necklace and pendants
     image_description_markdown:
+  - image_path: /uploads/silver-earings--triangular-slate-with-bar--organic-ciecle.jpg
+    image_title: Triangular slate with silver bar and organic circle
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
