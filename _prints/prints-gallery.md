@@ -177,6 +177,9 @@ images:
   - image_path: /uploads/shelters.jpg
     image_title: Shelter II
     image_description_markdown:
+  - image_path: /uploads/sheltered-pot.jpg
+    image_title: Sheltered Pot
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
