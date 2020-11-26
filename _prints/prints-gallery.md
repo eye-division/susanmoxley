@@ -195,6 +195,9 @@ images:
   - image_path: /uploads/grid.jpg
     image_title: Grid I
     image_description_markdown:
+  - image_path: /uploads/messa-exo.jpg
+    image_title: Insideout
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
