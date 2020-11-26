@@ -24,7 +24,7 @@ images:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
     image_description_markdown:
-  - image_path: /uploads/pitharia.jpg
+  - image_path:
     image_title: Pink Pitharia
     image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
@@ -42,10 +42,10 @@ images:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
     image_description_markdown:
-  - image_path: /uploads/monsoon-2.jpg
+  - image_path:
     image_title: After the Monsoon
     image_description_markdown:
-  - image_path: /assets/images/54f579e5afcd0.jpg
+  - image_path:
     image_title: Eikon I
     image_description_markdown:
   - image_path: /assets/images/54f57a9c8c64e.jpg
@@ -54,7 +54,7 @@ images:
   - image_path: /assets/images/54f57af19ebbc.jpg
     image_title: Split
     image_description_markdown:
-  - image_path: /assets/images/54dcb82bf238a.jpg
+  - image_path:
     image_title: Piano
     image_description_markdown:
   - image_path: /assets/images/54fdc99720087.jpg
@@ -72,31 +72,31 @@ images:
   - image_path: /assets/images/56dc14740f186.jpg
     image_title: Rhythm III
     image_description_markdown:
-  - image_path: /assets/images/54dccb3e23de1.jpg
+  - image_path:
     image_title: Replenish
     image_description_markdown:
   - image_path: /assets/images/54dcb86852be6.jpg
     image_title: Rhythm in Blue
     image_description_markdown:
-  - image_path: /assets/images/54dcbae6a50d8.jpg
+  - image_path:
     image_title: Rhythm in Red
     image_description_markdown:
-  - image_path: /assets/images/54dcbb9c8096b.jpg
+  - image_path:
     image_title: Mycaenian Harbour
     image_description_markdown:
-  - image_path: /assets/images/54dcbdec2d9e2.jpg
+  - image_path:
     image_title: Mycaenian harbour II
     image_description_markdown:
-  - image_path: /assets/images/54dcbd1b6530d.jpg
+  - image_path:
     image_title: Minoan Harbour
     image_description_markdown:
-  - image_path: /assets/images/54dcc6c4026d4.jpg
+  - image_path:
     image_title: Africa
     image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
     image_description_markdown:
-  - image_path: /assets/images/54dcbea823571.jpg
+  - image_path:
     image_title: Jazz II
     image_description_markdown:
   - image_path: /assets/images/54dcbef7474aa.jpg
@@ -114,10 +114,10 @@ images:
   - image_path: /assets/images/54dcbfd5b7b4a.jpg
     image_title: Landscape woman II
     image_description_markdown:
-  - image_path: /assets/images/54dcc6f7eec92.jpg
+  - image_path:
     image_title: The Journey
     image_description_markdown:
-  - image_path: /assets/images/54dcc699928d5.jpg
+  - image_path:
     image_title: Winter garden
     image_description_markdown:
   - image_path:
@@ -126,16 +126,16 @@ images:
   - image_path: /assets/images/54f581087170f.jpg
     image_title: Where I am
     image_description_markdown:
-  - image_path: /assets/images/58a6e023b1373.jpg
+  - image_path:
     image_title: Stack I
     image_description_markdown:
-  - image_path: /assets/images/58a6e046ef950.jpg
+  - image_path:
     image_title: Stack II
     image_description_markdown:
-  - image_path: /assets/images/58a6e06bb9c2b.jpg
+  - image_path:
     image_title: Stack III
     image_description_markdown:
-  - image_path: /assets/images/58a6e08ebd776.jpg
+  - image_path:
     image_title: Stack IV
     image_description_markdown:
   - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
@@ -144,7 +144,7 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/ancient-landscape.jpg
+  - image_path:
     image_title: Ancient Landscape
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
@@ -191,6 +191,9 @@ images:
     image_description_markdown:
   - image_path: /uploads/confined-vi.jpg
     image_title: Confined VI
+    image_description_markdown:
+  - image_path: /uploads/grid.jpg
+    image_title: Grid I
     image_description_markdown:
 _options:
   image_path:
