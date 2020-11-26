@@ -186,6 +186,9 @@ images:
   - image_path: /uploads/confined-ii.jpg
     image_title: Confined II
     image_description_markdown:
+  - image_path: /uploads/confined-iv.jpg
+    image_title:
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
