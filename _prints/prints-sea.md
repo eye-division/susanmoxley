@@ -88,8 +88,8 @@ images:
   - image_path: /assets/images/56dc23d21e885.jpg
     image_title: Before the storm
     image_description_markdown:
-  - image_path: /uploads/dsc01888.JPG
-    image_title: The Swell 1
+  - image_path: /uploads/turbulent-sea-i.jpg
+    image_title: Turbulent Sea
     image_description_markdown:
   - image_path: /uploads/dsc01889.JPG
     image_title: The Swell II
