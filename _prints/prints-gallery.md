@@ -183,6 +183,9 @@ images:
   - image_path: /uploads/solo-palm.jpg
     image_title: Solo Palm
     image_description_markdown:
+  - image_path: /uploads/confined-ii.jpg
+    image_title: Confined II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
