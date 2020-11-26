@@ -162,6 +162,9 @@ images:
   - image_path: /uploads/disquiet-balance.jpg
     image_title: Disquiet Balance
     image_description_markdown:
+  - image_path: /uploads/from-within.jpg
+    image_title: From within
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
