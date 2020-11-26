@@ -159,6 +159,9 @@ images:
   - image_path: /uploads/pithari-in-blue.jpg
     image_title: Pithari in Blue
     image_description_markdown:
+  - image_path: /uploads/disquiet-balance.jpg
+    image_title: Disquiet Balance
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
