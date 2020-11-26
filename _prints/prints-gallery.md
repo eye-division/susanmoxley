@@ -168,6 +168,9 @@ images:
   - image_path: /uploads/closed-in.jpg
     image_title: Closed In I
     image_description_markdown:
+  - image_path: /uploads/confined-virus.jpg
+    image_title: Contained Virus II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
