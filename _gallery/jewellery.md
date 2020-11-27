@@ -58,8 +58,8 @@ images:
   - image_path:
     image_title: Silver hand made beads with Black pebbles
     image_description_markdown:
-  - image_path: /uploads/bundle-necklace.jpg
-    image_title: silver cross tubes with black stones
+  - image_path: /uploads/pendant-1.jpg
+    image_title: Oval Silver Pendant with Black pebble
     image_description_markdown:
   - image_path: /uploads/13-grey-slate.jpg
     image_title: Slate earrings and silver and oxodized cross pendant
