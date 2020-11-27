@@ -37,8 +37,8 @@ images:
   - image_path: /uploads/necklace-3.jpg
     image_title: Silver necklace with Light and Dark Pebbles
     image_description_markdown:
-  - image_path: /assets/images/4feb04e8d8a94.jpg
-    image_title: slate with silver dove brooch
+  - image_path: /uploads/pendant-3.jpg
+    image_title: Classical  half circle Pendant
     image_description_markdown:
   - image_path: /uploads/9-red-disc.jpg
     image_title: Silver pendant and folded silver drop earrings
