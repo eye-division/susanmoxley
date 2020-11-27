@@ -85,15 +85,14 @@ images:
   - image_path: /uploads/pendant-4.jpg
     image_title: Dove shaped pendant
     image_description_markdown:
-  - image_path: >-
-      /uploads/2necklaces--silver-tubes-with-beach-quarts--randem-shape-beads-with-beach-quarts.jpg
-    image_title: silver necklaces with found quartz and black stones
-    image_description_markdown:
-  - image_path: /uploads/petra-3.jpg
-    image_title: Slate and coloured pebble necklaces and pendants
+  - image_path: /uploads/earings-10.jpg
+    image_title: Silver foldwd stud earrings
     image_description_markdown:
   - image_path: /uploads/slate-necklace-and-pendants1-3.jpg
     image_title: Slate necklace and pendants
+    image_description_markdown:
+  - image_path: /uploads/petra-3.jpg
+    image_title: Slate and coloured pebble necklaces and pendants
     image_description_markdown:
   - image_path: /assets/images/4feb07dde2f56.jpg
     image_title: drop silver earings with putty coloured stone
