@@ -70,8 +70,8 @@ images:
   - image_path: /uploads/earings-1.jpg
     image_title: Silver Bird shaped earings
     image_description_markdown:
-  - image_path: /uploads/pendants-2.jpg
-    image_title:
+  - image_path: /uploads/earings-4.jpg
+    image_title: Silver Line earrings
     image_description_markdown:
   - image_path: /uploads/pendants.jpg
     image_title:
