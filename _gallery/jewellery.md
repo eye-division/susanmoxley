@@ -76,8 +76,8 @@ images:
   - image_path: /uploads/earings-5.jpg
     image_title: Silver Line earings II
     image_description_markdown:
-  - image_path: /uploads/necklace.jpg
-    image_title:
+  - image_path: /uploads/5.jpg
+    image_title: Silver folded oval earrings dark and light pebble necklace
     image_description_markdown:
   - image_path: /uploads/earings-and-braceletsjpg.jpg
     image_title: Earings and bracelets
