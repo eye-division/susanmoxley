@@ -54,14 +54,14 @@ images:
   - image_path: /uploads/from-within.jpg
     image_title: From within
     image_description_markdown:
+  - image_path: /uploads/inside-out.jpg
+    image_title: Inside Out
+    image_description_markdown:
   - image_path: /uploads/above-below.jpg
     image_title: 'Above, bellow'
     image_description_markdown:
   - image_path: /uploads/disquiet-balance.jpg
     image_title: Disquiet Balance
-    image_description_markdown:
-  - image_path: /uploads/closed-in-ii-jpg-1.jpg
-    image_title: Closed in
     image_description_markdown:
   - image_path: /uploads/uncontained-virus.jpg
     image_title: Uncontrolled
@@ -75,8 +75,17 @@ images:
   - image_path: /uploads/confined-virus.jpg
     image_title: Contained Virus II
     image_description_markdown:
+  - image_path: /uploads/closed-in-ii-jpg-1.jpg
+    image_title: Closed in
+    image_description_markdown:
+  - image_path: /uploads/closed-in-1.jpg
+    image_title: Closed in II
+    image_description_markdown:
   - image_path: /uploads/closed-in-iii.jpg
     image_title: Closed in (pink)
+    image_description_markdown:
+  - image_path: /uploads/confined-iv.jpg
+    image_title:
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
@@ -114,11 +123,11 @@ images:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
     image_description_markdown:
-  - image_path: /uploads/closed-in-1.jpg
-    image_title: Closed in II
-    image_description_markdown:
   - image_path: /assets/images/54dcbef7474aa.jpg
     image_title: Red and Black
+    image_description_markdown:
+  - image_path: /uploads/closed-in.jpg
+    image_title: Closed In I
     image_description_markdown:
   - image_path: /assets/images/56dc1494d719f.jpg
     image_title: Into Light I
@@ -129,14 +138,14 @@ images:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
     image_description_markdown:
-  - image_path:
-    image_title: The Journey
-    image_description_markdown:
-  - image_path: /assets/images/54dcbfd5b7b4a.jpg
-    image_title: Landscape woman II
+  - image_path: /uploads/closed-out.jpg
+    image_title: Closed out
     image_description_markdown:
   - image_path:
     image_title: Winter garden
+    image_description_markdown:
+  - image_path: /assets/images/54dcbfd5b7b4a.jpg
+    image_title: Landscape woman II
     image_description_markdown:
   - image_path:
     image_title: Landscape Woman I
@@ -162,8 +171,11 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/pitharia-at-sea.jpg
-    image_title:
+  - image_path: /uploads/confined-ii.jpg
+    image_title: Confined II
+    image_description_markdown:
+  - image_path: /uploads/shelter.jpg
+    image_title: Shelter I
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
@@ -171,14 +183,8 @@ images:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
     image_description_markdown:
-  - image_path: /uploads/closed-in.jpg
-    image_title: Closed In I
-    image_description_markdown:
-  - image_path: /uploads/inside-out.jpg
-    image_title: Inside Out
-    image_description_markdown:
-  - image_path: /uploads/shelter.jpg
-    image_title: Shelter I
+  - image_path: /uploads/pitharia-at-sea.jpg
+    image_title:
     image_description_markdown:
   - image_path: /uploads/shelters.jpg
     image_title: Shelter II
@@ -188,12 +194,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/solo-palm.jpg
     image_title: Solo Palm
-    image_description_markdown:
-  - image_path: /uploads/confined-ii.jpg
-    image_title: Confined II
-    image_description_markdown:
-  - image_path: /uploads/confined-iv.jpg
-    image_title:
     image_description_markdown:
   - image_path: /uploads/grid.jpg
     image_title: Grid I
