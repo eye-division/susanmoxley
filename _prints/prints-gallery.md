@@ -96,6 +96,21 @@ images:
   - image_path: /uploads/confined-iii.jpg
     image_title: Confined III
     image_description_markdown:
+  - image_path: /uploads/confoned-iii.jpg
+    image_title: Confined III
+    image_description_markdown:
+  - image_path: /uploads/shelter-ii.jpg
+    image_title: Replenish
+    image_description_markdown:
+  - image_path: /uploads/shelter.jpg
+    image_title: Shelter I
+    image_description_markdown:
+  - image_path: /uploads/shelters.jpg
+    image_title: Shelter II
+    image_description_markdown:
+  - image_path: /uploads/sheltered-pot.jpg
+    image_title: Sheltered Pot
+    image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
     image_description_markdown:
@@ -126,17 +141,11 @@ images:
   - image_path: /assets/images/56dc14740f186.jpg
     image_title: Rhythm III
     image_description_markdown:
-  - image_path: /uploads/shelter-ii.jpg
-    image_title: Replenish
-    image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
     image_description_markdown:
   - image_path: /assets/images/54dcbef7474aa.jpg
     image_title: Red and Black
-    image_description_markdown:
-  - image_path: /uploads/confoned-iii.jpg
-    image_title: Confined III
     image_description_markdown:
   - image_path: /assets/images/56dc1494d719f.jpg
     image_title: Into Light I
@@ -150,11 +159,11 @@ images:
   - image_path:
     image_title: Winter garden
     image_description_markdown:
-  - image_path: /assets/images/54dcbfd5b7b4a.jpg
-    image_title: Landscape woman II
-    image_description_markdown:
   - image_path:
     image_title: Landscape Woman I
+    image_description_markdown:
+  - image_path: /assets/images/54dcbfd5b7b4a.jpg
+    image_title: Landscape woman II
     image_description_markdown:
   - image_path: /assets/images/54f581087170f.jpg
     image_title: Where I am
@@ -177,9 +186,6 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/shelter.jpg
-    image_title: Shelter I
-    image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
     image_description_markdown:
@@ -188,12 +194,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
-    image_description_markdown:
-  - image_path: /uploads/shelters.jpg
-    image_title: Shelter II
-    image_description_markdown:
-  - image_path: /uploads/sheltered-pot.jpg
-    image_title: Sheltered Pot
     image_description_markdown:
   - image_path: /uploads/solo-palm.jpg
     image_title: Solo Palm
