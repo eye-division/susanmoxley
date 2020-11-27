@@ -22,11 +22,11 @@ images:
   - image_path: /assets/images/4feb01f9e9932.jpg
     image_title: Agia Pelagia Green stones necklace
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/necklace-2-1.jpg
+    image_title: Beach Quartz and Silver
     image_description_markdown:
-  - image_path: /assets/images/4feb034433580.jpg
-    image_title: Axe shaped silver with PVC beads
+  - image_path: /uploads/10.jpg
+    image_title: Two tone pebbles with Silver
     image_description_markdown:
   - image_path: /assets/images/4feb027d92525.jpg
     image_title: Agia Pelagia green stone and silver 2
@@ -34,17 +34,17 @@ images:
   - image_path: /assets/images/4feb0417af281.jpg
     image_title: Black PVC stent with fold formed silver
     image_description_markdown:
-  - image_path: /assets/images/4feb0457822bc.jpg
-    image_title: Black PVC stent with fold formed silver bracelet
+  - image_path: /uploads/necklace-3.jpg
+    image_title: Silver necklace with Light and Dark Pebbles
     image_description_markdown:
-  - image_path: /assets/images/4feb04e8d8a94.jpg
-    image_title: slate with silver dove brooch
+  - image_path: /uploads/pendant-3.jpg
+    image_title: Classical  half circle Pendant
     image_description_markdown:
-  - image_path: /assets/images/4feb052f2f249.jpg
-    image_title: slate pendant on cotton cord
+  - image_path: /uploads/9-red-disc.jpg
+    image_title: Silver pendant and folded silver drop earrings
     image_description_markdown:
-  - image_path: /assets/images/4feb0670a38ba.jpg
-    image_title: slate bundle necklace
+  - image_path: /uploads/8.jpg
+    image_title: Triple bracelet with pebbles
     image_description_markdown:
   - image_path: /uploads/leaf-necklace.jpg
     image_title: Leaf shaped necklce
@@ -52,57 +52,56 @@ images:
   - image_path: /assets/images/4feb06a04ecd0.jpg
     image_title: Slate collar
     image_description_markdown:
-  - image_path: /uploads/black-bundle-necklace.jpg
-    image_title: Bundles of black stones
+  - image_path: /uploads/6.jpg
+    image_title: Leaf shaped silver with Quartz pebbles
     image_description_markdown:
-  - image_path: /uploads/opeline-glass-necklace.jpg
-    image_title: Opeline beads with silver
+  - image_path:
+    image_title: Silver hand made beads with Black pebbles
     image_description_markdown:
-  - image_path: /uploads/bundle-necklace.jpg
-    image_title: silver cross tubes with black stones
+  - image_path: /uploads/pendant-1.jpg
+    image_title: Oval Silver Pendant with Black pebble
     image_description_markdown:
-  - image_path: /uploads/necklace-2.jpg
-    image_title: Silver tubes with black stones
+  - image_path: /uploads/13-grey-slate.jpg
+    image_title: Slate earrings and silver and oxodized cross pendant
     image_description_markdown:
   - image_path: /assets/images/4feb06f06c671.jpg
     image_title: Classical slate pendant
     image_description_markdown:
-  - image_path: /assets/images/4feb071fa8e46.jpg
-    image_title: Silver cross on stone
+  - image_path: /uploads/earings-4.jpg
+    image_title: Silver Line earrings
     image_description_markdown:
-  - image_path: /uploads/pendants-2.jpg
-    image_title:
+  - image_path: /uploads/earings-1.jpg
+    image_title: Silver Bird shaped earings
     image_description_markdown:
-  - image_path: /uploads/pendants.jpg
-    image_title:
+  - image_path: /uploads/earings-5.jpg
+    image_title: Silver Line earings II
     image_description_markdown:
-  - image_path: /uploads/necklace.jpg
-    image_title:
+  - image_path: /uploads/5.jpg
+    image_title: Silver folded oval earrings dark and light pebble necklace
     image_description_markdown:
-  - image_path: /uploads/earings-and-braceletsjpg.jpg
-    image_title: Earings and bracelets
+  - image_path: /uploads/12.jpg
+    image_title: Dove shaped earrings
     image_description_markdown:
-  - image_path: /uploads/stuff.jpg
-    image_title:
+  - image_path: /uploads/pendant-4.jpg
+    image_title: Dove shaped pendant
     image_description_markdown:
-  - image_path: >-
-      /uploads/2necklaces--silver-tubes-with-beach-quarts--randem-shape-beads-with-beach-quarts.jpg
-    image_title: silver necklaces with found quartz and black stones
-    image_description_markdown:
-  - image_path: /uploads/petra-3.jpg
-    image_title: Slate and coloured pebble necklaces and pendants
+  - image_path: /uploads/earings-10.jpg
+    image_title: Silver foldwd stud earrings
     image_description_markdown:
   - image_path: /uploads/slate-necklace-and-pendants1-3.jpg
     image_title: Slate necklace and pendants
     image_description_markdown:
-  - image_path: /assets/images/4feb07dde2f56.jpg
-    image_title: drop silver earings with putty coloured stone
+  - image_path: /uploads/earings-12.jpg
+    image_title: Siler triangular foldeded stud earrings
+    image_description_markdown:
+  - image_path: /uploads/earings-7.jpg
+    image_title: Silver drop earrings with black pebbles
     image_description_markdown:
   - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
     image_title: Hammered silver chain and collection of silver rings
     image_description_markdown:
-  - image_path: /uploads/silver-pendants-1-5.jpg
-    image_title: Silver pendents
+  - image_path: /assets/images/4feb07dde2f56.jpg
+    image_title: drop silver earings with putty coloured stone
     image_description_markdown:
   - image_path: /assets/images/4feb0815bcd16.jpg
     image_title: drop silver earings with black stones
@@ -110,14 +109,14 @@ images:
   - image_path: /assets/images/4feb084044c03.jpg
     image_title: Classic earings
     image_description_markdown:
-  - image_path: /assets/images/4feb092e98bc4.jpg
-    image_title: Hoop earing with putty coloured stone
+  - image_path: /uploads/red-with-swirl.jpg
+    image_title: silver triangulad earrings and swirl pendant with black stones
     image_description_markdown:
   - image_path: /assets/images/4feb09531e4a8.jpg
     image_title: Halo earing with black stone
     image_description_markdown:
   - image_path: /assets/images/4feb09cb7a5ea.jpg
-    image_title: Shiels shaped earing with striped stone
+    image_title: Shield shaped earing with striped stone
     image_description_markdown:
   - image_path: /assets/images/4feb09fc8d0d2.jpg
     image_title: spoon shaped earing with black stone
@@ -125,8 +124,8 @@ images:
   - image_path: /assets/images/4feb0cd46452d.jpg
     image_title: Slate earings
     image_description_markdown:
-  - image_path: /assets/images/4feb0d30b1e0a.jpg
-    image_title: slate bundles earings
+  - image_path: /uploads/7.jpg
+    image_title: Silver drawn earrings and pendant
     image_description_markdown:
   - image_path: /assets/images/4feb0d66dcd34.jpg
     image_title: Beaten silver studs
