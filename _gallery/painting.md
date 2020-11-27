@@ -56,9 +56,6 @@ images:
   - image_path: /assets/images/49f9d76c4d222.jpg
     image_title: The black sea 3
     image_description_markdown: '50 x50   **Date** : 2009   **Medium** : oil on canvas'
-  - image_path: /assets/images/54dcd270da1b8.jpg
-    image_title: Customs house I
-    image_description_markdown:
   - image_path: /assets/images/463afc87b098e.jpg
     image_title: Diakofti
     image_description_markdown: '30 x 30cm   **Date** : 2007   **Medium** : Mixed media'
