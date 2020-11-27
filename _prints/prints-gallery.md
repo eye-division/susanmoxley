@@ -21,11 +21,14 @@ images:
   - image_path: /assets/images/56dc14d8d34a9.jpg
     image_title: Pitharia
     image_description_markdown:
+  - image_path: /uploads/aegean-pytharia.jpg
+    image_title: Minoan Harbour
+    image_description_markdown:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/closed-in-ii-jpg-1.jpg
-    image_title: Pink Pitharia
+    image_title: Closed in
     image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
@@ -86,9 +89,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/uncontained-virus-v.jpg
     image_title: Contained Virus
-    image_description_markdown:
-  - image_path: /uploads/aegean-pytharia.jpg
-    image_title: Minoan Harbour
     image_description_markdown:
   - image_path: /uploads/doves.jpg
     image_title: whicg way is it going
