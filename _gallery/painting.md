@@ -158,6 +158,9 @@ images:
   - image_path: /uploads/encaustic-iv.jpg
     image_title: Encaustic Sky IV
     image_description_markdown:
+  - image_path: /uploads/encaustic-vi.jpg
+    image_title: Encaustic Sky VI
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
