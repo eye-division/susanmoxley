@@ -149,6 +149,9 @@ images:
   - image_path: /uploads/encaustic-i.jpg
     image_title: Encaustic Sky I
     image_description_markdown:
+  - image_path: /uploads/encaustic-ii.jpg
+    image_title: Encaustic Sky II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
