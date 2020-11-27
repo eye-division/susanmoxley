@@ -116,7 +116,7 @@ images:
     image_title: Halo earing with black stone
     image_description_markdown:
   - image_path: /assets/images/4feb09cb7a5ea.jpg
-    image_title: Shiels shaped earing with striped stone
+    image_title: Shield shaped earing with striped stone
     image_description_markdown:
   - image_path: /assets/images/4feb09fc8d0d2.jpg
     image_title: spoon shaped earing with black stone
