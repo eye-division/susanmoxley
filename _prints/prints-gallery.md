@@ -144,8 +144,8 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path:
-    image_title: Ancient Landscape
+  - image_path: /uploads/closed-in-iii.jpg
+    image_title: Closed in (pink)
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
