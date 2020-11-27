@@ -82,8 +82,8 @@ images:
   - image_path: /uploads/12.jpg
     image_title: Dove shaped earrings
     image_description_markdown:
-  - image_path: /uploads/stuff.jpg
-    image_title:
+  - image_path: /uploads/pendant-4.jpg
+    image_title: Dove shaped pendant
     image_description_markdown:
   - image_path: >-
       /uploads/2necklaces--silver-tubes-with-beach-quarts--randem-shape-beads-with-beach-quarts.jpg
