@@ -81,14 +81,14 @@ images:
   - image_path: /uploads/closed-out.jpg
     image_title: Closed out
     image_description_markdown:
+  - image_path: /uploads/closed-in-iii.jpg
+    image_title: Closed in (pink)
+    image_description_markdown:
   - image_path: /uploads/confined-vi.jpg
     image_title: Confined VI
     image_description_markdown:
   - image_path: /uploads/confined-iv.jpg
     image_title:
-    image_description_markdown:
-  - image_path: /uploads/closed-in-iii.jpg
-    image_title: Closed in (pink)
     image_description_markdown:
   - image_path: /uploads/confined-ii.jpg
     image_title: Confined II
@@ -144,6 +144,9 @@ images:
   - image_path: /assets/images/54f57a9c8c64e.jpg
     image_title: Eikon II
     image_description_markdown:
+  - image_path: /assets/images/54dcbe8c2bb01.jpg
+    image_title: Jazz
+    image_description_markdown:
   - image_path: /assets/images/56dc13f72170f.jpg
     image_title: Rhythm I
     image_description_markdown:
@@ -152,9 +155,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/56dc14740f186.jpg
     image_title: Rhythm III
-    image_description_markdown:
-  - image_path: /assets/images/54dcbe8c2bb01.jpg
-    image_title: Jazz
     image_description_markdown:
   - image_path: /assets/images/56dc1494d719f.jpg
     image_title: Into Light I
@@ -170,9 +170,6 @@ images:
     image_description_markdown:
   - image_path:
     image_title: Landscape Woman I
-    image_description_markdown:
-  - image_path: /assets/images/54f581087170f.jpg
-    image_title: Where I am
     image_description_markdown:
   - image_path:
     image_title: Stack I
