@@ -52,6 +52,9 @@ images:
   - image_path: /assets/images/4feb06a04ecd0.jpg
     image_title: Slate collar
     image_description_markdown:
+  - image_path: /uploads/6.jpg
+    image_title: Leaf shaped silver with Quartz pebbles
+    image_description_markdown:
   - image_path:
     image_title: Silver hand made beads with Black pebbles
     image_description_markdown:
@@ -60,9 +63,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/13-grey-slate.jpg
     image_title: Slate earrings and silver and oxodized cross pendant
-    image_description_markdown:
-  - image_path: /uploads/6.jpg
-    image_title: Leaf shaped silver with Quartz pebbles
     image_description_markdown:
   - image_path: /assets/images/4feb06f06c671.jpg
     image_title: Classical slate pendant
