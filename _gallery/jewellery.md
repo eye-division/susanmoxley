@@ -124,8 +124,8 @@ images:
   - image_path: /assets/images/4feb0cd46452d.jpg
     image_title: Slate earings
     image_description_markdown:
-  - image_path: /assets/images/4feb0d30b1e0a.jpg
-    image_title: slate bundles earings
+  - image_path: /uploads/7.jpg
+    image_title: Silver drawn earrings and pendant
     image_description_markdown:
   - image_path: /assets/images/4feb0d66dcd34.jpg
     image_title: Beaten silver studs
