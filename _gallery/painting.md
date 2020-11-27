@@ -146,6 +146,9 @@ images:
   - image_path: /uploads/encaustic-iii-2.jpg
     image_title: Closing in III
     image_description_markdown:
+  - image_path: /uploads/encaustic-i.jpg
+    image_title: Encaustic Sky I
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
