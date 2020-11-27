@@ -120,6 +120,15 @@ images:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
     image_description_markdown:
+  - image_path: /uploads/solo-palm.jpg
+    image_title: Solo Palm
+    image_description_markdown:
+  - image_path: /uploads/grid.jpg
+    image_title: Grid I
+    image_description_markdown:
+  - image_path: /uploads/messa-exo.jpg
+    image_title: Insideout
+    image_description_markdown:
   - image_path: /uploads/to-the-left-the-balls.jpg
     image_title: 'To the left, the balls'
     image_description_markdown:
@@ -200,15 +209,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
-    image_description_markdown:
-  - image_path: /uploads/solo-palm.jpg
-    image_title: Solo Palm
-    image_description_markdown:
-  - image_path: /uploads/grid.jpg
-    image_title: Grid I
-    image_description_markdown:
-  - image_path: /uploads/messa-exo.jpg
-    image_title: Insideout
     image_description_markdown:
 _options:
   image_path:
