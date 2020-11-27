@@ -201,6 +201,9 @@ images:
   - image_path: /uploads/confined-iii.jpg
     image_title: Confined III
     image_description_markdown:
+  - image_path: /uploads/inside-out.jpg
+    image_title: Inside Out
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
