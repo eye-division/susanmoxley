@@ -40,8 +40,8 @@ images:
   - image_path: /assets/images/4feb04e8d8a94.jpg
     image_title: slate with silver dove brooch
     image_description_markdown:
-  - image_path: /assets/images/4feb052f2f249.jpg
-    image_title: slate pendant on cotton cord
+  - image_path: /uploads/9-red-disc.jpg
+    image_title: Silver pendant and folded silver drop earrings
     image_description_markdown:
   - image_path: /assets/images/4feb0670a38ba.jpg
     image_title: slate bundle necklace
