@@ -90,8 +90,8 @@ images:
   - image_path: /uploads/aegean-pytharia.jpg
     image_title: Minoan Harbour
     image_description_markdown:
-  - image_path:
-    image_title: Africa
+  - image_path: /uploads/doves.jpg
+    image_title: whicg way is it going
     image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
