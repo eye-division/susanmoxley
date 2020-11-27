@@ -49,14 +49,14 @@ images:
   - image_path: /uploads/leaf-necklace.jpg
     image_title: Leaf shaped necklce
     image_description_markdown:
-  - image_path: /assets/images/4feb06a04ecd0.jpg
-    image_title: Slate collar
-    image_description_markdown:
   - image_path: /uploads/13-grey-slate.jpg
     image_title: Slate earrings and silver and oxodized cross pendant
     image_description_markdown:
-  - image_path: /uploads/opeline-glass-necklace.jpg
-    image_title: Opeline beads with silver
+  - image_path: /assets/images/4feb06a04ecd0.jpg
+    image_title: Slate collar
+    image_description_markdown:
+  - image_path: /uploads/necklace-1.jpg
+    image_title: Silver hand made beads with Black pebbles
     image_description_markdown:
   - image_path: /uploads/bundle-necklace.jpg
     image_title: silver cross tubes with black stones
