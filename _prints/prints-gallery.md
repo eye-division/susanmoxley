@@ -204,6 +204,9 @@ images:
   - image_path: /uploads/inside-out.jpg
     image_title: Inside Out
     image_description_markdown:
+  - image_path: /uploads/ppe.jpg
+    image_title: PPE
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
