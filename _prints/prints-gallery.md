@@ -24,7 +24,7 @@ images:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
     image_description_markdown:
-  - image_path:
+  - image_path: /uploads/closed-in-ii-jpg-1.jpg
     image_title: Pink Pitharia
     image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
