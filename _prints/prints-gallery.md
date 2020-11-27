@@ -24,12 +24,6 @@ images:
   - image_path: /uploads/aegean-pytharia.jpg
     image_title: Minoan Harbour
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-vi.jpg
-    image_title: Contained Virus
-    image_description_markdown:
-  - image_path: /uploads/uncontained-virus-v.jpg
-    image_title: Contained Virus
-    image_description_markdown:
   - image_path: /uploads/azure-pitharia.jpg
     image_title: Azure Pitaria
     image_description_markdown:
@@ -44,6 +38,12 @@ images:
     image_description_markdown:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-vi.jpg
+    image_title: Contained Virus
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-v.jpg
+    image_title: Contained Virus
     image_description_markdown:
   - image_path: /uploads/solitary.jpg
     image_title: Solo
