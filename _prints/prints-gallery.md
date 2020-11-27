@@ -84,8 +84,17 @@ images:
   - image_path: /uploads/closed-in-iii.jpg
     image_title: Closed in (pink)
     image_description_markdown:
+  - image_path: /uploads/closed-out.jpg
+    image_title: Closed out
+    image_description_markdown:
   - image_path: /uploads/confined-iv.jpg
     image_title:
+    image_description_markdown:
+  - image_path: /uploads/confined-ii.jpg
+    image_title: Confined II
+    image_description_markdown:
+  - image_path: /uploads/confined-iii.jpg
+    image_title: Confined III
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
@@ -126,8 +135,8 @@ images:
   - image_path: /assets/images/54dcbef7474aa.jpg
     image_title: Red and Black
     image_description_markdown:
-  - image_path: /uploads/closed-in.jpg
-    image_title: Closed In I
+  - image_path: /uploads/confoned-iii.jpg
+    image_title: Confined III
     image_description_markdown:
   - image_path: /assets/images/56dc1494d719f.jpg
     image_title: Into Light I
@@ -137,9 +146,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
-    image_description_markdown:
-  - image_path: /uploads/closed-out.jpg
-    image_title: Closed out
     image_description_markdown:
   - image_path:
     image_title: Winter garden
@@ -171,9 +177,6 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/confined-ii.jpg
-    image_title: Confined II
-    image_description_markdown:
   - image_path: /uploads/shelter.jpg
     image_title: Shelter I
     image_description_markdown:
@@ -200,9 +203,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/messa-exo.jpg
     image_title: Insideout
-    image_description_markdown:
-  - image_path: /uploads/confined-iii.jpg
-    image_title: Confined III
     image_description_markdown:
   - image_path: /uploads/ppe.jpg
     image_title: PPE
