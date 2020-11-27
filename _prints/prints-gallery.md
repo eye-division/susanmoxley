@@ -75,6 +75,9 @@ images:
   - image_path: /uploads/confined-virus.jpg
     image_title: Contained Virus II
     image_description_markdown:
+  - image_path: /uploads/closed-in-iii.jpg
+    image_title: Closed in (pink)
+    image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
     image_description_markdown:
@@ -111,8 +114,8 @@ images:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
     image_description_markdown:
-  - image_path:
-    image_title: Jazz II
+  - image_path: /uploads/closed-in-1.jpg
+    image_title: Closed in II
     image_description_markdown:
   - image_path: /assets/images/54dcbef7474aa.jpg
     image_title: Red and Black
@@ -126,11 +129,11 @@ images:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
     image_description_markdown:
-  - image_path: /assets/images/54dcbfd5b7b4a.jpg
-    image_title: Landscape woman II
-    image_description_markdown:
   - image_path:
     image_title: The Journey
+    image_description_markdown:
+  - image_path: /assets/images/54dcbfd5b7b4a.jpg
+    image_title: Landscape woman II
     image_description_markdown:
   - image_path:
     image_title: Winter garden
@@ -161,9 +164,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
-    image_description_markdown:
-  - image_path: /uploads/closed-in-iii.jpg
-    image_title: Closed in (pink)
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
