@@ -69,9 +69,6 @@ images:
   - image_path: /uploads/uncontained-virus-iii.jpg
     image_title: Uncontrolled II
     image_description_markdown:
-  - image_path: /uploads/confined-vi.jpg
-    image_title: Confined VI
-    image_description_markdown:
   - image_path: /uploads/confined-virus.jpg
     image_title: Contained Virus II
     image_description_markdown:
@@ -81,14 +78,17 @@ images:
   - image_path: /uploads/closed-in-1.jpg
     image_title: Closed in II
     image_description_markdown:
-  - image_path: /uploads/closed-in-iii.jpg
-    image_title: Closed in (pink)
+  - image_path: /uploads/confined-vi.jpg
+    image_title: Confined VI
     image_description_markdown:
   - image_path: /uploads/closed-out.jpg
     image_title: Closed out
     image_description_markdown:
   - image_path: /uploads/confined-iv.jpg
     image_title:
+    image_description_markdown:
+  - image_path: /uploads/closed-in-iii.jpg
+    image_title: Closed in (pink)
     image_description_markdown:
   - image_path: /uploads/confined-ii.jpg
     image_title: Confined II
