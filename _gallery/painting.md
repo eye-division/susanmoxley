@@ -95,50 +95,14 @@ images:
   - image_path: /assets/images/54fdc74ad78f3.jpg
     image_title: Harbour IV
     image_description_markdown:
-  - image_path: /assets/images/49f9dafa78a52.jpg
-    image_title: Harbour 2
-    image_description_markdown: '**Date** : 2008  **Medium** : oil'
-  - image_path: /assets/images/49f9d885ca440.jpg
-    image_title: September
-    image_description_markdown: '**September**   **Date** : 2008   **Medium** : mixed media'
-  - image_path: /assets/images/49f9d8fe9e96b.jpg
-    image_title: The end of the Summer 2
-    image_description_markdown: '**Date** : 2008   **Medium** : oil'
   - image_path: /assets/images/54fdc69bc2977.jpg
     image_title: Customs II
     image_description_markdown:
-  - image_path: /assets/images/49f9d95bef5c4.jpg
-    image_title: Harbour 1
-    image_description_markdown: '**Date** : 2008   **Medium** : oil'
-  - image_path: /assets/images/49f9d93430d8e.jpg
-    image_title: Waiting for the boat
-    image_description_markdown: '**Date** : 2008   **Medium** : oil'
   - image_path: /assets/images/54fdc65729667.jpg
     image_title: Harbour I '15
     image_description_markdown:
   - image_path: /assets/images/54fdc6bef0c8f.jpg
     image_title: Harbour III
-    image_description_markdown:
-  - image_path: /assets/images/49fa146006926.jpg
-    image_title: Panama with plums
-    image_description_markdown: '30 x30   **Date** : 2000   **Medium** : oil on canvas'
-  - image_path: /assets/images/49fa140985538.jpg
-    image_title: Panama
-    image_description_markdown: '30x 30   **Date** : 2000   **Medium** : oil on canvas'
-  - image_path: /assets/images/49fa149cacb74.jpg
-    image_title: Panamas with old frame
-    image_description_markdown: '30 x 30   **Medium** : oil on canvas'
-  - image_path: /assets/images/463a059a26637.jpg
-    image_title: Kefalo
-    image_description_markdown: '60 x 60cm   **Date** : 2004   **Medium** : Oil'
-  - image_path: /assets/images/463a0a751abdd.jpg
-    image_title: Summer of 2002
-    image_description_markdown: '140 x 80   **Medium** : Oil'
-  - image_path: /assets/images/49fa16e838d8d.jpg
-    image_title: Frosso's eggs
-    image_description_markdown: '30 x30   **Date** : 1999   **Medium** : oil on canvas'
-  - image_path: /assets/images/54f628cb13c2b.jpg
-    image_title: Willow jug
     image_description_markdown:
   - image_path: /assets/images/58f9f44402464.jpg
     image_title: Limani I  2017
@@ -151,6 +115,27 @@ images:
     image_description_markdown:
   - image_path: /assets/images/58f9f881cc764.jpg
     image_title: Limani IV 2017
+    image_description_markdown:
+  - image_path: /assets/images/49f9d8fe9e96b.jpg
+    image_title: The end of the Summer 2
+    image_description_markdown: '**Date** : 2008   **Medium** : oil'
+  - image_path: /assets/images/49f9d95bef5c4.jpg
+    image_title: Harbour 1
+    image_description_markdown: '**Date** : 2008   **Medium** : oil'
+  - image_path: /assets/images/49f9d93430d8e.jpg
+    image_title: Waiting for the boat
+    image_description_markdown: '**Date** : 2008   **Medium** : oil'
+  - image_path: /assets/images/49fa146006926.jpg
+    image_title: Panama with plums
+    image_description_markdown: '30 x30   **Date** : 2000   **Medium** : oil on canvas'
+  - image_path: /assets/images/49fa140985538.jpg
+    image_title: Panama
+    image_description_markdown: '30x 30   **Date** : 2000   **Medium** : oil on canvas'
+  - image_path: /assets/images/49fa149cacb74.jpg
+    image_title: Panamas with old frame
+    image_description_markdown: '30 x 30   **Medium** : oil on canvas'
+  - image_path: /assets/images/54f628cb13c2b.jpg
+    image_title: Willow jug
     image_description_markdown:
 _options:
   image_path:
