@@ -45,8 +45,8 @@ images:
   - image_path: /uploads/above-below.jpg
     image_title: 'Above, bellow'
     image_description_markdown:
-  - image_path:
-    image_title: Eikon I
+  - image_path: /uploads/uncontained-virus.jpg
+    image_title: Uncontrolled
     image_description_markdown:
   - image_path: /assets/images/54f57a9c8c64e.jpg
     image_title: Eikon II
