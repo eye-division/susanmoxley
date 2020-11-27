@@ -99,6 +99,12 @@ images:
   - image_path: /uploads/confoned-iii.jpg
     image_title: Confined III
     image_description_markdown:
+  - image_path: /uploads/ppe-i.jpg
+    image_title: Look after your PPE
+    image_description_markdown:
+  - image_path: /uploads/ppe.jpg
+    image_title: Look after your PPE
+    image_description_markdown:
   - image_path: /uploads/shelter-ii.jpg
     image_title: Replenish
     image_description_markdown:
@@ -203,12 +209,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/messa-exo.jpg
     image_title: Insideout
-    image_description_markdown:
-  - image_path: /uploads/ppe.jpg
-    image_title: PPE
-    image_description_markdown:
-  - image_path: /uploads/ppe-i.jpg
-    image_title: PPE I
     image_description_markdown:
 _options:
   image_path:
