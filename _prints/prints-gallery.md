@@ -207,6 +207,9 @@ images:
   - image_path: /uploads/ppe.jpg
     image_title: PPE
     image_description_markdown:
+  - image_path: /uploads/ppe-i.jpg
+    image_title: PPE I
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
