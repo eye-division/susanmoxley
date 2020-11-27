@@ -100,8 +100,8 @@ images:
   - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
     image_title: Hammered silver chain and collection of silver rings
     image_description_markdown:
-  - image_path: /uploads/silver-pendants-1-5.jpg
-    image_title: Silver pendents
+  - image_path: /uploads/earings-7.jpg
+    image_title: Silver drop earrings with black pebbles
     image_description_markdown:
   - image_path: /assets/images/4feb0815bcd16.jpg
     image_title: drop silver earings with black stones
