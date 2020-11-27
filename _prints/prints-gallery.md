@@ -87,7 +87,7 @@ images:
   - image_path: /uploads/uncontained-virus-v.jpg
     image_title: Contained Virus
     image_description_markdown:
-  - image_path:
+  - image_path: /uploads/aegean-pytharia.jpg
     image_title: Minoan Harbour
     image_description_markdown:
   - image_path:
