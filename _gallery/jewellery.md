@@ -67,8 +67,8 @@ images:
   - image_path: /assets/images/4feb06f06c671.jpg
     image_title: Classical slate pendant
     image_description_markdown:
-  - image_path: /assets/images/4feb071fa8e46.jpg
-    image_title: Silver cross on stone
+  - image_path: /uploads/earings-1.jpg
+    image_title: Silver Bird shaped earings
     image_description_markdown:
   - image_path: /uploads/pendants-2.jpg
     image_title:
