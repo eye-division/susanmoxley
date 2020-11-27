@@ -94,14 +94,14 @@ images:
   - image_path: /uploads/earings-12.jpg
     image_title: Siler triangular foldeded stud earrings
     image_description_markdown:
-  - image_path: /assets/images/4feb07dde2f56.jpg
-    image_title: drop silver earings with putty coloured stone
+  - image_path: /uploads/earings-7.jpg
+    image_title: Silver drop earrings with black pebbles
     image_description_markdown:
   - image_path: /uploads/silver-hammered-chain--rings-1-9.jpg
     image_title: Hammered silver chain and collection of silver rings
     image_description_markdown:
-  - image_path: /uploads/earings-7.jpg
-    image_title: Silver drop earrings with black pebbles
+  - image_path: /assets/images/4feb07dde2f56.jpg
+    image_title: drop silver earings with putty coloured stone
     image_description_markdown:
   - image_path: /assets/images/4feb0815bcd16.jpg
     image_title: drop silver earings with black stones
