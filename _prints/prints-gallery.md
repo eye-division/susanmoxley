@@ -81,8 +81,8 @@ images:
   - image_path: /uploads/uncontained-virus-vi.jpg
     image_title: Contained Virus
     image_description_markdown:
-  - image_path:
-    image_title: Mycaenian Harbour
+  - image_path: /uploads/solitary.jpg
+    image_title: Solo
     image_description_markdown:
   - image_path:
     image_title: Mycaenian harbour II
