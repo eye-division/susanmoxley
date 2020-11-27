@@ -52,8 +52,8 @@ images:
   - image_path: /assets/images/4feb06a04ecd0.jpg
     image_title: Slate collar
     image_description_markdown:
-  - image_path: /uploads/black-bundle-necklace.jpg
-    image_title: Bundles of black stones
+  - image_path: /uploads/13-grey-slate.jpg
+    image_title: Slate earrings and silver and oxodized cross pendant
     image_description_markdown:
   - image_path: /uploads/opeline-glass-necklace.jpg
     image_title: Opeline beads with silver
