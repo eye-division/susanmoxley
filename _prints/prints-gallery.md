@@ -78,8 +78,8 @@ images:
   - image_path: /assets/images/54dcb86852be6.jpg
     image_title: Rhythm in Blue
     image_description_markdown:
-  - image_path:
-    image_title: Rhythm in Red
+  - image_path: /uploads/uncontained-virus-vi.jpg
+    image_title: Contained Virus
     image_description_markdown:
   - image_path:
     image_title: Mycaenian Harbour
