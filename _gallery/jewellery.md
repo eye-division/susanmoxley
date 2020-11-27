@@ -25,8 +25,8 @@ images:
   - image_path: /uploads/necklace-2-1.jpg
     image_title: Beach Quartz and Silver
     image_description_markdown:
-  - image_path: /assets/images/4feb034433580.jpg
-    image_title: Axe shaped silver with PVC beads
+  - image_path: /uploads/10.jpg
+    image_title: Two tone pebbles with Silver
     image_description_markdown:
   - image_path: /assets/images/4feb027d92525.jpg
     image_title: Agia Pelagia green stone and silver 2
