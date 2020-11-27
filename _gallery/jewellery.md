@@ -52,7 +52,7 @@ images:
   - image_path: /assets/images/4feb06a04ecd0.jpg
     image_title: Slate collar
     image_description_markdown:
-  - image_path: /uploads/necklace-1.jpg
+  - image_path:
     image_title: Silver hand made beads with Black pebbles
     image_description_markdown:
   - image_path: /uploads/bundle-necklace.jpg
