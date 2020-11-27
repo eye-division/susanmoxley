@@ -78,11 +78,11 @@ images:
   - image_path: /uploads/closed-in-1.jpg
     image_title: Closed in II
     image_description_markdown:
-  - image_path: /uploads/confined-vi.jpg
-    image_title: Confined VI
-    image_description_markdown:
   - image_path: /uploads/closed-out.jpg
     image_title: Closed out
+    image_description_markdown:
+  - image_path: /uploads/confined-vi.jpg
+    image_title: Confined VI
     image_description_markdown:
   - image_path: /uploads/confined-iv.jpg
     image_title:
@@ -135,17 +135,14 @@ images:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
     image_description_markdown:
+  - image_path: /uploads/full-moon.jpg
+    image_title: Full Moon
+    image_description_markdown:
   - image_path: /assets/images/54f57af19ebbc.jpg
     image_title: Split
     image_description_markdown:
   - image_path: /assets/images/54f57a9c8c64e.jpg
     image_title: Eikon II
-    image_description_markdown:
-  - image_path: /assets/images/54fdc99720087.jpg
-    image_title: Oasis
-    image_description_markdown:
-  - image_path: /assets/images/54dcb044eb05b.jpg
-    image_title: In the shadows
     image_description_markdown:
   - image_path: /assets/images/56dc13f72170f.jpg
     image_title: Rhythm I
@@ -158,9 +155,6 @@ images:
     image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
-    image_description_markdown:
-  - image_path: /assets/images/54dcbef7474aa.jpg
-    image_title: Red and Black
     image_description_markdown:
   - image_path: /assets/images/56dc1494d719f.jpg
     image_title: Into Light I
@@ -177,9 +171,6 @@ images:
   - image_path:
     image_title: Landscape Woman I
     image_description_markdown:
-  - image_path: /assets/images/54dcbfd5b7b4a.jpg
-    image_title: Landscape woman II
-    image_description_markdown:
   - image_path: /assets/images/54f581087170f.jpg
     image_title: Where I am
     image_description_markdown:
@@ -195,17 +186,11 @@ images:
   - image_path:
     image_title: Stack IV
     image_description_markdown:
-  - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
-    image_title: There are 2 bowls in my house
-    image_description_markdown:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
-    image_description_markdown:
-  - image_path: /uploads/full-moon.jpg
-    image_title: Full Moon
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
