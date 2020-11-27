@@ -48,14 +48,14 @@ images:
   - image_path: /uploads/solitary.jpg
     image_title: Solo
     image_description_markdown:
+  - image_path: /uploads/inside-out.jpg
+    image_title: Inside Out
+    image_description_markdown:
   - image_path: /uploads/uncontained-virus-v.jpg
     image_title: Contained Virus
     image_description_markdown:
   - image_path: /uploads/doves.jpg
     image_title: whicg way is it going
-    image_description_markdown:
-  - image_path: /uploads/inside-out.jpg
-    image_title: Inside Out
     image_description_markdown:
   - image_path: /uploads/above-below.jpg
     image_title: Above Below
