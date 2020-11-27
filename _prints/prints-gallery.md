@@ -24,6 +24,18 @@ images:
   - image_path: /uploads/aegean-pytharia.jpg
     image_title: Minoan Harbour
     image_description_markdown:
+  - image_path: /uploads/uncontained-virus-vi.jpg
+    image_title: Contained Virus
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-v.jpg
+    image_title: Contained Virus
+    image_description_markdown:
+  - image_path: /uploads/azure-pitharia.jpg
+    image_title: Azure Pitaria
+    image_description_markdown:
+  - image_path: /uploads/pithari-in-blue.jpg
+    image_title: Pithari in Blue
+    image_description_markdown:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
     image_description_markdown:
@@ -33,8 +45,8 @@ images:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
-  - image_path: /uploads/azure-pitharia.jpg
-    image_title: Azure Pitaria
+  - image_path: /uploads/above-below.jpg
+    image_title: 'Above, bellow'
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
@@ -44,9 +56,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
-    image_description_markdown:
-  - image_path: /uploads/above-below.jpg
-    image_title: 'Above, bellow'
     image_description_markdown:
   - image_path: /uploads/uncontained-virus.jpg
     image_title: Uncontrolled
@@ -81,14 +90,8 @@ images:
   - image_path: /assets/images/54dcb86852be6.jpg
     image_title: Rhythm in Blue
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-vi.jpg
-    image_title: Contained Virus
-    image_description_markdown:
   - image_path: /uploads/solitary.jpg
     image_title: Solo
-    image_description_markdown:
-  - image_path: /uploads/uncontained-virus-v.jpg
-    image_title: Contained Virus
     image_description_markdown:
   - image_path: /uploads/doves.jpg
     image_title: whicg way is it going
@@ -144,20 +147,17 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/closed-in-iii.jpg
-    image_title: Closed in (pink)
-    image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
+    image_description_markdown:
+  - image_path: /uploads/closed-in-iii.jpg
+    image_title: Closed in (pink)
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
     image_description_markdown:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
-    image_description_markdown:
-  - image_path: /uploads/pithari-in-blue.jpg
-    image_title: Pithari in Blue
     image_description_markdown:
   - image_path: /uploads/disquiet-balance.jpg
     image_title: Disquiet Balance
