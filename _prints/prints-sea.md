@@ -172,6 +172,9 @@ images:
   - image_path: /uploads/ritsos-iii.jpg
     image_title: Ritsos III
     image_description_markdown:
+  - image_path: /uploads/closed-in-ii-jpg.jpg
+    image_title: Closed in
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
