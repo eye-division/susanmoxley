@@ -42,8 +42,8 @@ images:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
     image_description_markdown:
-  - image_path:
-    image_title: After the Monsoon
+  - image_path: /uploads/above-below.jpg
+    image_title: 'Above, bellow'
     image_description_markdown:
   - image_path:
     image_title: Eikon I
