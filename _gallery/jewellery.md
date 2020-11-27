@@ -91,8 +91,8 @@ images:
   - image_path: /uploads/slate-necklace-and-pendants1-3.jpg
     image_title: Slate necklace and pendants
     image_description_markdown:
-  - image_path: /uploads/petra-3.jpg
-    image_title: Slate and coloured pebble necklaces and pendants
+  - image_path: /uploads/earings-12.jpg
+    image_title: Siler triangular foldeded stud earrings
     image_description_markdown:
   - image_path: /assets/images/4feb07dde2f56.jpg
     image_title: drop silver earings with putty coloured stone
