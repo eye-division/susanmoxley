@@ -137,6 +137,9 @@ images:
   - image_path: /assets/images/58f9f881cc764.jpg
     image_title: Limani IV 2017
     image_description_markdown:
+  - image_path: /uploads/encaustic-i-2.jpg
+    image_title: Closing In I
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
