@@ -109,8 +109,8 @@ images:
   - image_path: /assets/images/4feb084044c03.jpg
     image_title: Classic earings
     image_description_markdown:
-  - image_path: /assets/images/4feb092e98bc4.jpg
-    image_title: Hoop earing with putty coloured stone
+  - image_path: /uploads/red-with-swirl.jpg
+    image_title: silver triangulad earrings and swirl pendant with black stones
     image_description_markdown:
   - image_path: /assets/images/4feb09531e4a8.jpg
     image_title: Halo earing with black stone
