@@ -21,17 +21,59 @@ images:
   - image_path: /assets/images/56dc14d8d34a9.jpg
     image_title: Pitharia
     image_description_markdown:
+  - image_path: /uploads/aegean-pytharia.jpg
+    image_title: Minoan Harbour
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-vi.jpg
+    image_title: Contained Virus
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-v.jpg
+    image_title: Contained Virus
+    image_description_markdown:
+  - image_path: /uploads/azure-pitharia.jpg
+    image_title: Azure Pitaria
+    image_description_markdown:
+  - image_path: /uploads/pithari-in-blue.jpg
+    image_title: Pithari in Blue
+    image_description_markdown:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
-    image_description_markdown:
-  - image_path: /uploads/pitharia.jpg
-    image_title: Pink Pitharia
     image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
-  - image_path: /uploads/azure-pitharia.jpg
-    image_title: Azure Pitaria
+  - image_path: /assets/images/54dcb86852be6.jpg
+    image_title: Rhythm in Blue
+    image_description_markdown:
+  - image_path: /uploads/solitary.jpg
+    image_title: Solo
+    image_description_markdown:
+  - image_path: /uploads/doves.jpg
+    image_title: whicg way is it going
+    image_description_markdown:
+  - image_path: /uploads/from-within.jpg
+    image_title: From within
+    image_description_markdown:
+  - image_path: /uploads/above-below.jpg
+    image_title: 'Above, bellow'
+    image_description_markdown:
+  - image_path: /uploads/disquiet-balance.jpg
+    image_title: Disquiet Balance
+    image_description_markdown:
+  - image_path: /uploads/closed-in-ii-jpg-1.jpg
+    image_title: Closed in
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus.jpg
+    image_title: Uncontrolled
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-iii.jpg
+    image_title: Uncontrolled II
+    image_description_markdown:
+  - image_path: /uploads/confined-vi.jpg
+    image_title: Confined VI
+    image_description_markdown:
+  - image_path: /uploads/confined-virus.jpg
+    image_title: Contained Virus II
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
@@ -42,20 +84,11 @@ images:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
     image_description_markdown:
-  - image_path: /uploads/monsoon-2.jpg
-    image_title: After the Monsoon
-    image_description_markdown:
-  - image_path: /assets/images/54f579e5afcd0.jpg
-    image_title: Eikon I
-    image_description_markdown:
-  - image_path: /assets/images/54f57a9c8c64e.jpg
-    image_title: Eikon II
-    image_description_markdown:
   - image_path: /assets/images/54f57af19ebbc.jpg
     image_title: Split
     image_description_markdown:
-  - image_path: /assets/images/54dcb82bf238a.jpg
-    image_title: Piano
+  - image_path: /assets/images/54f57a9c8c64e.jpg
+    image_title: Eikon II
     image_description_markdown:
   - image_path: /assets/images/54fdc99720087.jpg
     image_title: Oasis
@@ -72,31 +105,13 @@ images:
   - image_path: /assets/images/56dc14740f186.jpg
     image_title: Rhythm III
     image_description_markdown:
-  - image_path: /assets/images/54dccb3e23de1.jpg
+  - image_path: /uploads/shelter-ii.jpg
     image_title: Replenish
-    image_description_markdown:
-  - image_path: /assets/images/54dcb86852be6.jpg
-    image_title: Rhythm in Blue
-    image_description_markdown:
-  - image_path: /assets/images/54dcbae6a50d8.jpg
-    image_title: Rhythm in Red
-    image_description_markdown:
-  - image_path: /assets/images/54dcbb9c8096b.jpg
-    image_title: Mycaenian Harbour
-    image_description_markdown:
-  - image_path: /assets/images/54dcbdec2d9e2.jpg
-    image_title: Mycaenian harbour II
-    image_description_markdown:
-  - image_path: /assets/images/54dcbd1b6530d.jpg
-    image_title: Minoan Harbour
-    image_description_markdown:
-  - image_path: /assets/images/54dcc6c4026d4.jpg
-    image_title: Africa
     image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
     image_description_markdown:
-  - image_path: /assets/images/54dcbea823571.jpg
+  - image_path:
     image_title: Jazz II
     image_description_markdown:
   - image_path: /assets/images/54dcbef7474aa.jpg
@@ -114,10 +129,10 @@ images:
   - image_path: /assets/images/54dcbfd5b7b4a.jpg
     image_title: Landscape woman II
     image_description_markdown:
-  - image_path: /assets/images/54dcc6f7eec92.jpg
+  - image_path:
     image_title: The Journey
     image_description_markdown:
-  - image_path: /assets/images/54dcc699928d5.jpg
+  - image_path:
     image_title: Winter garden
     image_description_markdown:
   - image_path:
@@ -126,16 +141,16 @@ images:
   - image_path: /assets/images/54f581087170f.jpg
     image_title: Where I am
     image_description_markdown:
-  - image_path: /assets/images/58a6e023b1373.jpg
+  - image_path:
     image_title: Stack I
     image_description_markdown:
-  - image_path: /assets/images/58a6e046ef950.jpg
+  - image_path:
     image_title: Stack II
     image_description_markdown:
-  - image_path: /assets/images/58a6e06bb9c2b.jpg
+  - image_path:
     image_title: Stack III
     image_description_markdown:
-  - image_path: /assets/images/58a6e08ebd776.jpg
+  - image_path:
     image_title: Stack IV
     image_description_markdown:
   - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
@@ -144,11 +159,11 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/ancient-landscape.jpg
-    image_title: Ancient Landscape
-    image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
     image_title:
+    image_description_markdown:
+  - image_path: /uploads/closed-in-iii.jpg
+    image_title: Closed in (pink)
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
@@ -156,8 +171,44 @@ images:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
     image_description_markdown:
-  - image_path: /uploads/pithari-in-blue.jpg
-    image_title: Pithari in Blue
+  - image_path: /uploads/closed-in.jpg
+    image_title: Closed In I
+    image_description_markdown:
+  - image_path: /uploads/inside-out.jpg
+    image_title: Inside Out
+    image_description_markdown:
+  - image_path: /uploads/shelter.jpg
+    image_title: Shelter I
+    image_description_markdown:
+  - image_path: /uploads/shelters.jpg
+    image_title: Shelter II
+    image_description_markdown:
+  - image_path: /uploads/sheltered-pot.jpg
+    image_title: Sheltered Pot
+    image_description_markdown:
+  - image_path: /uploads/solo-palm.jpg
+    image_title: Solo Palm
+    image_description_markdown:
+  - image_path: /uploads/confined-ii.jpg
+    image_title: Confined II
+    image_description_markdown:
+  - image_path: /uploads/confined-iv.jpg
+    image_title:
+    image_description_markdown:
+  - image_path: /uploads/grid.jpg
+    image_title: Grid I
+    image_description_markdown:
+  - image_path: /uploads/messa-exo.jpg
+    image_title: Insideout
+    image_description_markdown:
+  - image_path: /uploads/confined-iii.jpg
+    image_title: Confined III
+    image_description_markdown:
+  - image_path: /uploads/ppe.jpg
+    image_title: PPE
+    image_description_markdown:
+  - image_path: /uploads/ppe-i.jpg
+    image_title: PPE I
     image_description_markdown:
 _options:
   image_path:
