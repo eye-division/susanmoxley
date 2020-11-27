@@ -36,14 +36,14 @@ images:
   - image_path: /uploads/pithari-in-blue.jpg
     image_title: Pithari in Blue
     image_description_markdown:
-  - image_path: /uploads/pithari-in-red.jpg
-    image_title: Pithari in Red
+  - image_path: /assets/images/54dcb86852be6.jpg
+    image_title: Rhythm in Blue
     image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
-  - image_path: /assets/images/54dcb86852be6.jpg
-    image_title: Rhythm in Blue
+  - image_path: /uploads/pithari-in-red.jpg
+    image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/solitary.jpg
     image_title: Solo
@@ -58,13 +58,13 @@ images:
     image_title: Inside Out
     image_description_markdown:
   - image_path: /uploads/above-below.jpg
-    image_title: 'Above, bellow'
+    image_title: Above Below
     image_description_markdown:
   - image_path: /uploads/disquiet-balance.jpg
     image_title: Disquiet Balance
     image_description_markdown:
   - image_path: /uploads/uncontained-virus.jpg
-    image_title: Uncontrolled
+    image_title: Uncontrolled I
     image_description_markdown:
   - image_path: /uploads/uncontained-virus-iii.jpg
     image_title: Uncontrolled II
@@ -73,7 +73,7 @@ images:
     image_title: Contained Virus II
     image_description_markdown:
   - image_path: /uploads/closed-in-ii-jpg-1.jpg
-    image_title: Closed in
+    image_title: Closed in I
     image_description_markdown:
   - image_path: /uploads/closed-in-1.jpg
     image_title: Closed in II
@@ -88,7 +88,7 @@ images:
     image_title: Confined VI
     image_description_markdown:
   - image_path: /uploads/confined-iv.jpg
-    image_title:
+    image_title: Confined IV
     image_description_markdown:
   - image_path: /uploads/confined-ii.jpg
     image_title: Confined II
@@ -97,7 +97,7 @@ images:
     image_title: Confined III
     image_description_markdown:
   - image_path: /uploads/confoned-iii.jpg
-    image_title: Confined III
+    image_title: Confined V
     image_description_markdown:
   - image_path: /uploads/ppe-i.jpg
     image_title: Look after your PPE
@@ -184,13 +184,13 @@ images:
     image_title: Stack IV
     image_description_markdown:
   - image_path: /uploads/monsoon.jpg
-    image_title:
+    image_title: Krathong I
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
     image_description_markdown:
   - image_path: /uploads/pitharia-at-sea.jpg
-    image_title:
+    image_title: Submerged Pytharia
     image_description_markdown:
 _options:
   image_path:
