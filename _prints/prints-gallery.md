@@ -1,6 +1,6 @@
 ---
 title: Gallery - prints
-description_markdown:
+description_markdown: The Lockdown has inspired many new works. Above all maintaining balance
 homepage_description_markdown:
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
@@ -24,59 +24,110 @@ images:
   - image_path: /uploads/aegean-pytharia.jpg
     image_title: Minoan Harbour
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-vi.jpg
-    image_title: Contained Virus
-    image_description_markdown:
-  - image_path: /uploads/uncontained-virus-v.jpg
-    image_title: Contained Virus
-    image_description_markdown:
   - image_path: /uploads/azure-pitharia.jpg
     image_title: Azure Pitaria
     image_description_markdown:
   - image_path: /uploads/pithari-in-blue.jpg
     image_title: Pithari in Blue
     image_description_markdown:
-  - image_path: /uploads/pithari-in-red.jpg
-    image_title: Pithari in Red
+  - image_path: /assets/images/54dcb86852be6.jpg
+    image_title: Rhythm in Blue
     image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
-  - image_path: /assets/images/54dcb86852be6.jpg
-    image_title: Rhythm in Blue
-    image_description_markdown:
-  - image_path: /uploads/solitary.jpg
-    image_title: Solo
-    image_description_markdown:
-  - image_path: /uploads/doves.jpg
-    image_title: whicg way is it going
+  - image_path: /uploads/pithari-in-red.jpg
+    image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/from-within.jpg
     image_title: From within
     image_description_markdown:
+  - image_path: /uploads/uncontained-virus-vi.jpg
+    image_title: Contained Virus
+    image_description_markdown:
+  - image_path: /uploads/solitary.jpg
+    image_title: Solo
+    image_description_markdown:
+  - image_path: /uploads/inside-out.jpg
+    image_title: Inside Out
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-v.jpg
+    image_title: Contained Virus
+    image_description_markdown:
+  - image_path: /uploads/doves.jpg
+    image_title: whicg way is it going
+    image_description_markdown:
   - image_path: /uploads/above-below.jpg
-    image_title: 'Above, bellow'
+    image_title: Above Below
     image_description_markdown:
   - image_path: /uploads/disquiet-balance.jpg
     image_title: Disquiet Balance
     image_description_markdown:
-  - image_path: /uploads/closed-in-ii-jpg-1.jpg
-    image_title: Closed in
-    image_description_markdown:
   - image_path: /uploads/uncontained-virus.jpg
-    image_title: Uncontrolled
+    image_title: Uncontrolled I
     image_description_markdown:
   - image_path: /uploads/uncontained-virus-iii.jpg
     image_title: Uncontrolled II
     image_description_markdown:
-  - image_path: /uploads/confined-vi.jpg
-    image_title: Confined VI
-    image_description_markdown:
   - image_path: /uploads/confined-virus.jpg
     image_title: Contained Virus II
     image_description_markdown:
+  - image_path: /uploads/closed-in-ii-jpg-1.jpg
+    image_title: Closed in I
+    image_description_markdown:
+  - image_path: /uploads/closed-in-1.jpg
+    image_title: Closed in II
+    image_description_markdown:
+  - image_path: /uploads/closed-out.jpg
+    image_title: Closed out
+    image_description_markdown:
+  - image_path: /uploads/closed-in-iii.jpg
+    image_title: Closed in (pink)
+    image_description_markdown:
+  - image_path: /uploads/confined-vi.jpg
+    image_title: Confined VI
+    image_description_markdown:
+  - image_path: /uploads/confined-iv.jpg
+    image_title: Confined IV
+    image_description_markdown:
+  - image_path: /uploads/confined-ii.jpg
+    image_title: Confined II
+    image_description_markdown:
+  - image_path: /uploads/confined-iii.jpg
+    image_title: Confined III
+    image_description_markdown:
+  - image_path: /uploads/confoned-iii.jpg
+    image_title: Confined V
+    image_description_markdown:
+  - image_path: /uploads/ppe-i.jpg
+    image_title: Look after your PPE
+    image_description_markdown:
+  - image_path: /uploads/ppe.jpg
+    image_title: Look after your PPE
+    image_description_markdown:
+  - image_path: /uploads/shelter-ii.jpg
+    image_title: Replenish
+    image_description_markdown:
+  - image_path: /uploads/shelter.jpg
+    image_title: Shelter I
+    image_description_markdown:
+  - image_path: /uploads/shelters.jpg
+    image_title: Shelter II
+    image_description_markdown:
+  - image_path: /uploads/sheltered-pot.jpg
+    image_title: Sheltered Pot
+    image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
+    image_description_markdown:
+  - image_path: /uploads/solo-palm.jpg
+    image_title: Solo Palm
+    image_description_markdown:
+  - image_path: /uploads/grid.jpg
+    image_title: Grid I
+    image_description_markdown:
+  - image_path: /uploads/messa-exo.jpg
+    image_title: Insideout
     image_description_markdown:
   - image_path: /uploads/to-the-left-the-balls.jpg
     image_title: 'To the left, the balls'
@@ -84,17 +135,17 @@ images:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
     image_description_markdown:
+  - image_path: /uploads/full-moon.jpg
+    image_title: Full Moon
+    image_description_markdown:
   - image_path: /assets/images/54f57af19ebbc.jpg
     image_title: Split
     image_description_markdown:
   - image_path: /assets/images/54f57a9c8c64e.jpg
     image_title: Eikon II
     image_description_markdown:
-  - image_path: /assets/images/54fdc99720087.jpg
-    image_title: Oasis
-    image_description_markdown:
-  - image_path: /assets/images/54dcb044eb05b.jpg
-    image_title: In the shadows
+  - image_path: /assets/images/54dcbe8c2bb01.jpg
+    image_title: Jazz
     image_description_markdown:
   - image_path: /assets/images/56dc13f72170f.jpg
     image_title: Rhythm I
@@ -105,18 +156,6 @@ images:
   - image_path: /assets/images/56dc14740f186.jpg
     image_title: Rhythm III
     image_description_markdown:
-  - image_path: /uploads/shelter-ii.jpg
-    image_title: Replenish
-    image_description_markdown:
-  - image_path: /assets/images/54dcbe8c2bb01.jpg
-    image_title: Jazz
-    image_description_markdown:
-  - image_path:
-    image_title: Jazz II
-    image_description_markdown:
-  - image_path: /assets/images/54dcbef7474aa.jpg
-    image_title: Red and Black
-    image_description_markdown:
   - image_path: /assets/images/56dc1494d719f.jpg
     image_title: Into Light I
     image_description_markdown:
@@ -126,20 +165,11 @@ images:
   - image_path: /assets/images/54fdc8bb527a1.jpg
     image_title: Keeping order
     image_description_markdown:
-  - image_path: /assets/images/54dcbfd5b7b4a.jpg
-    image_title: Landscape woman II
-    image_description_markdown:
-  - image_path:
-    image_title: The Journey
-    image_description_markdown:
   - image_path:
     image_title: Winter garden
     image_description_markdown:
   - image_path:
     image_title: Landscape Woman I
-    image_description_markdown:
-  - image_path: /assets/images/54f581087170f.jpg
-    image_title: Where I am
     image_description_markdown:
   - image_path:
     image_title: Stack I
@@ -153,62 +183,14 @@ images:
   - image_path:
     image_title: Stack IV
     image_description_markdown:
-  - image_path: /uploads/there-are-2-bowlsin-my-house.jpg
-    image_title: There are 2 bowls in my house
-    image_description_markdown:
   - image_path: /uploads/monsoon.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/pitharia-at-sea.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/closed-in-iii.jpg
-    image_title: Closed in (pink)
+    image_title: Krathong I
     image_description_markdown:
   - image_path: /uploads/summer-cloud.jpg
     image_title: Summer cloud
     image_description_markdown:
-  - image_path: /uploads/full-moon.jpg
-    image_title: Full Moon
-    image_description_markdown:
-  - image_path: /uploads/closed-in.jpg
-    image_title: Closed In I
-    image_description_markdown:
-  - image_path: /uploads/inside-out.jpg
-    image_title: Inside Out
-    image_description_markdown:
-  - image_path: /uploads/shelter.jpg
-    image_title: Shelter I
-    image_description_markdown:
-  - image_path: /uploads/shelters.jpg
-    image_title: Shelter II
-    image_description_markdown:
-  - image_path: /uploads/sheltered-pot.jpg
-    image_title: Sheltered Pot
-    image_description_markdown:
-  - image_path: /uploads/solo-palm.jpg
-    image_title: Solo Palm
-    image_description_markdown:
-  - image_path: /uploads/confined-ii.jpg
-    image_title: Confined II
-    image_description_markdown:
-  - image_path: /uploads/confined-iv.jpg
-    image_title:
-    image_description_markdown:
-  - image_path: /uploads/grid.jpg
-    image_title: Grid I
-    image_description_markdown:
-  - image_path: /uploads/messa-exo.jpg
-    image_title: Insideout
-    image_description_markdown:
-  - image_path: /uploads/confined-iii.jpg
-    image_title: Confined III
-    image_description_markdown:
-  - image_path: /uploads/ppe.jpg
-    image_title: PPE
-    image_description_markdown:
-  - image_path: /uploads/ppe-i.jpg
-    image_title: PPE I
+  - image_path: /uploads/pitharia-at-sea.jpg
+    image_title: Submerged Pytharia
     image_description_markdown:
 _options:
   image_path:
