@@ -79,8 +79,8 @@ images:
   - image_path: /uploads/5.jpg
     image_title: Silver folded oval earrings dark and light pebble necklace
     image_description_markdown:
-  - image_path: /uploads/earings-and-braceletsjpg.jpg
-    image_title: Earings and bracelets
+  - image_path: /uploads/12.jpg
+    image_title: Dove shaped earrings
     image_description_markdown:
   - image_path: /uploads/stuff.jpg
     image_title:
