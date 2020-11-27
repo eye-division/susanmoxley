@@ -72,7 +72,7 @@ images:
   - image_path: /assets/images/56dc14740f186.jpg
     image_title: Rhythm III
     image_description_markdown:
-  - image_path:
+  - image_path: /uploads/shelter-ii.jpg
     image_title: Replenish
     image_description_markdown:
   - image_path: /assets/images/54dcb86852be6.jpg
