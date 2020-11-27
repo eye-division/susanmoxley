@@ -39,14 +39,41 @@ images:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
     image_description_markdown:
-  - image_path: /uploads/closed-in-ii-jpg-1.jpg
-    image_title: Closed in
-    image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
+  - image_path: /assets/images/54dcb86852be6.jpg
+    image_title: Rhythm in Blue
+    image_description_markdown:
+  - image_path: /uploads/solitary.jpg
+    image_title: Solo
+    image_description_markdown:
+  - image_path: /uploads/doves.jpg
+    image_title: whicg way is it going
+    image_description_markdown:
+  - image_path: /uploads/from-within.jpg
+    image_title: From within
+    image_description_markdown:
   - image_path: /uploads/above-below.jpg
     image_title: 'Above, bellow'
+    image_description_markdown:
+  - image_path: /uploads/disquiet-balance.jpg
+    image_title: Disquiet Balance
+    image_description_markdown:
+  - image_path: /uploads/closed-in-ii-jpg-1.jpg
+    image_title: Closed in
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus.jpg
+    image_title: Uncontrolled
+    image_description_markdown:
+  - image_path: /uploads/uncontained-virus-iii.jpg
+    image_title: Uncontrolled II
+    image_description_markdown:
+  - image_path: /uploads/confined-vi.jpg
+    image_title: Confined VI
+    image_description_markdown:
+  - image_path: /uploads/confined-virus.jpg
+    image_title: Contained Virus II
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
@@ -57,17 +84,11 @@ images:
   - image_path: /uploads/krathong-ii.jpg
     image_title: Krathong
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus.jpg
-    image_title: Uncontrolled
-    image_description_markdown:
-  - image_path: /assets/images/54f57a9c8c64e.jpg
-    image_title: Eikon II
-    image_description_markdown:
   - image_path: /assets/images/54f57af19ebbc.jpg
     image_title: Split
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-iii.jpg
-    image_title: Uncontrolled II
+  - image_path: /assets/images/54f57a9c8c64e.jpg
+    image_title: Eikon II
     image_description_markdown:
   - image_path: /assets/images/54fdc99720087.jpg
     image_title: Oasis
@@ -86,15 +107,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/shelter-ii.jpg
     image_title: Replenish
-    image_description_markdown:
-  - image_path: /assets/images/54dcb86852be6.jpg
-    image_title: Rhythm in Blue
-    image_description_markdown:
-  - image_path: /uploads/solitary.jpg
-    image_title: Solo
-    image_description_markdown:
-  - image_path: /uploads/doves.jpg
-    image_title: whicg way is it going
     image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
@@ -159,17 +171,11 @@ images:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
     image_description_markdown:
-  - image_path: /uploads/disquiet-balance.jpg
-    image_title: Disquiet Balance
-    image_description_markdown:
-  - image_path: /uploads/from-within.jpg
-    image_title: From within
-    image_description_markdown:
   - image_path: /uploads/closed-in.jpg
     image_title: Closed In I
     image_description_markdown:
-  - image_path: /uploads/confined-virus.jpg
-    image_title: Contained Virus II
+  - image_path: /uploads/inside-out.jpg
+    image_title: Inside Out
     image_description_markdown:
   - image_path: /uploads/shelter.jpg
     image_title: Shelter I
@@ -189,9 +195,6 @@ images:
   - image_path: /uploads/confined-iv.jpg
     image_title:
     image_description_markdown:
-  - image_path: /uploads/confined-vi.jpg
-    image_title: Confined VI
-    image_description_markdown:
   - image_path: /uploads/grid.jpg
     image_title: Grid I
     image_description_markdown:
@@ -200,9 +203,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/confined-iii.jpg
     image_title: Confined III
-    image_description_markdown:
-  - image_path: /uploads/inside-out.jpg
-    image_title: Inside Out
     image_description_markdown:
   - image_path: /uploads/ppe.jpg
     image_title: PPE
