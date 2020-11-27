@@ -1,6 +1,6 @@
 ---
 title: Gallery - prints
-description_markdown:
+description_markdown: The Lockdown has inspired many new works. Above all maintaining balance
 homepage_description_markdown:
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
@@ -39,20 +39,20 @@ images:
   - image_path: /uploads/pithari-in-red.jpg
     image_title: Pithari in Red
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-vi.jpg
-    image_title: Contained Virus
+  - image_path: /uploads/from-within.jpg
+    image_title: From within
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-v.jpg
+  - image_path: /uploads/uncontained-virus-vi.jpg
     image_title: Contained Virus
     image_description_markdown:
   - image_path: /uploads/solitary.jpg
     image_title: Solo
     image_description_markdown:
+  - image_path: /uploads/uncontained-virus-v.jpg
+    image_title: Contained Virus
+    image_description_markdown:
   - image_path: /uploads/doves.jpg
     image_title: whicg way is it going
-    image_description_markdown:
-  - image_path: /uploads/from-within.jpg
-    image_title: From within
     image_description_markdown:
   - image_path: /uploads/inside-out.jpg
     image_title: Inside Out
