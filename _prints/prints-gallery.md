@@ -198,6 +198,9 @@ images:
   - image_path: /uploads/messa-exo.jpg
     image_title: Insideout
     image_description_markdown:
+  - image_path: /uploads/confined-iii.jpg
+    image_title: Confined III
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
