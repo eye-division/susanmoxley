@@ -34,8 +34,8 @@ images:
   - image_path: /assets/images/4feb0417af281.jpg
     image_title: Black PVC stent with fold formed silver
     image_description_markdown:
-  - image_path: /assets/images/4feb0457822bc.jpg
-    image_title: Black PVC stent with fold formed silver bracelet
+  - image_path: /uploads/necklace-3.jpg
+    image_title: Silver necklace with Light and Dark Pebbles
     image_description_markdown:
   - image_path: /assets/images/4feb04e8d8a94.jpg
     image_title: slate with silver dove brooch
