@@ -54,8 +54,8 @@ images:
   - image_path: /assets/images/54f57af19ebbc.jpg
     image_title: Split
     image_description_markdown:
-  - image_path:
-    image_title: Piano
+  - image_path: /uploads/uncontained-virus-iii.jpg
+    image_title: Uncontrolled II
     image_description_markdown:
   - image_path: /assets/images/54fdc99720087.jpg
     image_title: Oasis
