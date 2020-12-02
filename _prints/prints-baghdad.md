@@ -104,7 +104,7 @@ images:
     image_title: Baghdad Weasel
     image_description_markdown:
   - image_path: /uploads/retreating.jpg
-    image_title:
+    image_title: Baghdad Retreat
     image_description_markdown:
 _options:
   image_path:
