@@ -98,7 +98,7 @@ images:
     image_title: Baghdad Cat II
     image_description_markdown:
   - image_path: /uploads/baghdad-fish.jpg
-    image_title:
+    image_title: Baghdad Fish
     image_description_markdown:
   - image_path: /uploads/baghdad-weazle.jpg
     image_title:
