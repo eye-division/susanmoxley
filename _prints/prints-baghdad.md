@@ -31,7 +31,7 @@ images:
     image_title: Baghdad Deer
     image_description_markdown: '**Baghdad Deer** **Medium** : collagraph'
   - image_path: /assets/images/54dc9c5808ad6.jpg
-    image_title: Baghdad elephant
+    image_title: Baghdad Elephant
     image_description_markdown:
   - image_path: /assets/images/54dc9c9995f25.jpg
     image_title: Baghdad Granary
