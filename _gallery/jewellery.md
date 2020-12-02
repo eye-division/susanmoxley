@@ -131,7 +131,7 @@ images:
     image_title: Beaten silver studs
     image_description_markdown:
   - image_path: /uploads/flower-earings.jpg
-    image_title:
+    image_title: Plant shaped Silver earrings
     image_description_markdown:
   - image_path: /uploads/image00003.JPG
     image_title: Twisted & Head shape

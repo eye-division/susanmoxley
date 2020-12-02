@@ -22,7 +22,7 @@ images:
     image_title: Democracy
     image_description_markdown:
   - image_path: /uploads/baghdad-juggler.jpg
-    image_title: Bahgadad Juggler
+    image_title: Baghdad Juggler
     image_description_markdown:
   - image_path: /uploads/baghdad-dogs-brexit.jpg
     image_title: Baghdad Dogs (Brexit)
@@ -31,7 +31,7 @@ images:
     image_title: Baghdad Deer
     image_description_markdown: '**Baghdad Deer** **Medium** : collagraph'
   - image_path: /assets/images/54dc9c5808ad6.jpg
-    image_title: Baghdad elephant
+    image_title: Baghdad Elephant
     image_description_markdown:
   - image_path: /assets/images/54dc9c9995f25.jpg
     image_title: Baghdad Granary
@@ -98,13 +98,13 @@ images:
     image_title: Baghdad Cat II
     image_description_markdown:
   - image_path: /uploads/baghdad-fish.jpg
-    image_title:
+    image_title: Baghdad Fish
     image_description_markdown:
   - image_path: /uploads/baghdad-weazle.jpg
-    image_title:
+    image_title: Baghdad Weasel
     image_description_markdown:
   - image_path: /uploads/retreating.jpg
-    image_title:
+    image_title: Baghdad Retreat
     image_description_markdown:
 _options:
   image_path:
