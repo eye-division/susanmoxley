@@ -101,7 +101,7 @@ images:
     image_title: Baghdad Fish
     image_description_markdown:
   - image_path: /uploads/baghdad-weazle.jpg
-    image_title:
+    image_title: Baghdad Weasel
     image_description_markdown:
   - image_path: /uploads/retreating.jpg
     image_title:
