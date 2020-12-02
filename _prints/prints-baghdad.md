@@ -22,7 +22,7 @@ images:
     image_title: Democracy
     image_description_markdown:
   - image_path: /uploads/baghdad-juggler.jpg
-    image_title: Bahgadad Juggler
+    image_title: Baghdad Juggler
     image_description_markdown:
   - image_path: /uploads/baghdad-dogs-brexit.jpg
     image_title: Baghdad Dogs (Brexit)
