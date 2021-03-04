@@ -37,12 +37,6 @@ images:
   - image_path: /assets/images/56dc17da7993d.jpg
     image_title: Aegean V
     image_description_markdown:
-  - image_path:
-    image_title: Aegean Sea I
-    image_description_markdown:
-  - image_path:
-    image_title: 'Aegean 2:1'
-    image_description_markdown:
   - image_path: /assets/images/58a6d754f30d8.jpg
     image_title: Agiasmos I
     image_description_markdown:
