@@ -29,7 +29,7 @@ images:
   - image_path: /uploads/azure-pitharia.jpg
     image_title: Azure Pitaria
     image_description_markdown:
-  - image_path: /uploads/pithari-in-blue.jpg
+  - image_path:
     image_title: Pithari in Blue
     image_description_markdown:
   - image_path: /assets/images/54dcb86852be6.jpg
