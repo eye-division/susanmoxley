@@ -29,17 +29,11 @@ images:
   - image_path: /uploads/azure-pitharia.jpg
     image_title: Azure Pitaria
     image_description_markdown:
-  - image_path:
-    image_title: Pithari in Blue
-    image_description_markdown:
   - image_path: /assets/images/54dcb86852be6.jpg
     image_title: Rhythm in Blue
     image_description_markdown:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
-    image_description_markdown:
-  - image_path:
-    image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/from-within.jpg
     image_title: From within
@@ -116,20 +110,8 @@ images:
   - image_path: /uploads/shelters.jpg
     image_title: Shelter II
     image_description_markdown:
-  - image_path:
-    image_title: Sheltered Pot
-    image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
-    image_description_markdown:
-  - image_path:
-    image_title: Solo Palm
-    image_description_markdown:
-  - image_path:
-    image_title: Grid I
-    image_description_markdown:
-  - image_path:
-    image_title: Insideout
     image_description_markdown:
   - image_path: /uploads/to-the-left-the-balls.jpg
     image_title: 'To the left, the balls'
@@ -139,12 +121,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
-    image_description_markdown:
-  - image_path:
-    image_title: Split
-    image_description_markdown:
-  - image_path:
-    image_title: Eikon II
     image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
     image_title: Jazz
@@ -164,35 +140,8 @@ images:
   - image_path: /assets/images/56dc14b725480.jpg
     image_title: Into Light II
     image_description_markdown:
-  - image_path:
-    image_title: Keeping order
-    image_description_markdown:
-  - image_path:
-    image_title: Winter garden
-    image_description_markdown:
-  - image_path:
-    image_title: Landscape Woman I
-    image_description_markdown:
-  - image_path:
-    image_title: Stack I
-    image_description_markdown:
-  - image_path:
-    image_title: Stack II
-    image_description_markdown:
-  - image_path:
-    image_title: Stack III
-    image_description_markdown:
-  - image_path:
-    image_title: Stack IV
-    image_description_markdown:
   - image_path: /uploads/monsoon.jpg
     image_title: Krathong I
-    image_description_markdown:
-  - image_path:
-    image_title: Summer cloud
-    image_description_markdown:
-  - image_path:
-    image_title: Submerged Pytharia
     image_description_markdown:
 _options:
   image_path:
