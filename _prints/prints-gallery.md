@@ -128,7 +128,7 @@ images:
   - image_path: /uploads/grid.jpg
     image_title: Grid I
     image_description_markdown:
-  - image_path: /uploads/messa-exo.jpg
+  - image_path:
     image_title: Insideout
     image_description_markdown:
   - image_path: /uploads/to-the-left-the-balls.jpg
@@ -140,10 +140,10 @@ images:
   - image_path: /uploads/full-moon.jpg
     image_title: Full Moon
     image_description_markdown:
-  - image_path: /assets/images/54f57af19ebbc.jpg
+  - image_path:
     image_title: Split
     image_description_markdown:
-  - image_path: /assets/images/54f57a9c8c64e.jpg
+  - image_path:
     image_title: Eikon II
     image_description_markdown:
   - image_path: /assets/images/54dcbe8c2bb01.jpg
@@ -164,7 +164,7 @@ images:
   - image_path: /assets/images/56dc14b725480.jpg
     image_title: Into Light II
     image_description_markdown:
-  - image_path: /assets/images/54fdc8bb527a1.jpg
+  - image_path:
     image_title: Keeping order
     image_description_markdown:
   - image_path:
