@@ -37,12 +37,6 @@ images:
   - image_path: /assets/images/56dc17da7993d.jpg
     image_title: Aegean V
     image_description_markdown:
-  - image_path:
-    image_title: Aegean Sea I
-    image_description_markdown:
-  - image_path:
-    image_title: 'Aegean 2:1'
-    image_description_markdown:
   - image_path: /assets/images/58a6d754f30d8.jpg
     image_title: Agiasmos I
     image_description_markdown:
@@ -73,9 +67,6 @@ images:
   - image_path: /uploads/dsc01893.jpg
     image_title: Thalassa V
     image_description_markdown:
-  - image_path: /assets/images/54dcafab51f19.jpg
-    image_title: Amphora women
-    image_description_markdown:
   - image_path: /assets/images/56dc24052c244.jpg
     image_title: Aegean Journey
     image_description_markdown:
@@ -88,7 +79,7 @@ images:
   - image_path: /assets/images/56dc23d21e885.jpg
     image_title: Before the storm
     image_description_markdown:
-  - image_path: /uploads/turbulent-sea-i.jpg
+  - image_path:
     image_title: Turbulent Sea
     image_description_markdown:
   - image_path: /uploads/dsc01889.JPG
@@ -118,17 +109,8 @@ images:
   - image_path: /uploads/dsc01898.JPG
     image_title: The Avgo
     image_description_markdown:
-  - image_path:
-    image_title: The soul of a Bird I
-    image_description_markdown:
   - image_path: /uploads/wave-i.jpg
     image_title: The Wave I
-    image_description_markdown:
-  - image_path:
-    image_title: The soul of a bird II
-    image_description_markdown:
-  - image_path:
-    image_title: The soul of a bird III
     image_description_markdown:
   - image_path: /uploads/wave-ii.jpg
     image_title: The Wave II
@@ -154,15 +136,6 @@ images:
   - image_path: /uploads/aegean-crossing.jpg
     image_title: Aegean crossing
     image_description_markdown:
-  - image_path:
-    image_title: Humid night I
-    image_description_markdown:
-  - image_path: /uploads/humid-night-iii.jpg
-    image_title: Humid Night III
-    image_description_markdown:
-  - image_path: /uploads/humid-night-iv.jpg
-    image_title: Humid Night IV
-    image_description_markdown:
   - image_path: /uploads/ritsos-i.jpg
     image_title: Ritsos I
     image_description_markdown:
@@ -171,9 +144,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/ritsos-iii.jpg
     image_title: Ritsos III
-    image_description_markdown:
-  - image_path: /uploads/closed-in-ii-jpg.jpg
-    image_title: Closed in
     image_description_markdown:
 _options:
   image_path:
