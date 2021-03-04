@@ -188,10 +188,10 @@ images:
   - image_path: /uploads/monsoon.jpg
     image_title: Krathong I
     image_description_markdown:
-  - image_path: /uploads/summer-cloud.jpg
+  - image_path:
     image_title: Summer cloud
     image_description_markdown:
-  - image_path: /uploads/pitharia-at-sea.jpg
+  - image_path:
     image_title: Submerged Pytharia
     image_description_markdown:
 _options:
