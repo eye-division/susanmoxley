@@ -38,7 +38,7 @@ images:
   - image_path: /uploads/grey-pitharia.jpg
     image_title: Grey Pitharia
     image_description_markdown:
-  - image_path: /uploads/pithari-in-red.jpg
+  - image_path:
     image_title: Pithari in Red
     image_description_markdown:
   - image_path: /uploads/from-within.jpg
@@ -116,16 +116,16 @@ images:
   - image_path: /uploads/shelters.jpg
     image_title: Shelter II
     image_description_markdown:
-  - image_path: /uploads/sheltered-pot.jpg
+  - image_path:
     image_title: Sheltered Pot
     image_description_markdown:
   - image_path: /uploads/krathong-ii-1.jpg
     image_title: Krathong II
     image_description_markdown:
-  - image_path: /uploads/solo-palm.jpg
+  - image_path:
     image_title: Solo Palm
     image_description_markdown:
-  - image_path: /uploads/grid.jpg
+  - image_path:
     image_title: Grid I
     image_description_markdown:
   - image_path:
