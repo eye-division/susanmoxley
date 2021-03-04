@@ -67,9 +67,6 @@ images:
   - image_path: /uploads/dsc01893.jpg
     image_title: Thalassa V
     image_description_markdown:
-  - image_path: /assets/images/54dcafab51f19.jpg
-    image_title: Amphora women
-    image_description_markdown:
   - image_path: /assets/images/56dc24052c244.jpg
     image_title: Aegean Journey
     image_description_markdown:
@@ -82,7 +79,7 @@ images:
   - image_path: /assets/images/56dc23d21e885.jpg
     image_title: Before the storm
     image_description_markdown:
-  - image_path: /uploads/turbulent-sea-i.jpg
+  - image_path:
     image_title: Turbulent Sea
     image_description_markdown:
   - image_path: /uploads/dsc01889.JPG
