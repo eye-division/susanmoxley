@@ -118,17 +118,8 @@ images:
   - image_path: /uploads/dsc01898.JPG
     image_title: The Avgo
     image_description_markdown:
-  - image_path:
-    image_title: The soul of a Bird I
-    image_description_markdown:
   - image_path: /uploads/wave-i.jpg
     image_title: The Wave I
-    image_description_markdown:
-  - image_path:
-    image_title: The soul of a bird II
-    image_description_markdown:
-  - image_path:
-    image_title: The soul of a bird III
     image_description_markdown:
   - image_path: /uploads/wave-ii.jpg
     image_title: The Wave II
@@ -153,12 +144,6 @@ images:
     image_description_markdown:
   - image_path: /uploads/aegean-crossing.jpg
     image_title: Aegean crossing
-    image_description_markdown:
-  - image_path: /uploads/humid-night-iii.jpg
-    image_title: Humid Night III
-    image_description_markdown:
-  - image_path: /uploads/humid-night-iv.jpg
-    image_title: Humid Night IV
     image_description_markdown:
   - image_path: /uploads/ritsos-i.jpg
     image_title: Ritsos I
