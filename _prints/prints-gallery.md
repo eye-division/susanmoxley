@@ -47,8 +47,8 @@ images:
   - image_path: /uploads/lakani-i.jpg
     image_title: Lekani II
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-v.jpg
-    image_title: Contained Virus
+  - image_path: /uploads/2-lakania.jpg
+    image_title: 2 Lekani
     image_description_markdown:
   - image_path: /uploads/doves.jpg
     image_title: whicg way is it going
