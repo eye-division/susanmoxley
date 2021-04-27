@@ -39,6 +39,9 @@ images:
   - image_path: /uploads/confined-iv-1.jpg
     image_title: Confined IV
     image_description_markdown:
+  - image_path: /uploads/confined-v.jpg
+    image_title: Confined V
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
