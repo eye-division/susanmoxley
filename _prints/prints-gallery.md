@@ -65,40 +65,40 @@ images:
   - image_path: /uploads/eternal-women.jpg
     image_title: Couple
     image_description_markdown:
-  - image_path: /uploads/confined-virus.jpg
-    image_title: Contained Virus II
+  - image_path: /uploads/red-pot-with-woman.jpg
+    image_title: Sepia
     image_description_markdown:
-  - image_path: /uploads/closed-in-ii-jpg-1.jpg
+  - image_path:
     image_title: Closed in I
     image_description_markdown:
-  - image_path: /uploads/closed-in-1.jpg
+  - image_path:
     image_title: Closed in II
     image_description_markdown:
-  - image_path: /uploads/closed-out.jpg
+  - image_path:
     image_title: Closed out
     image_description_markdown:
-  - image_path: /uploads/closed-in-iii.jpg
+  - image_path:
     image_title: Closed in (pink)
     image_description_markdown:
-  - image_path: /uploads/confined-vi.jpg
+  - image_path:
     image_title: Confined VI
     image_description_markdown:
-  - image_path: /uploads/confined-iv.jpg
+  - image_path:
     image_title: Confined IV
     image_description_markdown:
-  - image_path: /uploads/confined-ii.jpg
+  - image_path:
     image_title: Confined II
     image_description_markdown:
-  - image_path: /uploads/confined-iii.jpg
+  - image_path:
     image_title: Confined III
     image_description_markdown:
-  - image_path: /uploads/confoned-iii.jpg
+  - image_path:
     image_title: Confined V
     image_description_markdown:
-  - image_path: /uploads/ppe-i.jpg
+  - image_path:
     image_title: Look after your PPE
     image_description_markdown:
-  - image_path: /uploads/ppe.jpg
+  - image_path:
     image_title: Look after your PPE
     image_description_markdown:
   - image_path: /uploads/shelter-ii.jpg
