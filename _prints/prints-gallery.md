@@ -56,8 +56,8 @@ images:
   - image_path: /uploads/deap-pithari-ii.jpg
     image_title: Deep Pithari I
     image_description_markdown:
-  - image_path: /uploads/disquiet-balance.jpg
-    image_title: Disquiet Balance
+  - image_path: /uploads/deap-pythari.jpg
+    image_title: Deep pithari II
     image_description_markdown:
   - image_path: /uploads/uncontained-virus.jpg
     image_title: Uncontrolled I
