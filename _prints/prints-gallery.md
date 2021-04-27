@@ -53,8 +53,8 @@ images:
   - image_path: /uploads/doves.jpg
     image_title: whicg way is it going
     image_description_markdown:
-  - image_path: /uploads/above-below.jpg
-    image_title: Above Below
+  - image_path: /uploads/deap-pithari-ii.jpg
+    image_title: Deep Pithari I
     image_description_markdown:
   - image_path: /uploads/disquiet-balance.jpg
     image_title: Disquiet Balance
