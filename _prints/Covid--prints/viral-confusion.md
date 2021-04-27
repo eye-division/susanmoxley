@@ -78,6 +78,9 @@ images:
   - image_path: /uploads/weeping-landscape.jpg
     image_title: Weeping sky
     image_description_markdown:
+  - image_path: /uploads/into-the-depth.jpg
+    image_title: Into the depth
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
