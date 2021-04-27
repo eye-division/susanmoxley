@@ -54,6 +54,9 @@ images:
   - image_path: /uploads/look-after-your-ppe-ii.jpg
     image_title: Look after you PPE I
     image_description_markdown:
+  - image_path: /uploads/look-after-your-ppe.jpg
+    image_title: look after you PPE II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
