@@ -15,6 +15,9 @@ images:
   - image_path: /uploads/uncontained-virus-1.jpg
     image_title: Uncontrolled
     image_description_markdown:
+  - image_path: /uploads/uncontrolled-iii.jpg
+    image_title: Attempting to control
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
@@ -38,3 +41,4 @@ _comments:
   thumb_crop: Crop thumbnail images to a consistent size
   display_thumb_title: Show titles under thumbnails
 ---
+
