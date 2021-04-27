@@ -60,6 +60,9 @@ images:
   - image_path: /uploads/uncontained-virus-vi-1.jpg
     image_title: Uncontained Virus I
     image_description_markdown:
+  - image_path: /uploads/uncontained-virus-v-1.jpg
+    image_title: Uncontrolled Virus II
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
