@@ -81,6 +81,9 @@ images:
   - image_path: /uploads/into-the-depth.jpg
     image_title: Into the depth
     image_description_markdown:
+  - image_path: /uploads/rna-sky.jpg
+    image_title: RNA Sky
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
