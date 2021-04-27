@@ -51,6 +51,9 @@ images:
   - image_path: /uploads/closed-in-pink.jpg
     image_title: A Walk in Covid II
     image_description_markdown:
+  - image_path: /uploads/look-after-your-ppe-ii.jpg
+    image_title: Look after you PPE I
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
