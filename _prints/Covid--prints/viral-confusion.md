@@ -72,6 +72,9 @@ images:
   - image_path: /uploads/blurred-horizon.jpg
     image_title: Blurred horizon
     image_description_markdown:
+  - image_path: /uploads/jogging-in-poluted-air.jpg
+    image_title: Jogging in polluted air
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
