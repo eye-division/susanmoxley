@@ -59,8 +59,8 @@ images:
   - image_path: /uploads/deap-pythari.jpg
     image_title: Deep pithari II
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus.jpg
-    image_title: Uncontrolled I
+  - image_path: /uploads/pithari-and-woman.jpg
+    image_title: Uncontrolled IPithari and woman
     image_description_markdown:
   - image_path: /uploads/uncontained-virus-iii.jpg
     image_title: Uncontrolled II
