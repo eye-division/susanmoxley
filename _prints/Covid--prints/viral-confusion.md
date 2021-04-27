@@ -18,6 +18,9 @@ images:
   - image_path: /uploads/uncontrolled-iii.jpg
     image_title: Attempting to control
     image_description_markdown:
+  - image_path: /uploads/out-of-control.jpg
+    image_title: Out of control
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
