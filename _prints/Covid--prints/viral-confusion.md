@@ -46,7 +46,7 @@ images:
     image_title: A walk in Covid
     image_description_markdown:
   - image_path: /uploads/a-walk-in-covid-ii.jpg
-    image_title: A walk in Covid II
+    image_title: A walk in Covid III
     image_description_markdown:
 _options:
   image_path:
