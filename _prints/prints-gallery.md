@@ -38,8 +38,8 @@ images:
   - image_path: /uploads/from-within.jpg
     image_title: From within
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-vi.jpg
-    image_title: Contained Virus
+  - image_path: /uploads/lakani-ii.jpg
+    image_title: Lakani I
     image_description_markdown:
   - image_path: /uploads/solitary.jpg
     image_title: Solo
