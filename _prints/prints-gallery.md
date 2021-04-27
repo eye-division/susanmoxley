@@ -62,8 +62,8 @@ images:
   - image_path: /uploads/pithari-and-woman.jpg
     image_title: Uncontrolled IPithari and woman
     image_description_markdown:
-  - image_path: /uploads/uncontained-virus-iii.jpg
-    image_title: Uncontrolled II
+  - image_path: /uploads/eternal-women.jpg
+    image_title: Couple
     image_description_markdown:
   - image_path: /uploads/confined-virus.jpg
     image_title: Contained Virus II
