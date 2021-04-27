@@ -93,6 +93,9 @@ images:
   - image_path: /uploads/imperfect.jpg
     image_title: Imperfect
     image_description_markdown:
+  - image_path: /uploads/atlas.jpg
+    image_title: Atlas
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
