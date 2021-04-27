@@ -96,6 +96,9 @@ images:
   - image_path: /uploads/atlas.jpg
     image_title: Atlas
     image_description_markdown:
+  - image_path: /uploads/above-below-1.jpg
+    image_title: Above below
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
