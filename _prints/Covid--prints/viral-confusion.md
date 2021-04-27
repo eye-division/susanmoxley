@@ -24,6 +24,9 @@ images:
   - image_path: /uploads/quiet-energy.jpg
     image_title: Quiet energy
     image_description_markdown:
+  - image_path: /uploads/closed-in-i.jpg
+    image_title: Closed in I
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
