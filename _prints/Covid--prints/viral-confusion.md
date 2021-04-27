@@ -102,6 +102,9 @@ images:
   - image_path: /uploads/inside-out-1.jpg
     image_title: Inside out
     image_description_markdown:
+  - image_path: /uploads/growth-copy.jpg
+    image_title: Phoenika
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
