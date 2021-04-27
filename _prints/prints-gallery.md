@@ -44,8 +44,8 @@ images:
   - image_path: /uploads/solitary.jpg
     image_title: Solo
     image_description_markdown:
-  - image_path: /uploads/inside-out.jpg
-    image_title: Inside Out
+  - image_path: /uploads/lakani-i.jpg
+    image_title: Lekani II
     image_description_markdown:
   - image_path: /uploads/uncontained-virus-v.jpg
     image_title: Contained Virus
