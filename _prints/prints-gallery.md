@@ -1,8 +1,6 @@
 ---
 title: Gallery - prints
-description_markdown: >-
-  The Lockdown has inspired many new works.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  Above all maintaining balance
+description_markdown:
 homepage_description_markdown:
 frontpage: false
 _gallery_date: 2016-05-01 00:00:00
