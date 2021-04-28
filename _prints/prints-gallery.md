@@ -68,8 +68,8 @@ images:
   - image_path: /uploads/red-pot-with-woman.jpg
     image_title: Sepia
     image_description_markdown:
-  - image_path:
-    image_title: Closed in I
+  - image_path: /uploads/dirty-landscape.jpg
+    image_title: Sorocco
     image_description_markdown:
   - image_path:
     image_title: Closed in II
