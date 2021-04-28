@@ -71,8 +71,8 @@ images:
   - image_path: /uploads/dirty-landscape.jpg
     image_title: Sorocco
     image_description_markdown:
-  - image_path:
-    image_title: Closed in II
+  - image_path: /uploads/future-landscape.jpg
+    image_title: Future Landscape
     image_description_markdown:
   - image_path:
     image_title: Closed out
