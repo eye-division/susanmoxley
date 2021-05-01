@@ -1,5 +1,5 @@
 ---
-title: Viral confusion
+title: COVID  Prints
 description_markdown: >-
   The Lockdown has inspired me to make a body of work I would never have
   imagined. They are raw and honest.
