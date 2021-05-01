@@ -23,7 +23,7 @@ description_markdown: >-
 homepage_description_markdown:
 frontpage: true
 _gallery_date:
-permalink: /prints/COVID- Prints/
+permalink: /prints/COVID/
 archive: false
 main_image_path: /uploads/uncontrolled-ii.jpeg
 display_title: true
