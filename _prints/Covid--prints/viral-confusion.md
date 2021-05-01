@@ -16,7 +16,7 @@ permalink:
 archive: false
 main_image_path: /uploads/uncontrolled-ii.jpeg
 display_title: true
-display_image: false
+display_image: true
 display_thumb_title: true
 thumb_crop: true
 images:
