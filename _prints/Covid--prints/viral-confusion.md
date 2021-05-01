@@ -20,7 +20,26 @@ description_markdown: >-
 
 
   &nbsp;
-homepage_description_markdown:
+homepage_description_markdown: >-
+  These Monoprints are inspired by Covid over the last year since the start of
+  the Pandemic.In Greek, the word for 'inspire' is made up of 2 words: 'take in'
+  and 'spirit/ breath/ feeling'
+
+
+  During covid, I felt scared, confused and angry so I began with some scared,
+  confused and angry marks on paper. I felt even more confused when I had done
+  them, but there was something in those marks that was talking to me and
+  connecting to the feelings that had 'inspired' me.The marks were relating to
+  the round spikey Corona virus shape, and so began a conversation with the
+  work. I added to the shapes, then I noticed that the shapes seemed to be
+  floating about, I added colour to give them space and more movement, I turned
+  the paper upside down I cut it up and rearranged the pieces, sometimes making
+  the picture balanced and then unbalancing it. Always holding onto the feeling
+  that had inspired me.When I finished the piece, I realised it was looking
+  confused, scared and angry.I had given those feelings form and shape on paper.
+
+
+  &nbsp;
 frontpage: true
 _gallery_date:
 permalink:
