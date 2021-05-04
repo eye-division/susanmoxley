@@ -124,6 +124,9 @@ images:
   - image_path: /uploads/growth-copy.jpg
     image_title: Phoenika
     image_description_markdown:
+  - image_path: /uploads/a-walk-in-covid-i.jpg
+    image_title: A walk in Covid I
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
