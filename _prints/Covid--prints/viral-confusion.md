@@ -133,6 +133,9 @@ images:
   - image_path: /uploads/sorocco.jpg
     image_title: Sorocco
     image_description_markdown:
+  - image_path: /uploads/after-sorocco.jpg
+    image_title: After Sorocco
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
