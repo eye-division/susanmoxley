@@ -124,6 +124,18 @@ images:
   - image_path: /uploads/growth-copy.jpg
     image_title: Phoenika
     image_description_markdown:
+  - image_path: /uploads/a-walk-in-covid-i.jpg
+    image_title: A walk in Covid I
+    image_description_markdown:
+  - image_path: /uploads/a-walk-in-covid-iijpg-copy.jpg
+    image_title: A walk in Covid II
+    image_description_markdown:
+  - image_path: /uploads/sorocco.jpg
+    image_title: Sorocco
+    image_description_markdown:
+  - image_path: /uploads/after-sorocco.jpg
+    image_title: After Sorocco
+    image_description_markdown:
 _options:
   image_path:
     width: 1200
