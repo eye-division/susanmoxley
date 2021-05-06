@@ -49,7 +49,7 @@ images:
     image_title: 2 Lekani
     image_description_markdown:
   - image_path: /uploads/doves.jpg
-    image_title: whicg way is it going
+    image_title: East to West
     image_description_markdown:
   - image_path: /uploads/deap-pithari-ii.jpg
     image_title: Deep Pithari I
