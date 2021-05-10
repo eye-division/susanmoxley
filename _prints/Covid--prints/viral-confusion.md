@@ -31,7 +31,7 @@ display_image: false
 display_thumb_title: true
 thumb_crop: true
 images:
-  - image_path: /uploads/uncontained-virus-1.jpg
+  - image_path: /uploads/uncontained-virus-2.jpg
     image_title: Uncontrolled
     image_description_markdown:
   - image_path: /uploads/uncontrolled-iii.jpg
@@ -139,8 +139,8 @@ images:
   - image_path: /uploads/eclyps.jpg
     image_title: Eclypse
     image_description_markdown:
-  - image_path:
-    image_title:
+  - image_path: /uploads/uncontrolled-ii.jpg
+    image_title: Viral confusion
     image_description_markdown:
 _options:
   image_path:
