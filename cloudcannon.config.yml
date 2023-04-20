@@ -21,12 +21,15 @@ collections_config:
   gallery:
     output: true
     path: _gallery
+    uploads: uploads
   prints:
     output: true
     path: _prints
+    uploads: uploads
   stained_glass:
     output: true
     path: _stained_glass
+    uploads: uploads
   drafts:
     path: _drafts
     output: true
