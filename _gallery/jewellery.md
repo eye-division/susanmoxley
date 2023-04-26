@@ -168,9 +168,6 @@ images:
   - image_path: /uploads/studs-9c-gold-shield--spiral-shape.jpg
     image_title: 9 Carat gold shield stud and spiral stud
     image_description_markdown:
-  - image_path: /uploads/motivational-11.jpg
-    image_title: ''
-    image_description_markdown: ''
 _inputs:
   image_path:
     type: file
