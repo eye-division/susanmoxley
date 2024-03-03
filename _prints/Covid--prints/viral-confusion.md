@@ -98,31 +98,31 @@ images:
     image_description_markdown:
   - image_path: /uploads/atlas.jpg
     image_title: Atlas
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path: /uploads/above-below-1.jpg
     image_title: Above below
     image_description_markdown:
-  - image_path: /uploads/inside-out-1.jpg
+  - image_path: ''
     image_title: Inside out
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path: /uploads/growth-copy.jpg
     image_title: Phoenika
     image_description_markdown:
-  - image_path: /uploads/a-walk-in-covid-i.jpg
+  - image_path: ''
     image_title: A walk in Covid I
-    image_description_markdown:
-  - image_path: /uploads/a-walk-in-covid-iijpg-copy.jpg
+    image_description_markdown: ''
+  - image_path: ''
     image_title: A walk in Covid II
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path: /uploads/sorocco.jpg
     image_title: Sorocco
     image_description_markdown:
   - image_path: /uploads/after-sorocco.jpg
     image_title: After Sorocco
     image_description_markdown:
-  - image_path: /uploads/eclyps.jpg
+  - image_path: ''
     image_title: Eclypse
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path:
     image_title:
     image_description_markdown:
