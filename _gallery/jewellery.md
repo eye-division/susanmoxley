@@ -7,7 +7,7 @@ description_markdown: >-
   carefully selects and matches. The silver is beaten and fold- formed to create
   unique pieces of jewellery that speak with the same voice as her two
   dimensional work.
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 page_order_number: 4
 _gallery_date: 2016-05-01 00:00:00
@@ -168,12 +168,19 @@ images:
   - image_path: /uploads/studs-9c-gold-shield--spiral-shape.jpg
     image_title: 9 Carat gold shield stud and spiral stud
     image_description_markdown:
-_options:
+_inputs:
   image_path:
-    width: 1200
-    height: 1200
-    resize_style: contain
-    mime_type: image/jpeg
+    type: file
+    options:
+      uploads_dir: uploads
+      accepts_mime_types:
+        - image/png
+        - image/jpeg
+      width: 1200
+      height: 1200
+      resize_style: contain
+      mime_type: image/jpeg
+_options:
   main_image_path:
     width: 1200
     height: 800
@@ -191,4 +198,3 @@ _comments:
   thumb_crop: Crop thumbnail images to a consistent size
   display_thumb_title: Show titles under thumbnails
 ---
-

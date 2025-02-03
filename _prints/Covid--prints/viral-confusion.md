@@ -1,26 +1,7 @@
 ---
 title: COVID  Prints
-description_markdown: >-
-  These Monoprints are inspired by Covid over the last year since the start of
-  the Pandemic.In Greek, the word for 'inspire' is made up of 2 words: 'take in'
-  and 'spirit/ breath/ feeling'
-
-
-  During covid, I felt scared, confused and angry so I began with some scared,
-  confused and angry marks on paper. I felt even more confused when I had done
-  them, but there was something in those marks that was talking to me and
-  connecting to the feelings that had 'inspired' me.The marks were relating to
-  the round spikey Corona virus shape, and so began a conversation with the
-  work. I added to the shapes, then I noticed that the shapes seemed to be
-  floating about, I added colour to give them space and more movement, I turned
-  the paper upside down I cut it up and rearranged the pieces, sometimes making
-  the picture balanced and then unbalancing it. Always holding onto the feeling
-  that had inspired me.When I finished the piece, I realised it was looking
-  confused, scared and angry.I had given those feelings form and shape on paper.
-
-
-  &nbsp;
-homepage_description_markdown:
+description_markdown: These Monoprints are inspired and made during the Covid Pandemic
+homepage_description_markdown: ''
 frontpage: true
 _gallery_date:
 permalink: /prints/COVID/
@@ -106,9 +87,9 @@ images:
   - image_path: /uploads/rna-sky.jpg
     image_title: RNA Sky
     image_description_markdown:
-  - image_path: /uploads/solid-air.jpg
+  - image_path: ''
     image_title: Solid Wet
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path: /uploads/split-landscape.jpg
     image_title: Split
     image_description_markdown:
@@ -117,31 +98,31 @@ images:
     image_description_markdown:
   - image_path: /uploads/atlas.jpg
     image_title: Atlas
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path: /uploads/above-below-1.jpg
     image_title: Above below
     image_description_markdown:
-  - image_path: /uploads/inside-out-1.jpg
+  - image_path: ''
     image_title: Inside out
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path: /uploads/growth-copy.jpg
     image_title: Phoenika
     image_description_markdown:
-  - image_path: /uploads/a-walk-in-covid-i.jpg
+  - image_path: ''
     image_title: A walk in Covid I
-    image_description_markdown:
-  - image_path: /uploads/a-walk-in-covid-iijpg-copy.jpg
+    image_description_markdown: ''
+  - image_path: ''
     image_title: A walk in Covid II
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path: /uploads/sorocco.jpg
     image_title: Sorocco
     image_description_markdown:
   - image_path: /uploads/after-sorocco.jpg
     image_title: After Sorocco
     image_description_markdown:
-  - image_path: /uploads/eclyps.jpg
+  - image_path: ''
     image_title: Eclypse
-    image_description_markdown:
+    image_description_markdown: ''
   - image_path:
     image_title:
     image_description_markdown:
@@ -168,4 +149,3 @@ _comments:
   thumb_crop: Crop thumbnail images to a consistent size
   display_thumb_title: Show titles under thumbnails
 ---
-
