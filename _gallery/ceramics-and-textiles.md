@@ -48,11 +48,17 @@ images:
   - image_path: /uploads/woman-water-carrier-in-red.jpg
     image_title: Water carrier
     image_description_markdown: ''
+  - image_path: /uploads/balanced.jpg
+    image_title: Balanced I
+    image_description_markdown: ''
   - image_path: /uploads/violin-case-in-red-1.jpg
     image_title: Stitched Violin Case
     image_description_markdown: ''
-  - image_path: /uploads/balanced.jpg
-    image_title: Balanced I
+  - image_path: /uploads/minoan-bird.jpg
+    image_title: Woman with Minoan bird
+    image_description_markdown: ''
+  - image_path: /uploads/woman-with-spindle.jpg
+    image_title: Woman with spindle
     image_description_markdown: ''
 _options:
   image_path:
