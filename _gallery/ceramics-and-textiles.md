@@ -13,6 +13,10 @@ description_markdown: >-
   earlier use.
 
 
+  When I found a violin case I began a series of ceramic sculptures of Violin
+  women and women baring their weight of their labours.
+
+
   I am represented by [Jenny Blyth Art](jennyblythaer@gmail.com)at [Collect Art
   Fair](craftcouncil.org.uk/collect-fair) at Somerset House, London
 homepage_description_markdown: Textiles and Ceramics
@@ -44,8 +48,8 @@ images:
   - image_path: /uploads/woman-water-carrier-in-red.jpg
     image_title: Water carrier
     image_description_markdown: ''
-  - image_path: ''
-    image_title: ''
+  - image_path: /uploads/violin-case-in-red.jpg
+    image_title: Stitched Violin Case
     image_description_markdown: ''
 _options:
   image_path:
