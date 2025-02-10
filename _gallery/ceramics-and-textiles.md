@@ -35,6 +35,18 @@ images:
   - image_path: /uploads/the-harbour.jpg
     image_title: The Harbour
     image_description_markdown: ''
+  - image_path: /uploads/the-stairway.jpg
+    image_title: The Stairway
+    image_description_markdown: ''
+  - image_path: /uploads/water-woman-ii.jpg
+    image_title: Waterwoman I
+    image_description_markdown: ''
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
+  - image_path: ''
+    image_title: ''
+    image_description_markdown: ''
 _options:
   image_path:
     width: 1200
