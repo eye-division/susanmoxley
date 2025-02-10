@@ -11,6 +11,9 @@ description_markdown: >-
   Each is a Palimpsest- altered, superimposed, re-connectorized, they carry the
   old narratives into the present, while they still bearing traces of their
   earlier use.
+
+
+  I am represented by [Jenny Blyth Fine Art]()
 homepage_description_markdown: ''
 frontpage: true
 _gallery_date:
