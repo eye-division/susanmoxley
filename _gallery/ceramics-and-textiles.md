@@ -30,7 +30,7 @@ images:
     image_title: Before the journey
     image_description_markdown: ''
   - image_path: /uploads/the-flight.jpg
-    image_title: Thge Flight
+    image_title: The Flight
     image_description_markdown: ''
   - image_path: /uploads/the-harbour.jpg
     image_title: The Harbour
@@ -41,8 +41,8 @@ images:
   - image_path: /uploads/water-woman-ii.jpg
     image_title: Waterwoman I
     image_description_markdown: ''
-  - image_path: ''
-    image_title: ''
+  - image_path: /uploads/woman-water-carrier-in-red.jpg
+    image_title: Water carrier
     image_description_markdown: ''
   - image_path: ''
     image_title: ''
