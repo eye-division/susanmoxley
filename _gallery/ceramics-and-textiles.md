@@ -29,6 +29,9 @@ images:
   - image_path: /uploads/october.jpg
     image_title: Before the journey
     image_description_markdown: ''
+  - image_path: /uploads/the-flight.jpg
+    image_title: Thge Flight
+    image_description_markdown: ''
 _options:
   image_path:
     width: 1200
