@@ -63,8 +63,11 @@ images:
   - image_path: /uploads/woman-with-spindle-1.jpg
     image_title: woman with spindle
     image_description_markdown: ''
-  - image_path: ''
-    image_title: ''
+  - image_path: /uploads/woman-with-sticks.jpg
+    image_title: Woman with sticks
+    image_description_markdown: ''
+  - image_path: /uploads/woman-with-white-bird.jpg
+    image_title: Woman with White bird
     image_description_markdown: ''
 _options:
   image_path:
