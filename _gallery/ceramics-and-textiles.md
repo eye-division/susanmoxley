@@ -57,8 +57,14 @@ images:
   - image_path: /uploads/minoan-bird.jpg
     image_title: Woman with Minoan bird
     image_description_markdown: ''
-  - image_path: /uploads/woman-with-spindle.jpg
-    image_title: Woman with spindle
+  - image_path: /uploads/woman-with-folded-fabric.jpg
+    image_title: woman with folded fabric
+    image_description_markdown: ''
+  - image_path: /uploads/woman-with-spindle-1.jpg
+    image_title: woman with spindle
+    image_description_markdown: ''
+  - image_path: ''
+    image_title: ''
     image_description_markdown: ''
 _options:
   image_path:
