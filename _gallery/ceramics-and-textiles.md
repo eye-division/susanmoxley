@@ -1,5 +1,5 @@
 ---
-title: 'Ceramics and textiles '
+title: 'Ceramics and textiles'
 description_markdown: >-
   ‘For many years I have collected stories, and island myths from the women on
   an island village in Greece.I have  found and gathered old, discarded, hand

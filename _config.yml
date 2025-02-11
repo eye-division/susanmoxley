@@ -167,8 +167,8 @@ social:
 
   - name: Instagram
     icon: icon-instagram
-    username:
-    url:
+    username: 'susanmoxley'
+    url: https://www.instagram.com/susanmoxley/
     desc: Follow me on Instagram
     share: false
 
