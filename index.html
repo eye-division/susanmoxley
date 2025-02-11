@@ -48,7 +48,8 @@ _comments:
     {% assign sectionone = site.pages | where: 'title', 'Prints' %}
     {% assign sectiontwo = site.gallery | where: 'title', 'Painting' %} <!-- painting -->
     {% assign sectionthree = site.pages | where: 'title', 'Stained glass' %}
-    {% assign sectionfour = site.gallery | where: 'title', 'Jewellery' %} <!-- jewellery -->
+    {% assign sectionfour = site.gallery | where: 'title', 'Jewellery' %}
+    {% assign sectionfive = site.gallery | where: 'title', 'Ceramics and textiles' %}<!-- jewellery -->
 
     {% comment %}
 
@@ -84,7 +85,28 @@ _comments:
     {% endcomment %}
 
     <!-- Prints | Paintings | Stained glass | Jewellery -->
+
     <section class="gallery--list gallery--home">
+
+          <!-- Stained glass -->
+    {% for gallery in sectionfive %}
+      <div class="gallery--box">
+        <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
+          {% if page.thumb_crop %}
+            <!-- cropped square images -->
+            {% include img.html src=gallery.main_image_path width=260 height=260 fit=crop alt=gallery.title %}
+            <!-- end cropped square, was 'width=1210 max-h=400 fit=clip' -->
+          {% else %}
+            <!-- full format images -->
+            {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+            <!-- end format images -->
+          {% endif %}
+        {% if page.display_thumb_title %}
+            <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+          {% endif %}
+        </a>
+      </div>
+  {% endfor %}
 
       {% for section in sectionone %}
 
@@ -93,7 +115,7 @@ _comments:
           <a href="{{ section.url | prepend: site.baseurl }}" title="{{ section.title }}" class="gallery--link gallery--title">
             {% if section.thumb_crop %}
               <!-- cropped square images -->
-              {% include img.html src=section.main_image_path width=210 height=210 fit=crop alt=section.title %}
+              {% include img.html src=section.main_image_path width=260 height=260 fit=crop alt=section.title %}
               <!-- end cropped square, was 'width=1210 max-h=400 fit=clip' -->
             {% else %}
               <!-- full format images -->
@@ -114,7 +136,7 @@ _comments:
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
             {% if page.thumb_crop %}
               <!-- cropped square images -->
-              {% include img.html src=gallery.main_image_path width=210 height=210 fit=crop alt=gallery.title %}
+              {% include img.html src=gallery.main_image_path width=260 height=260 fit=crop alt=gallery.title %}
               <!-- end cropped square, was 'width=1210 max-h=400 fit=clip' -->
             {% else %}
               <!-- full format images -->
@@ -136,7 +158,7 @@ _comments:
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
             {% if page.thumb_crop %}
               <!-- cropped square images -->
-              {% include img.html src=gallery.main_image_path width=210 height=210 fit=crop alt=gallery.title %}
+              {% include img.html src=gallery.main_image_path width=260 height=260 fit=crop alt=gallery.title %}
               <!-- end cropped square, was 'width=1210 max-h=400 fit=clip' -->
             {% else %}
               <!-- full format images -->
@@ -157,7 +179,7 @@ _comments:
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="gallery--link gallery--title">
             {% if page.thumb_crop %}
               <!-- cropped square images -->
-              {% include img.html src=gallery.main_image_path width=210 height=210 fit=crop alt=gallery.title %}
+              {% include img.html src=gallery.main_image_path width=260 height=260 fit=crop alt=gallery.title %}
               <!-- end cropped square, was 'width=1210 max-h=400 fit=clip' -->
             {% else %}
               <!-- full format images -->
